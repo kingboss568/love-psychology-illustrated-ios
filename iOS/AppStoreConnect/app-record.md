@@ -34,6 +34,14 @@ App Review detail: created by ASC API on 2026-06-29.
 - Demo account required: false
 - Notes: free download with 20 free diagrams; Pro unlocks 200 diagrams and 100 tools; educational/self-reflection content, not diagnosis or therapy.
 
+Existing build:
+
+- Build ID: `9334dab6-af8a-41ad-8396-959d7bb6b621`
+- Pre-release version: `1.0.0`, build version `1`
+- State: `VALID`, `APP_STORE_ELIGIBLE`
+- Export compliance: `usesNonExemptEncryption=false`
+- Not selected into App Store version `1.0`; do not treat as final unless Xcode Cloud provenance is confirmed or the user explicitly allows non-Cloud build selection.
+
 Pro IAP:
 
 - ID: `6785268820`
@@ -44,4 +52,4 @@ Pro IAP:
 - State: `READY_TO_SUBMIT`
 - Review screenshot: uploaded and processed complete
 
-Required next gate: complete App Privacy data-collection publication in ASC UI, configure Xcode Cloud archive workflow, run Cloud build, attach the resulting build and IAP to the version submission, then submit.
+Required next gate: complete App Privacy data-collection publication in ASC UI, configure Xcode Cloud archive workflow, run Cloud build, attach the resulting Cloud build and IAP to the version submission, then submit.

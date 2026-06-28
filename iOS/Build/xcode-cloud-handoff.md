@@ -25,6 +25,7 @@ ASC status on 2026-06-29:
 - Age rating declaration is completed.
 - App Review detail is created.
 - Pro IAP `6785268820` is `READY_TO_SUBMIT`.
+- Existing ASC build `9334dab6-af8a-41ad-8396-959d7bb6b621` is `VALID`, `APP_STORE_ELIGIBLE`, and `usesNonExemptEncryption=false`, but it is not selected into version `1.0` and is not accepted as final because no Xcode Cloud product/run is associated with this App.
 - App Privacy data collection is still not published; the public Connect API does not support creating the `DATA_NOT_COLLECTED` record, and the Iris endpoint requires authenticated browser cookies.
 - App Store Connect API rejected `POST /v1/ciProducts` with: resource `ciProducts` does not allow `CREATE`; allowed operations are `DELETE`, `GET_COLLECTION`, `GET_INSTANCE`.
 

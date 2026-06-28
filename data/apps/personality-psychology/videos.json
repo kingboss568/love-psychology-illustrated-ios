@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "personality-psychology-v01",
+    "appSlug": "personality-psychology",
+    "order": 1,
+    "accessLevel": "free",
+    "title": "同一句話四種人格怎麼聽",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「同一句話四種人格怎麼聽」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "同一句話四種人格怎麼聽，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「同一句話四種人格怎麼聽」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "同一句話四種人格怎麼聽？",
+        "voiceover": "遇到「同一句話四種人格怎麼聽」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜同一句話四種人格怎麼聽",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同一句話四種人格怎麼聽」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「同一句話四種人格怎麼聽」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同一句話四種人格怎麼聽” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「同一句話四種人格怎麼聽」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 communication-bridge 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "同一特質在不同情境可能是優點也可能成為負擔。 建立可調整的合作方式，比猜人格類型更實用。",
+        "subtitle": "同一特質在不同情境可能是優點也可能成為負擔。｜建立可調整的合作方式，比猜人格類型更實用。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同一句話四種人格怎麼聽」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 communication-bridge 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同一句話四種人格怎麼聽” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 communication-bridge 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "免費查看完整圖解",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同一句話四種人格怎麼聽」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同一句話四種人格怎麼聽” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「同一句話四種人格怎麼聽」，先別急著用一個表面現象下結論。 同一特質在不同情境可能是優點也可能成為負擔。 建立可調整的合作方式，比猜人格類型更實用。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "同一句話四種人格怎麼聽：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "打開 App 查看完整圖解",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_01_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_01_s1",
+        "personality_psychology_video_01_s2",
+        "personality_psychology_video_01_s3"
+      ],
+      "finalVideo": "personality_psychology_video_01.mp4",
+      "captions": "personality_psychology_video_01.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d004",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v02",
+    "appSlug": "personality-psychology",
+    "order": 2,
+    "accessLevel": "free",
+    "title": "吵架時誰會沉默",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「吵架時誰會沉默」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "吵架時誰會沉默，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「吵架時誰會沉默」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "吵架時誰會沉默？",
+        "voiceover": "遇到「吵架時誰會沉默」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜吵架時誰會沉默",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「吵架時誰會沉默」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：stress-shift。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「吵架時誰會沉默」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “吵架時誰會沉默” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: stress-shift. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「吵架時誰會沉默」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 stress-shift 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 stress-shift 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先問對方需要資訊、時間、空間或支持。 同一特質在不同情境可能是優點也可能成為負擔。",
+        "subtitle": "先問對方需要資訊、時間、空間或支持。｜同一特質在不同情境可能是優點也可能成為負擔。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「吵架時誰會沉默」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：stress-shift。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 stress-shift 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “吵架時誰會沉默” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: stress-shift. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 stress-shift 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 stress-shift 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "免費查看完整圖解",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「吵架時誰會沉默」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：stress-shift。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “吵架時誰會沉默” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: stress-shift. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 stress-shift 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「吵架時誰會沉默」，先別急著用一個表面現象下結論。 先問對方需要資訊、時間、空間或支持。 同一特質在不同情境可能是優點也可能成為負擔。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "吵架時誰會沉默：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "打開 App 查看完整圖解",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_02_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_02_s1",
+        "personality_psychology_video_02_s2",
+        "personality_psychology_video_02_s3"
+      ],
+      "finalVideo": "personality_psychology_video_02.mp4",
+      "captions": "personality_psychology_video_02.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d003",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v03",
+    "appSlug": "personality-psychology",
+    "order": 3,
+    "accessLevel": "free",
+    "title": "控制型不是只想控制",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「控制型不是只想控制」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "控制型不是只想控制，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「控制型不是只想控制」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "控制型不是只想控制？",
+        "voiceover": "遇到「控制型不是只想控制」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜控制型不是只想控制",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「控制型不是只想控制」，所屬章節「壓力反應」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：preference-spectrum。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「控制型不是只想控制」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “控制型不是只想控制” in the module “壓力反應”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: preference-spectrum. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「控制型不是只想控制」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 preference-spectrum 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 preference-spectrum 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "平常偏好與壓力反應可能不同。 先問對方需要資訊、時間、空間或支持。",
+        "subtitle": "平常偏好與壓力反應可能不同。｜先問對方需要資訊、時間、空間或支持。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「控制型不是只想控制」，所屬章節「壓力反應」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：preference-spectrum。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 preference-spectrum 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “控制型不是只想控制” in the module “壓力反應”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: preference-spectrum. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 preference-spectrum 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 preference-spectrum 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "免費查看完整圖解",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「控制型不是只想控制」，所屬章節「壓力反應」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：preference-spectrum。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “控制型不是只想控制” in the module “壓力反應”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: preference-spectrum. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 preference-spectrum 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「控制型不是只想控制」，先別急著用一個表面現象下結論。 平常偏好與壓力反應可能不同。 先問對方需要資訊、時間、空間或支持。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "控制型不是只想控制：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "打開 App 查看完整圖解",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_03_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_03_s1",
+        "personality_psychology_video_03_s2",
+        "personality_psychology_video_03_s3"
+      ],
+      "finalVideo": "personality_psychology_video_03.mp4",
+      "captions": "personality_psychology_video_03.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d077",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v04",
+    "appSlug": "personality-psychology",
+    "order": 4,
+    "accessLevel": "pro",
+    "title": "高敏感退縮原因",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「高敏感退縮原因」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "高敏感退縮原因，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「高敏感退縮原因」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "高敏感退縮原因？",
+        "voiceover": "遇到「高敏感退縮原因」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜高敏感退縮原因",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「高敏感退縮原因」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「高敏感退縮原因」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “高敏感退縮原因” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「高敏感退縮原因」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 scenario-paths 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。",
+        "subtitle": "描述可觀察行為，不把人定型。｜平常偏好與壓力反應可能不同。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「高敏感退縮原因」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 scenario-paths 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “高敏感退縮原因” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 scenario-paths 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「高敏感退縮原因」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “高敏感退縮原因” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「高敏感退縮原因」，先別急著用一個表面現象下結論。 描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "高敏感退縮原因：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_04_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_04_s1",
+        "personality_psychology_video_04_s2",
+        "personality_psychology_video_04_s3"
+      ],
+      "finalVideo": "personality_psychology_video_04.mp4",
+      "captions": "personality_psychology_video_04.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d001",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v05",
+    "appSlug": "personality-psychology",
+    "order": 5,
+    "accessLevel": "pro",
+    "title": "理性型的情緒盲點",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「理性型的情緒盲點」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "理性型的情緒盲點，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「理性型的情緒盲點」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "理性型的情緒盲點？",
+        "voiceover": "遇到「理性型的情緒盲點」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜理性型的情緒盲點",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「理性型的情緒盲點」，所屬章節「衝突風格」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「理性型的情緒盲點」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “理性型的情緒盲點” in the module “衝突風格”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「理性型的情緒盲點」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 scenario-paths 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。",
+        "subtitle": "描述可觀察行為，不把人定型。｜平常偏好與壓力反應可能不同。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「理性型的情緒盲點」，所屬章節「衝突風格」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 scenario-paths 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “理性型的情緒盲點” in the module “衝突風格”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 scenario-paths 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「理性型的情緒盲點」，所屬章節「衝突風格」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “理性型的情緒盲點” in the module “衝突風格”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「理性型的情緒盲點」，先別急著用一個表面現象下結論。 描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "理性型的情緒盲點：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_05_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_05_s1",
+        "personality_psychology_video_05_s2",
+        "personality_psychology_video_05_s3"
+      ],
+      "finalVideo": "personality_psychology_video_05.mp4",
+      "captions": "personality_psychology_video_05.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d051",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v06",
+    "appSlug": "personality-psychology",
+    "order": 6,
+    "accessLevel": "pro",
+    "title": "討好型界線",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「討好型界線」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "討好型界線，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「討好型界線」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "討好型界線？",
+        "voiceover": "遇到「討好型界線」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜討好型界線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「討好型界線」，所屬章節「衝突風格」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：stress-shift。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「討好型界線」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “討好型界線” in the module “衝突風格”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: stress-shift. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「討好型界線」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 stress-shift 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 stress-shift 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先問對方需要資訊、時間、空間或支持。 同一特質在不同情境可能是優點也可能成為負擔。",
+        "subtitle": "先問對方需要資訊、時間、空間或支持。｜同一特質在不同情境可能是優點也可能成為負擔。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「討好型界線」，所屬章節「衝突風格」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：stress-shift。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 stress-shift 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “討好型界線” in the module “衝突風格”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: stress-shift. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 stress-shift 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 stress-shift 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「討好型界線」，所屬章節「衝突風格」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：stress-shift。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “討好型界線” in the module “衝突風格”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: stress-shift. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 stress-shift 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「討好型界線」，先別急著用一個表面現象下結論。 先問對方需要資訊、時間、空間或支持。 同一特質在不同情境可能是優點也可能成為負擔。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "討好型界線：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_06_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_06_s1",
+        "personality_psychology_video_06_s2",
+        "personality_psychology_video_06_s3"
+      ],
+      "finalVideo": "personality_psychology_video_06.mp4",
+      "captions": "personality_psychology_video_06.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d053",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v07",
+    "appSlug": "personality-psychology",
+    "order": 7,
+    "accessLevel": "pro",
+    "title": "完美主義壓力圖",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「完美主義壓力圖」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "完美主義壓力圖，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「完美主義壓力圖」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "完美主義壓力圖？",
+        "voiceover": "遇到「完美主義壓力圖」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜完美主義壓力圖",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「完美主義壓力圖」，所屬章節「壓力反應」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「完美主義壓力圖」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “完美主義壓力圖” in the module “壓力反應”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「完美主義壓力圖」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 scenario-paths 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。",
+        "subtitle": "描述可觀察行為，不把人定型。｜平常偏好與壓力反應可能不同。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「完美主義壓力圖」，所屬章節「壓力反應」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 scenario-paths 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “完美主義壓力圖” in the module “壓力反應”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 scenario-paths 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「完美主義壓力圖」，所屬章節「壓力反應」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “完美主義壓力圖” in the module “壓力反應”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「完美主義壓力圖」，先別急著用一個表面現象下結論。 描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "完美主義壓力圖：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_07_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_07_s1",
+        "personality_psychology_video_07_s2",
+        "personality_psychology_video_07_s3"
+      ],
+      "finalVideo": "personality_psychology_video_07.mp4",
+      "captions": "personality_psychology_video_07.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d086",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v08",
+    "appSlug": "personality-psychology",
+    "order": 8,
+    "accessLevel": "pro",
+    "title": "冒險型與穩定型衝突",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「冒險型與穩定型衝突」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "冒險型與穩定型衝突，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「冒險型與穩定型衝突」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "冒險型與穩定型衝突？",
+        "voiceover": "遇到「冒險型與穩定型衝突」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜冒險型與穩定型衝突",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「冒險型與穩定型衝突」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：misunderstanding-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「冒險型與穩定型衝突」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “冒險型與穩定型衝突” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: misunderstanding-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「冒險型與穩定型衝突」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 misunderstanding-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 misunderstanding-map 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "建立可調整的合作方式，比猜人格類型更實用。 描述可觀察行為，不把人定型。",
+        "subtitle": "建立可調整的合作方式，比猜人格類型更實用。｜描述可觀察行為，不把人定型。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「冒險型與穩定型衝突」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：misunderstanding-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 misunderstanding-map 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “冒險型與穩定型衝突” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: misunderstanding-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 misunderstanding-map 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 misunderstanding-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「冒險型與穩定型衝突」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：misunderstanding-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “冒險型與穩定型衝突” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: misunderstanding-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 misunderstanding-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「冒險型與穩定型衝突」，先別急著用一個表面現象下結論。 建立可調整的合作方式，比猜人格類型更實用。 描述可觀察行為，不把人定型。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "冒險型與穩定型衝突：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_08_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_08_s1",
+        "personality_psychology_video_08_s2",
+        "personality_psychology_video_08_s3"
+      ],
+      "finalVideo": "personality_psychology_video_08.mp4",
+      "captions": "personality_psychology_video_08.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d005",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v09",
+    "appSlug": "personality-psychology",
+    "order": 9,
+    "accessLevel": "pro",
+    "title": "外向者也需要安全感",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「外向者也需要安全感」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "外向者也需要安全感，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「外向者也需要安全感」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "外向者也需要安全感？",
+        "voiceover": "遇到「外向者也需要安全感」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜外向者也需要安全感",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「外向者也需要安全感」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：preference-spectrum。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「外向者也需要安全感」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “外向者也需要安全感” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: preference-spectrum. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「外向者也需要安全感」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 preference-spectrum 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 preference-spectrum 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "平常偏好與壓力反應可能不同。 先問對方需要資訊、時間、空間或支持。",
+        "subtitle": "平常偏好與壓力反應可能不同。｜先問對方需要資訊、時間、空間或支持。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「外向者也需要安全感」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：preference-spectrum。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 preference-spectrum 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “外向者也需要安全感” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: preference-spectrum. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 preference-spectrum 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 preference-spectrum 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「外向者也需要安全感」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：preference-spectrum。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “外向者也需要安全感” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: preference-spectrum. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 preference-spectrum 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「外向者也需要安全感」，先別急著用一個表面現象下結論。 平常偏好與壓力反應可能不同。 先問對方需要資訊、時間、空間或支持。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "外向者也需要安全感：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_09_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_09_s1",
+        "personality_psychology_video_09_s2",
+        "personality_psychology_video_09_s3"
+      ],
+      "finalVideo": "personality_psychology_video_09.mp4",
+      "captions": "personality_psychology_video_09.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d007",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v10",
+    "appSlug": "personality-psychology",
+    "order": 10,
+    "accessLevel": "pro",
+    "title": "內向者不是不在乎",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「內向者不是不在乎」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "內向者不是不在乎，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「內向者不是不在乎」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "內向者不是不在乎？",
+        "voiceover": "遇到「內向者不是不在乎」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜內向者不是不在乎",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「內向者不是不在乎」，所屬章節「誤會來源」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「內向者不是不在乎」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “內向者不是不在乎” in the module “誤會來源”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「內向者不是不在乎」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 scenario-paths 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。",
+        "subtitle": "描述可觀察行為，不把人定型。｜平常偏好與壓力反應可能不同。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「內向者不是不在乎」，所屬章節「誤會來源」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 scenario-paths 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “內向者不是不在乎” in the module “誤會來源”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 scenario-paths 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「內向者不是不在乎」，所屬章節「誤會來源」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “內向者不是不在乎” in the module “誤會來源”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「內向者不是不在乎」，先別急著用一個表面現象下結論。 描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "內向者不是不在乎：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_10_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_10_s1",
+        "personality_psychology_video_10_s2",
+        "personality_psychology_video_10_s3"
+      ],
+      "finalVideo": "personality_psychology_video_10.mp4",
+      "captions": "personality_psychology_video_10.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d196",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v11",
+    "appSlug": "personality-psychology",
+    "order": 11,
+    "accessLevel": "pro",
+    "title": "決策節奏差異",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「決策節奏差異」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "決策節奏差異，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「決策節奏差異」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "決策節奏差異？",
+        "voiceover": "遇到「決策節奏差異」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜決策節奏差異",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「決策節奏差異」，所屬章節「決策節奏」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「決策節奏差異」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “決策節奏差異” in the module “決策節奏”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「決策節奏差異」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 scenario-paths 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。",
+        "subtitle": "描述可觀察行為，不把人定型。｜平常偏好與壓力反應可能不同。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「決策節奏差異」，所屬章節「決策節奏」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 scenario-paths 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “決策節奏差異” in the module “決策節奏”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 scenario-paths 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「決策節奏差異」，所屬章節「決策節奏」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “決策節奏差異” in the module “決策節奏”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「決策節奏差異」，先別急著用一個表面現象下結論。 描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "決策節奏差異：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_11_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_11_s1",
+        "personality_psychology_video_11_s2",
+        "personality_psychology_video_11_s3"
+      ],
+      "finalVideo": "personality_psychology_video_11.mp4",
+      "captions": "personality_psychology_video_11.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d126",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v12",
+    "appSlug": "personality-psychology",
+    "order": 12,
+    "accessLevel": "pro",
+    "title": "工作會議人格版本",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「工作會議人格版本」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "工作會議人格版本，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「工作會議人格版本」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "工作會議人格版本？",
+        "voiceover": "遇到「工作會議人格版本」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜工作會議人格版本",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「工作會議人格版本」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「工作會議人格版本」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “工作會議人格版本” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「工作會議人格版本」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 communication-bridge 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "同一特質在不同情境可能是優點也可能成為負擔。 建立可調整的合作方式，比猜人格類型更實用。",
+        "subtitle": "同一特質在不同情境可能是優點也可能成為負擔。｜建立可調整的合作方式，比猜人格類型更實用。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「工作會議人格版本」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 communication-bridge 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “工作會議人格版本” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 communication-bridge 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「工作會議人格版本」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “工作會議人格版本” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「工作會議人格版本」，先別急著用一個表面現象下結論。 同一特質在不同情境可能是優點也可能成為負擔。 建立可調整的合作方式，比猜人格類型更實用。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "工作會議人格版本：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_12_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_12_s1",
+        "personality_psychology_video_12_s2",
+        "personality_psychology_video_12_s3"
+      ],
+      "finalVideo": "personality_psychology_video_12.mp4",
+      "captions": "personality_psychology_video_12.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d004",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v13",
+    "appSlug": "personality-psychology",
+    "order": 13,
+    "accessLevel": "pro",
+    "title": "伴侶關係誤會來源",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「伴侶關係誤會來源」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "伴侶關係誤會來源，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「伴侶關係誤會來源」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "伴侶關係誤會來源？",
+        "voiceover": "遇到「伴侶關係誤會來源」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜伴侶關係誤會來源",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「伴侶關係誤會來源」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：preference-spectrum。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「伴侶關係誤會來源」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “伴侶關係誤會來源” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: preference-spectrum. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「伴侶關係誤會來源」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 preference-spectrum 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 preference-spectrum 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "平常偏好與壓力反應可能不同。 先問對方需要資訊、時間、空間或支持。",
+        "subtitle": "平常偏好與壓力反應可能不同。｜先問對方需要資訊、時間、空間或支持。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「伴侶關係誤會來源」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：preference-spectrum。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 preference-spectrum 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “伴侶關係誤會來源” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: preference-spectrum. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 preference-spectrum 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 preference-spectrum 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「伴侶關係誤會來源」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：preference-spectrum。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “伴侶關係誤會來源” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: preference-spectrum. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 preference-spectrum 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「伴侶關係誤會來源」，先別急著用一個表面現象下結論。 平常偏好與壓力反應可能不同。 先問對方需要資訊、時間、空間或支持。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "伴侶關係誤會來源：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_13_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_13_s1",
+        "personality_psychology_video_13_s2",
+        "personality_psychology_video_13_s3"
+      ],
+      "finalVideo": "personality_psychology_video_13.mp4",
+      "captions": "personality_psychology_video_13.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d012",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v14",
+    "appSlug": "personality-psychology",
+    "order": 14,
+    "accessLevel": "pro",
+    "title": "人格標籤的陷阱",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「人格標籤的陷阱」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "人格標籤的陷阱，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「人格標籤的陷阱」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "人格標籤的陷阱？",
+        "voiceover": "遇到「人格標籤的陷阱」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜人格標籤的陷阱",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「人格標籤的陷阱」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「人格標籤的陷阱」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “人格標籤的陷阱” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「人格標籤的陷阱」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 communication-bridge 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "同一特質在不同情境可能是優點也可能成為負擔。 建立可調整的合作方式，比猜人格類型更實用。",
+        "subtitle": "同一特質在不同情境可能是優點也可能成為負擔。｜建立可調整的合作方式，比猜人格類型更實用。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「人格標籤的陷阱」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 communication-bridge 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “人格標籤的陷阱” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 communication-bridge 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「人格標籤的陷阱」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “人格標籤的陷阱” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「人格標籤的陷阱」，先別急著用一個表面現象下結論。 同一特質在不同情境可能是優點也可能成為負擔。 建立可調整的合作方式，比猜人格類型更實用。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "人格標籤的陷阱：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_14_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_14_s1",
+        "personality_psychology_video_14_s2",
+        "personality_psychology_video_14_s3"
+      ],
+      "finalVideo": "personality_psychology_video_14.mp4",
+      "captions": "personality_psychology_video_14.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d009",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v15",
+    "appSlug": "personality-psychology",
+    "order": 15,
+    "accessLevel": "pro",
+    "title": "壓力下的反向反應",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「壓力下的反向反應」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "壓力下的反向反應，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「壓力下的反向反應」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "壓力下的反向反應？",
+        "voiceover": "遇到「壓力下的反向反應」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜壓力下的反向反應",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「壓力下的反向反應」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「壓力下的反向反應」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “壓力下的反向反應” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「壓力下的反向反應」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 scenario-paths 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。",
+        "subtitle": "描述可觀察行為，不把人定型。｜平常偏好與壓力反應可能不同。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「壓力下的反向反應」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 scenario-paths 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “壓力下的反向反應” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 scenario-paths 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「壓力下的反向反應」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “壓力下的反向反應” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「壓力下的反向反應」，先別急著用一個表面現象下結論。 描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "壓力下的反向反應：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_15_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_15_s1",
+        "personality_psychology_video_15_s2",
+        "personality_psychology_video_15_s3"
+      ],
+      "finalVideo": "personality_psychology_video_15.mp4",
+      "captions": "personality_psychology_video_15.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d011",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v16",
+    "appSlug": "personality-psychology",
+    "order": 16,
+    "accessLevel": "pro",
+    "title": "如何問出真正需求",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「如何問出真正需求」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "如何問出真正需求，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「如何問出真正需求」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "如何問出真正需求？",
+        "voiceover": "遇到「如何問出真正需求」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜如何問出真正需求",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「如何問出真正需求」，所屬章節「關係模式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：stress-shift。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「如何問出真正需求」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “如何問出真正需求” in the module “關係模式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: stress-shift. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「如何問出真正需求」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 stress-shift 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 stress-shift 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先問對方需要資訊、時間、空間或支持。 同一特質在不同情境可能是優點也可能成為負擔。",
+        "subtitle": "先問對方需要資訊、時間、空間或支持。｜同一特質在不同情境可能是優點也可能成為負擔。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「如何問出真正需求」，所屬章節「關係模式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：stress-shift。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 stress-shift 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “如何問出真正需求” in the module “關係模式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: stress-shift. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 stress-shift 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 stress-shift 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「如何問出真正需求」，所屬章節「關係模式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：stress-shift。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “如何問出真正需求” in the module “關係模式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: stress-shift. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 stress-shift 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「如何問出真正需求」，先別急著用一個表面現象下結論。 先問對方需要資訊、時間、空間或支持。 同一特質在不同情境可能是優點也可能成為負擔。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "如何問出真正需求：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_16_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_16_s1",
+        "personality_psychology_video_16_s2",
+        "personality_psychology_video_16_s3"
+      ],
+      "finalVideo": "personality_psychology_video_16.mp4",
+      "captions": "personality_psychology_video_16.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d043",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v17",
+    "appSlug": "personality-psychology",
+    "order": 17,
+    "accessLevel": "pro",
+    "title": "衝突修復方式",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「衝突修復方式」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "衝突修復方式，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「衝突修復方式」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "衝突修復方式？",
+        "voiceover": "遇到「衝突修復方式」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜衝突修復方式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「衝突修復方式」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「衝突修復方式」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “衝突修復方式” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「衝突修復方式」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 communication-bridge 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "同一特質在不同情境可能是優點也可能成為負擔。 建立可調整的合作方式，比猜人格類型更實用。",
+        "subtitle": "同一特質在不同情境可能是優點也可能成為負擔。｜建立可調整的合作方式，比猜人格類型更實用。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「衝突修復方式」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 communication-bridge 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “衝突修復方式” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 communication-bridge 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「衝突修復方式」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “衝突修復方式” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「衝突修復方式」，先別急著用一個表面現象下結論。 同一特質在不同情境可能是優點也可能成為負擔。 建立可調整的合作方式，比猜人格類型更實用。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "衝突修復方式：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_17_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_17_s1",
+        "personality_psychology_video_17_s2",
+        "personality_psychology_video_17_s3"
+      ],
+      "finalVideo": "personality_psychology_video_17.mp4",
+      "captions": "personality_psychology_video_17.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d004",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v18",
+    "appSlug": "personality-psychology",
+    "order": 18,
+    "accessLevel": "pro",
+    "title": "同場景多人格版本",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「同場景多人格版本」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "同場景多人格版本，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「同場景多人格版本」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "同場景多人格版本？",
+        "voiceover": "遇到「同場景多人格版本」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜同場景多人格版本",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同場景多人格版本」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「同場景多人格版本」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同場景多人格版本” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「同場景多人格版本」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 communication-bridge 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "同一特質在不同情境可能是優點也可能成為負擔。 建立可調整的合作方式，比猜人格類型更實用。",
+        "subtitle": "同一特質在不同情境可能是優點也可能成為負擔。｜建立可調整的合作方式，比猜人格類型更實用。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同場景多人格版本」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 communication-bridge 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同場景多人格版本” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 communication-bridge 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同場景多人格版本」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：communication-bridge。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同場景多人格版本” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: communication-bridge. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 communication-bridge 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「同場景多人格版本」，先別急著用一個表面現象下結論。 同一特質在不同情境可能是優點也可能成為負擔。 建立可調整的合作方式，比猜人格類型更實用。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "同場景多人格版本：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_18_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_18_s1",
+        "personality_psychology_video_18_s2",
+        "personality_psychology_video_18_s3"
+      ],
+      "finalVideo": "personality_psychology_video_18.mp4",
+      "captions": "personality_psychology_video_18.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d004",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v19",
+    "appSlug": "personality-psychology",
+    "order": 19,
+    "accessLevel": "pro",
+    "title": "少內耗的核對法",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「少內耗的核對法」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "少內耗的核對法，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「少內耗的核對法」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "少內耗的核對法？",
+        "voiceover": "遇到「少內耗的核對法」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜少內耗的核對法",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「少內耗的核對法」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「少內耗的核對法」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “少內耗的核對法” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「少內耗的核對法」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 scenario-paths 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。",
+        "subtitle": "描述可觀察行為，不把人定型。｜平常偏好與壓力反應可能不同。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「少內耗的核對法」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 scenario-paths 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “少內耗的核對法” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 scenario-paths 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「少內耗的核對法」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “少內耗的核對法” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「少內耗的核對法」，先別急著用一個表面現象下結論。 描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "少內耗的核對法：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_19_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_19_s1",
+        "personality_psychology_video_19_s2",
+        "personality_psychology_video_19_s3"
+      ],
+      "finalVideo": "personality_psychology_video_19.mp4",
+      "captions": "personality_psychology_video_19.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d001",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "personality-psychology-v20",
+    "appSlug": "personality-psychology",
+    "order": 20,
+    "accessLevel": "pro",
+    "title": "Pro 章節導覽示範",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用同場景多反應對照說明「Pro 章節導覽示範」，聚焦偏好、需求與壓力變化，而不是固定標籤。",
+    "openingHook": "Pro 章節導覽示範，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「Pro 章節導覽示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "Pro 章節導覽示範？",
+        "voiceover": "遇到「Pro 章節導覽示範」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜Pro 章節導覽示範",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「Pro 章節導覽示範」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「Pro 章節導覽示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “Pro 章節導覽示範” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「Pro 章節導覽示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 scenario-paths 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。",
+        "subtitle": "描述可觀察行為，不把人定型。｜平常偏好與壓力反應可能不同。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「Pro 章節導覽示範」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 scenario-paths 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “Pro 章節導覽示範” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 scenario-paths 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+        "subtitle": "先做：描述具體行為而不是貼標籤",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「Pro 章節導覽示範」，所屬章節「思考方式」。 視覺風格：紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型。主體：同一生活或職場場景中的多種反應路徑與需求光譜。 圖解型態：scenario-paths。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “Pro 章節導覽示範” in the module “思考方式”. Visual direction: 紫灰與珊瑚、同場景多條反應路徑、光譜而非硬分類、溫和 3D 人物模型. Main subject: 同一生活或職場場景中的多種反應路徑與需求光譜. Diagram pattern: scenario-paths. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "心理診斷、人格障礙標籤、歧視、未成年人、刻板性別、讀心、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 scenario-paths 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「Pro 章節導覽示範」，先別急著用一個表面現象下結論。 描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。 下一步先做：描述具體行為而不是貼標籤。再依結果決定是否詢問對方的資訊與時間需求。",
+    "caption": "Pro 章節導覽示範：先看完整情境，再做低風險確認。教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "personality_psychology_video_20_thumb",
+      "sceneFrames": [
+        "personality_psychology_video_20_s1",
+        "personality_psychology_video_20_s2",
+        "personality_psychology_video_20_s3"
+      ],
+      "finalVideo": "personality_psychology_video_20.mp4",
+      "captions": "personality_psychology_video_20.vtt"
+    },
+    "safetyNote": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "sourceDiagramId": "personality-psychology-d001",
+    "editorialStatus": "draft-ready-for-review"
+  }
+]

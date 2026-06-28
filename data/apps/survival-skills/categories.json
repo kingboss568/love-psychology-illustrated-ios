@@ -1,0 +1,82 @@
+[
+  {
+    "id": "survival-skills-m01",
+    "appSlug": "survival-skills",
+    "title": "迷途應對",
+    "order": 1,
+    "topicCount": 25,
+    "freeCount": 6,
+    "proCount": 19,
+    "iconSystemName": "message"
+  },
+  {
+    "id": "survival-skills-m02",
+    "appSlug": "survival-skills",
+    "title": "求救與定位",
+    "order": 2,
+    "topicCount": 25,
+    "freeCount": 3,
+    "proCount": 22,
+    "iconSystemName": "person.2"
+  },
+  {
+    "id": "survival-skills-m03",
+    "appSlug": "survival-skills",
+    "title": "避難與保暖",
+    "order": 3,
+    "topicCount": 25,
+    "freeCount": 1,
+    "proCount": 24,
+    "iconSystemName": "arrow.left.and.right"
+  },
+  {
+    "id": "survival-skills-m04",
+    "appSlug": "survival-skills",
+    "title": "缺水缺糧",
+    "order": 4,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "heart"
+  },
+  {
+    "id": "survival-skills-m05",
+    "appSlug": "survival-skills",
+    "title": "都市災害",
+    "order": 5,
+    "topicCount": 25,
+    "freeCount": 4,
+    "proCount": 21,
+    "iconSystemName": "shield"
+  },
+  {
+    "id": "survival-skills-m06",
+    "appSlug": "survival-skills",
+    "title": "車內/建物受困",
+    "order": 6,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "snowflake"
+  },
+  {
+    "id": "survival-skills-m07",
+    "appSlug": "survival-skills",
+    "title": "火源與風險",
+    "order": 7,
+    "topicCount": 25,
+    "freeCount": 0,
+    "proCount": 25,
+    "iconSystemName": "exclamationmark.triangle"
+  },
+  {
+    "id": "survival-skills-m08",
+    "appSlug": "survival-skills",
+    "title": "裝備與判斷",
+    "order": 8,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "wrench"
+  }
+]

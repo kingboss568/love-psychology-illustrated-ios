@@ -1,0 +1,26 @@
+def appstore_api_key_from_env
+  app_store_connect_api_key(
+    key_id: ENV.fetch("ASC_KEY_ID"),
+    issuer_id: ENV.fetch("ASC_ISSUER_ID"),
+    key_filepath: ENV.fetch("ASC_KEY_FILE"),
+    duration: 1200,
+    in_house: false
+  )
+end
+
+def ensure_required_env!
+  missing = %w[ASC_KEY_ID ASC_ISSUER_ID ASC_KEY_FILE APP_IDENTIFIER].select { |key| ENV[key].to_s.strip.empty? }
+  UI.user_error!("Missing required env vars: #{missing.join(', ')}") unless missing.empty?
+end
+
+platform :ios do
+  lane :deliver_metadata do
+    ensure_required_env!
+    deliver(api_key: appstore_api_key_from_env, force: true, skip_binary_upload: true, skip_screenshots: true, submit_for_review: false, run_precheck_before_submit: false)
+  end
+
+  lane :deliver_screenshots do
+    ensure_required_env!
+    deliver(api_key: appstore_api_key_from_env, force: true, skip_binary_upload: true, skip_metadata: true, overwrite_screenshots: true, submit_for_review: false, run_precheck_before_submit: false)
+  end
+end

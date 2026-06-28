@@ -1,0 +1,422 @@
+[
+  {
+    "id": "outfit-body-shape-social-01",
+    "title": "梨形身形怎麼穿｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "梨形身形怎麼穿，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "梨形身形怎麼穿，別只看表面。",
+        "subtitle": "梨形身形怎麼穿？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 body-ratio-overlay 圖解，三個節點依序亮起",
+        "voiceover": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：拍正面與側面比例照並標腰線。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「梨形身形怎麼穿」不只看表面，先用這張圖拆成三步。\n\n提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "outfit-body-shape-d001"
+  },
+  {
+    "id": "outfit-body-shape-social-02",
+    "title": "肩寬如何平衡｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "肩寬如何平衡，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "肩寬如何平衡，別只看表面。",
+        "subtitle": "肩寬如何平衡？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 before-after 圖解，三個節點依序亮起",
+        "voiceover": "一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：拍正面與側面比例照並標腰線。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「肩寬如何平衡」不只看表面，先用這張圖拆成三步。\n\n提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "outfit-body-shape-d002"
+  },
+  {
+    "id": "outfit-body-shape-social-03",
+    "title": "小腹明顯怎麼選衣｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "小腹明顯怎麼選衣，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "小腹明顯怎麼選衣，別只看表面。",
+        "subtitle": "小腹明顯怎麼選衣？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 silhouette-comparison 圖解，三個節點依序亮起",
+        "voiceover": "版型、材質與衣長要一起比較。 目標是視覺平衡與舒適，不是評判身材。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：拍正面與側面比例照並標腰線。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「小腹明顯怎麼選衣」不只看表面，先用這張圖拆成三步。\n\n提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "outfit-body-shape-d003"
+  },
+  {
+    "id": "outfit-body-shape-social-04",
+    "title": "腿短怎麼修飾｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "腿短怎麼修飾，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "腿短怎麼修飾，別只看表面。",
+        "subtitle": "腿短怎麼修飾？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 color-block-map 圖解，三個節點依序亮起",
+        "voiceover": "目標是視覺平衡與舒適，不是評判身材。 試穿時用正面、側面與坐下三種狀態檢查。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：拍正面與側面比例照並標腰線。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「腿短怎麼修飾」不只看表面，先用這張圖拆成三步。\n\n提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "outfit-body-shape-d004"
+  },
+  {
+    "id": "outfit-body-shape-social-05",
+    "title": "寬褲 vs 直筒褲｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "寬褲 vs 直筒褲，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "寬褲 vs 直筒褲，別只看表面。",
+        "subtitle": "寬褲 vs 直筒褲？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 fit-check 圖解，三個節點依序亮起",
+        "voiceover": "試穿時用正面、側面與坐下三種狀態檢查。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：拍正面與側面比例照並標腰線。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「寬褲 vs 直筒褲」不只看表面，先用這張圖拆成三步。\n\n提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "outfit-body-shape-d005"
+  },
+  {
+    "id": "outfit-body-shape-social-06",
+    "title": "上半身厚怎麼穿｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "上半身厚怎麼穿，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "上半身厚怎麼穿，別只看表面。",
+        "subtitle": "上半身厚怎麼穿？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 body-ratio-overlay 圖解，三個節點依序亮起",
+        "voiceover": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：拍正面與側面比例照並標腰線。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「上半身厚怎麼穿」不只看表面，先用這張圖拆成三步。\n\n提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "outfit-body-shape-d006"
+  },
+  {
+    "id": "outfit-body-shape-social-07",
+    "title": "同體型穿錯/穿對｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "同體型穿錯/穿對，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "同體型穿錯/穿對，別只看表面。",
+        "subtitle": "同體型穿錯/穿對？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 before-after 圖解，三個節點依序亮起",
+        "voiceover": "一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：拍正面與側面比例照並標腰線。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「同體型穿錯/穿對」不只看表面，先用這張圖拆成三步。\n\n提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "outfit-body-shape-d007"
+  },
+  {
+    "id": "outfit-body-shape-social-08",
+    "title": "臀寬如何平衡視覺｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "臀寬如何平衡視覺，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "臀寬如何平衡視覺，別只看表面。",
+        "subtitle": "臀寬如何平衡視覺？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 silhouette-comparison 圖解，三個節點依序亮起",
+        "voiceover": "版型、材質與衣長要一起比較。 目標是視覺平衡與舒適，不是評判身材。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：拍正面與側面比例照並標腰線。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「臀寬如何平衡視覺」不只看表面，先用這張圖拆成三步。\n\n提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "outfit-body-shape-d008"
+  },
+  {
+    "id": "outfit-body-shape-social-09",
+    "title": "手臂肉感怎麼修飾｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "手臂肉感怎麼修飾，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "手臂肉感怎麼修飾，別只看表面。",
+        "subtitle": "手臂肉感怎麼修飾？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 color-block-map 圖解，三個節點依序亮起",
+        "voiceover": "目標是視覺平衡與舒適，不是評判身材。 試穿時用正面、側面與坐下三種狀態檢查。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：拍正面與側面比例照並標腰線。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「手臂肉感怎麼修飾」不只看表面，先用這張圖拆成三步。\n\n提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "outfit-body-shape-d009"
+  },
+  {
+    "id": "outfit-body-shape-social-10",
+    "title": "購物前量三個比例｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "購物前量三個比例，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "購物前量三個比例，別只看表面。",
+        "subtitle": "購物前量三個比例？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 fit-check 圖解，三個節點依序亮起",
+        "voiceover": "試穿時用正面、側面與坐下三種狀態檢查。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：拍正面與側面比例照並標腰線。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「購物前量三個比例」不只看表面，先用這張圖拆成三步。\n\n提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "outfit-body-shape-d010"
+  }
+]

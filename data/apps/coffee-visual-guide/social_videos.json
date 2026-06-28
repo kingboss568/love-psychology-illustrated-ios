@@ -1,0 +1,422 @@
+[
+  {
+    "id": "coffee-visual-guide-social-01",
+    "title": "磨太細/太粗｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "磨太細/太粗，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "磨太細/太粗，別只看表面。",
+        "subtitle": "磨太細/太粗？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 brewer-cutaway 圖解，三個節點依序亮起",
+        "voiceover": "固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：固定配方與器具。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「磨太細/太粗」不只看表面，先用這張圖拆成三步。\n\n提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "coffee-visual-guide-d001"
+  },
+  {
+    "id": "coffee-visual-guide-social-02",
+    "title": "水溫太高/太低｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "水溫太高/太低，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "水溫太高/太低，別只看表面。",
+        "subtitle": "水溫太高/太低？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 flow-map 圖解，三個節點依序亮起",
+        "voiceover": "同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：固定配方與器具。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「水溫太高/太低」不只看表面，先用這張圖拆成三步。\n\n提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "coffee-visual-guide-d002"
+  },
+  {
+    "id": "coffee-visual-guide-social-03",
+    "title": "粉水比怎麼影響濃淡｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "粉水比怎麼影響濃淡，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "粉水比怎麼影響濃淡，別只看表面。",
+        "subtitle": "粉水比怎麼影響濃淡？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 particle-comparison 圖解，三個節點依序亮起",
+        "voiceover": "粉床外觀是線索，不是唯一判準。 先用較小幅度調整，避免一次改太多。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：固定配方與器具。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「粉水比怎麼影響濃淡」不只看表面，先用這張圖拆成三步。\n\n提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "coffee-visual-guide-d003"
+  },
+  {
+    "id": "coffee-visual-guide-social-04",
+    "title": "濾紙味怎麼處理｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "濾紙味怎麼處理，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "濾紙味怎麼處理，別只看表面。",
+        "subtitle": "濾紙味怎麼處理？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 brew-timeline 圖解，三個節點依序亮起",
+        "voiceover": "先用較小幅度調整，避免一次改太多。 不同豆子與器具需要重新校正，不套用單一答案。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：固定配方與器具。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「濾紙味怎麼處理」不只看表面，先用這張圖拆成三步。\n\n提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "coffee-visual-guide-d004"
+  },
+  {
+    "id": "coffee-visual-guide-social-05",
+    "title": "奶泡太粗原因｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "奶泡太粗原因，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "奶泡太粗原因，別只看表面。",
+        "subtitle": "奶泡太粗原因？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 flavor-diagnostic 圖解，三個節點依序亮起",
+        "voiceover": "不同豆子與器具需要重新校正，不套用單一答案。 固定豆量、總水量與水溫，再調一個變因。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：固定配方與器具。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「奶泡太粗原因」不只看表面，先用這張圖拆成三步。\n\n提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "coffee-visual-guide-d005"
+  },
+  {
+    "id": "coffee-visual-guide-social-06",
+    "title": "注水速度影響｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "注水速度影響，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "注水速度影響，別只看表面。",
+        "subtitle": "注水速度影響？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 brewer-cutaway 圖解，三個節點依序亮起",
+        "voiceover": "固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：固定配方與器具。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「注水速度影響」不只看表面，先用這張圖拆成三步。\n\n提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "coffee-visual-guide-d026"
+  },
+  {
+    "id": "coffee-visual-guide-social-07",
+    "title": "注水位置與繞圈｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "注水位置與繞圈，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "注水位置與繞圈，別只看表面。",
+        "subtitle": "注水位置與繞圈？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 flow-map 圖解，三個節點依序亮起",
+        "voiceover": "同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：固定配方與器具。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「注水位置與繞圈」不只看表面，先用這張圖拆成三步。\n\n提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "coffee-visual-guide-d027"
+  },
+  {
+    "id": "coffee-visual-guide-social-08",
+    "title": "粉層崩掉原因｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "粉層崩掉原因，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "粉層崩掉原因，別只看表面。",
+        "subtitle": "粉層崩掉原因？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 brewer-cutaway 圖解，三個節點依序亮起",
+        "voiceover": "固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：固定配方與器具。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「粉層崩掉原因」不只看表面，先用這張圖拆成三步。\n\n提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "coffee-visual-guide-d051"
+  },
+  {
+    "id": "coffee-visual-guide-social-09",
+    "title": "悶蒸失敗｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "悶蒸失敗，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "悶蒸失敗，別只看表面。",
+        "subtitle": "悶蒸失敗？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 flow-map 圖解，三個節點依序亮起",
+        "voiceover": "同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：固定配方與器具。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「悶蒸失敗」不只看表面，先用這張圖拆成三步。\n\n提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "coffee-visual-guide-d052"
+  },
+  {
+    "id": "coffee-visual-guide-social-10",
+    "title": "義式萃取通道效應｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "義式萃取通道效應，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "義式萃取通道效應，別只看表面。",
+        "subtitle": "義式萃取通道效應？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 particle-comparison 圖解，三個節點依序亮起",
+        "voiceover": "粉床外觀是線索，不是唯一判準。 先用較小幅度調整，避免一次改太多。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：固定配方與器具。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「義式萃取通道效應」不只看表面，先用這張圖拆成三步。\n\n提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "coffee-visual-guide-d053"
+  }
+]

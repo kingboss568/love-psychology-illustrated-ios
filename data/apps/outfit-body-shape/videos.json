@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "outfit-body-shape-v01",
+    "appSlug": "outfit-body-shape",
+    "order": 1,
+    "accessLevel": "free",
+    "title": "一件白襯衫在三種身形的不同穿法",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「一件白襯衫在三種身形的不同穿法」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "一件白襯衫在三種身形的不同穿法，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「一件白襯衫在三種身形的不同穿法」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "一件白襯衫在三種身形的不同穿法？",
+        "voiceover": "遇到「一件白襯衫在三種身形的不同穿法」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜一件白襯衫在三種身形的不同穿法",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「一件白襯衫在三種身形的不同穿法」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「一件白襯衫在三種身形的不同穿法」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “一件白襯衫在三種身形的不同穿法” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「一件白襯衫在三種身形的不同穿法」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。",
+        "subtitle": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。｜一次只改一個變因，才看得出真正影響。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「一件白襯衫在三種身形的不同穿法」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “一件白襯衫在三種身形的不同穿法” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "免費查看完整圖解",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「一件白襯衫在三種身形的不同穿法」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “一件白襯衫在三種身形的不同穿法” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「一件白襯衫在三種身形的不同穿法」，先別急著用一個表面現象下結論。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "一件白襯衫在三種身形的不同穿法：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "打開 App 查看完整圖解",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_01_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_01_s1",
+        "outfit_body_shape_video_01_s2",
+        "outfit_body_shape_video_01_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_01.mp4",
+      "captions": "outfit_body_shape_video_01.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d001",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v02",
+    "appSlug": "outfit-body-shape",
+    "order": 2,
+    "accessLevel": "free",
+    "title": "小個子顯高的比例線",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「小個子顯高的比例線」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "小個子顯高的比例線，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「小個子顯高的比例線」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "小個子顯高的比例線？",
+        "voiceover": "遇到「小個子顯高的比例線」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜小個子顯高的比例線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「小個子顯高的比例線」，所屬章節「顯高顯瘦」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「小個子顯高的比例線」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “小個子顯高的比例線” in the module “顯高顯瘦”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「小個子顯高的比例線」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。",
+        "subtitle": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。｜一次只改一個變因，才看得出真正影響。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「小個子顯高的比例線」，所屬章節「顯高顯瘦」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “小個子顯高的比例線” in the module “顯高顯瘦”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "免費查看完整圖解",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「小個子顯高的比例線」，所屬章節「顯高顯瘦」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “小個子顯高的比例線” in the module “顯高顯瘦”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「小個子顯高的比例線」，先別急著用一個表面現象下結論。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "小個子顯高的比例線：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "打開 App 查看完整圖解",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_02_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_02_s1",
+        "outfit_body_shape_video_02_s2",
+        "outfit_body_shape_video_02_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_02.mp4",
+      "captions": "outfit_body_shape_video_02.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d101",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v03",
+    "appSlug": "outfit-body-shape",
+    "order": 3,
+    "accessLevel": "free",
+    "title": "梨形身形穿錯穿對",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「梨形身形穿錯穿對」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "梨形身形穿錯穿對，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「梨形身形穿錯穿對」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "梨形身形穿錯穿對？",
+        "voiceover": "遇到「梨形身形穿錯穿對」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜梨形身形穿錯穿對",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「梨形身形穿錯穿對」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「梨形身形穿錯穿對」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “梨形身形穿錯穿對” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「梨形身形穿錯穿對」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。",
+        "subtitle": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。｜一次只改一個變因，才看得出真正影響。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「梨形身形穿錯穿對」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “梨形身形穿錯穿對” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "免費查看完整圖解",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「梨形身形穿錯穿對」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “梨形身形穿錯穿對” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「梨形身形穿錯穿對」，先別急著用一個表面現象下結論。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "梨形身形穿錯穿對：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "打開 App 查看完整圖解",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_03_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_03_s1",
+        "outfit_body_shape_video_03_s2",
+        "outfit_body_shape_video_03_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_03.mp4",
+      "captions": "outfit_body_shape_video_03.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d001",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v04",
+    "appSlug": "outfit-body-shape",
+    "order": 4,
+    "accessLevel": "pro",
+    "title": "肩寬不一定要遮",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「肩寬不一定要遮」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "肩寬不一定要遮，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「肩寬不一定要遮」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "肩寬不一定要遮？",
+        "voiceover": "遇到「肩寬不一定要遮」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜肩寬不一定要遮",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「肩寬不一定要遮」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「肩寬不一定要遮」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “肩寬不一定要遮” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「肩寬不一定要遮」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 before-after 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。",
+        "subtitle": "一次只改一個變因，才看得出真正影響。｜版型、材質與衣長要一起比較。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「肩寬不一定要遮」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 before-after 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “肩寬不一定要遮” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 before-after 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「肩寬不一定要遮」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “肩寬不一定要遮” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「肩寬不一定要遮」，先別急著用一個表面現象下結論。 一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "肩寬不一定要遮：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_04_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_04_s1",
+        "outfit_body_shape_video_04_s2",
+        "outfit_body_shape_video_04_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_04.mp4",
+      "captions": "outfit_body_shape_video_04.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d002",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v05",
+    "appSlug": "outfit-body-shape",
+    "order": 5,
+    "accessLevel": "pro",
+    "title": "褲管寬度如何改變腿型",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「褲管寬度如何改變腿型」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "褲管寬度如何改變腿型，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「褲管寬度如何改變腿型」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "褲管寬度如何改變腿型？",
+        "voiceover": "遇到「褲管寬度如何改變腿型」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜褲管寬度如何改變腿型",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「褲管寬度如何改變腿型」，所屬章節「下身比例」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「褲管寬度如何改變腿型」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “褲管寬度如何改變腿型” in the module “下身比例”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「褲管寬度如何改變腿型」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 before-after 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。",
+        "subtitle": "一次只改一個變因，才看得出真正影響。｜版型、材質與衣長要一起比較。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「褲管寬度如何改變腿型」，所屬章節「下身比例」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 before-after 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “褲管寬度如何改變腿型” in the module “下身比例”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 before-after 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「褲管寬度如何改變腿型」，所屬章節「下身比例」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “褲管寬度如何改變腿型” in the module “下身比例”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「褲管寬度如何改變腿型」，先別急著用一個表面現象下結論。 一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "褲管寬度如何改變腿型：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_05_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_05_s1",
+        "outfit_body_shape_video_05_s2",
+        "outfit_body_shape_video_05_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_05.mp4",
+      "captions": "outfit_body_shape_video_05.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d057",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v06",
+    "appSlug": "outfit-body-shape",
+    "order": 6,
+    "accessLevel": "pro",
+    "title": "外套長度 3 秒判斷",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「外套長度 3 秒判斷」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "外套長度 3 秒判斷，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「外套長度 3 秒判斷」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "外套長度 3 秒判斷？",
+        "voiceover": "遇到「外套長度 3 秒判斷」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜外套長度 3 秒判斷",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「外套長度 3 秒判斷」，所屬章節「上身版型」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「外套長度 3 秒判斷」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “外套長度 3 秒判斷” in the module “上身版型”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「外套長度 3 秒判斷」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。",
+        "subtitle": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。｜一次只改一個變因，才看得出真正影響。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「外套長度 3 秒判斷」，所屬章節「上身版型」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “外套長度 3 秒判斷” in the module “上身版型”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「外套長度 3 秒判斷」，所屬章節「上身版型」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “外套長度 3 秒判斷” in the module “上身版型”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「外套長度 3 秒判斷」，先別急著用一個表面現象下結論。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "外套長度 3 秒判斷：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_06_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_06_s1",
+        "outfit_body_shape_video_06_s2",
+        "outfit_body_shape_video_06_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_06.mp4",
+      "captions": "outfit_body_shape_video_06.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d026",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v07",
+    "appSlug": "outfit-body-shape",
+    "order": 7,
+    "accessLevel": "pro",
+    "title": "高腰線為什麼有效",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「高腰線為什麼有效」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "高腰線為什麼有效，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「高腰線為什麼有效」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "高腰線為什麼有效？",
+        "voiceover": "遇到「高腰線為什麼有效」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜高腰線為什麼有效",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「高腰線為什麼有效」，所屬章節「顯高顯瘦」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「高腰線為什麼有效」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “高腰線為什麼有效” in the module “顯高顯瘦”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「高腰線為什麼有效」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 before-after 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。",
+        "subtitle": "一次只改一個變因，才看得出真正影響。｜版型、材質與衣長要一起比較。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「高腰線為什麼有效」，所屬章節「顯高顯瘦」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 before-after 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “高腰線為什麼有效” in the module “顯高顯瘦”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 before-after 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「高腰線為什麼有效」，所屬章節「顯高顯瘦」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “高腰線為什麼有效” in the module “顯高顯瘦”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「高腰線為什麼有效」，先別急著用一個表面現象下結論。 一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "高腰線為什麼有效：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_07_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_07_s1",
+        "outfit_body_shape_video_07_s2",
+        "outfit_body_shape_video_07_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_07.mp4",
+      "captions": "outfit_body_shape_video_07.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d102",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v08",
+    "appSlug": "outfit-body-shape",
+    "order": 8,
+    "accessLevel": "pro",
+    "title": "色塊重心前後對照",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「色塊重心前後對照」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "色塊重心前後對照，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「色塊重心前後對照」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "色塊重心前後對照？",
+        "voiceover": "遇到「色塊重心前後對照」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜色塊重心前後對照",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「色塊重心前後對照」，所屬章節「色塊重心」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「色塊重心前後對照」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “色塊重心前後對照” in the module “色塊重心”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「色塊重心前後對照」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。",
+        "subtitle": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。｜一次只改一個變因，才看得出真正影響。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「色塊重心前後對照」，所屬章節「色塊重心」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “色塊重心前後對照” in the module “色塊重心”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「色塊重心前後對照」，所屬章節「色塊重心」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “色塊重心前後對照” in the module “色塊重心”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「色塊重心前後對照」，先別急著用一個表面現象下結論。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "色塊重心前後對照：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_08_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_08_s1",
+        "outfit_body_shape_video_08_s2",
+        "outfit_body_shape_video_08_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_08.mp4",
+      "captions": "outfit_body_shape_video_08.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d076",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v09",
+    "appSlug": "outfit-body-shape",
+    "order": 9,
+    "accessLevel": "pro",
+    "title": "上半身厚的領口選擇",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「上半身厚的領口選擇」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "上半身厚的領口選擇，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「上半身厚的領口選擇」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "上半身厚的領口選擇？",
+        "voiceover": "遇到「上半身厚的領口選擇」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜上半身厚的領口選擇",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「上半身厚的領口選擇」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「上半身厚的領口選擇」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “上半身厚的領口選擇” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「上半身厚的領口選擇」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。",
+        "subtitle": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。｜一次只改一個變因，才看得出真正影響。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「上半身厚的領口選擇」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “上半身厚的領口選擇” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「上半身厚的領口選擇」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “上半身厚的領口選擇” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「上半身厚的領口選擇」，先別急著用一個表面現象下結論。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "上半身厚的領口選擇：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_09_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_09_s1",
+        "outfit_body_shape_video_09_s2",
+        "outfit_body_shape_video_09_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_09.mp4",
+      "captions": "outfit_body_shape_video_09.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d006",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v10",
+    "appSlug": "outfit-body-shape",
+    "order": 10,
+    "accessLevel": "pro",
+    "title": "裙長比例急救",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「裙長比例急救」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "裙長比例急救，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「裙長比例急救」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "裙長比例急救？",
+        "voiceover": "遇到「裙長比例急救」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜裙長比例急救",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「裙長比例急救」，所屬章節「下身比例」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「裙長比例急救」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “裙長比例急救” in the module “下身比例”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「裙長比例急救」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。",
+        "subtitle": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。｜一次只改一個變因，才看得出真正影響。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「裙長比例急救」，所屬章節「下身比例」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “裙長比例急救” in the module “下身比例”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「裙長比例急救」，所屬章節「下身比例」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “裙長比例急救” in the module “下身比例”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「裙長比例急救」，先別急著用一個表面現象下結論。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "裙長比例急救：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_10_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_10_s1",
+        "outfit_body_shape_video_10_s2",
+        "outfit_body_shape_video_10_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_10.mp4",
+      "captions": "outfit_body_shape_video_10.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d051",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v11",
+    "appSlug": "outfit-body-shape",
+    "order": 11,
+    "accessLevel": "pro",
+    "title": "短脖子領口示範",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「短脖子領口示範」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "短脖子領口示範，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「短脖子領口示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "短脖子領口示範？",
+        "voiceover": "遇到「短脖子領口示範」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜短脖子領口示範",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「短脖子領口示範」，所屬章節「上身版型」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「短脖子領口示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “短脖子領口示範” in the module “上身版型”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「短脖子領口示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 before-after 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。",
+        "subtitle": "一次只改一個變因，才看得出真正影響。｜版型、材質與衣長要一起比較。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「短脖子領口示範」，所屬章節「上身版型」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 before-after 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “短脖子領口示範” in the module “上身版型”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 before-after 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「短脖子領口示範」，所屬章節「上身版型」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “短脖子領口示範” in the module “上身版型”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「短脖子領口示範」，先別急著用一個表面現象下結論。 一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "短脖子領口示範：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_11_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_11_s1",
+        "outfit_body_shape_video_11_s2",
+        "outfit_body_shape_video_11_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_11.mp4",
+      "captions": "outfit_body_shape_video_11.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d027",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v12",
+    "appSlug": "outfit-body-shape",
+    "order": 12,
+    "accessLevel": "pro",
+    "title": "正式場合比例",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「正式場合比例」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "正式場合比例，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「正式場合比例」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "正式場合比例？",
+        "voiceover": "遇到「正式場合比例」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜正式場合比例",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「正式場合比例」，所屬章節「正式/休閒/約會/通勤」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：color-block-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「正式場合比例」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “正式場合比例” in the module “正式/休閒/約會/通勤”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: color-block-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「正式場合比例」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 color-block-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 color-block-map 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "目標是視覺平衡與舒適，不是評判身材。 試穿時用正面、側面與坐下三種狀態檢查。",
+        "subtitle": "目標是視覺平衡與舒適，不是評判身材。｜試穿時用正面、側面與坐下三種狀態檢查。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「正式場合比例」，所屬章節「正式/休閒/約會/通勤」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：color-block-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 color-block-map 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “正式場合比例” in the module “正式/休閒/約會/通勤”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: color-block-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 color-block-map 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 color-block-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「正式場合比例」，所屬章節「正式/休閒/約會/通勤」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：color-block-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “正式場合比例” in the module “正式/休閒/約會/通勤”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: color-block-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 color-block-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「正式場合比例」，先別急著用一個表面現象下結論。 目標是視覺平衡與舒適，不是評判身材。 試穿時用正面、側面與坐下三種狀態檢查。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "正式場合比例：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_12_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_12_s1",
+        "outfit_body_shape_video_12_s2",
+        "outfit_body_shape_video_12_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_12.mp4",
+      "captions": "outfit_body_shape_video_12.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d134",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v13",
+    "appSlug": "outfit-body-shape",
+    "order": 13,
+    "accessLevel": "pro",
+    "title": "休閒穿搭不邋遢",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「休閒穿搭不邋遢」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "休閒穿搭不邋遢，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「休閒穿搭不邋遢」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "休閒穿搭不邋遢？",
+        "voiceover": "遇到「休閒穿搭不邋遢」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜休閒穿搭不邋遢",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「休閒穿搭不邋遢」，所屬章節「正式/休閒/約會/通勤」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：silhouette-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「休閒穿搭不邋遢」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “休閒穿搭不邋遢” in the module “正式/休閒/約會/通勤”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: silhouette-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「休閒穿搭不邋遢」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 silhouette-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 silhouette-comparison 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "版型、材質與衣長要一起比較。 目標是視覺平衡與舒適，不是評判身材。",
+        "subtitle": "版型、材質與衣長要一起比較。｜目標是視覺平衡與舒適，不是評判身材。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「休閒穿搭不邋遢」，所屬章節「正式/休閒/約會/通勤」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：silhouette-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 silhouette-comparison 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “休閒穿搭不邋遢” in the module “正式/休閒/約會/通勤”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: silhouette-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 silhouette-comparison 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 silhouette-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「休閒穿搭不邋遢」，所屬章節「正式/休閒/約會/通勤」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：silhouette-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “休閒穿搭不邋遢” in the module “正式/休閒/約會/通勤”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: silhouette-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 silhouette-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「休閒穿搭不邋遢」，先別急著用一個表面現象下結論。 版型、材質與衣長要一起比較。 目標是視覺平衡與舒適，不是評判身材。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "休閒穿搭不邋遢：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_13_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_13_s1",
+        "outfit_body_shape_video_13_s2",
+        "outfit_body_shape_video_13_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_13.mp4",
+      "captions": "outfit_body_shape_video_13.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d128",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v14",
+    "appSlug": "outfit-body-shape",
+    "order": 14,
+    "accessLevel": "pro",
+    "title": "約會穿搭重心",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「約會穿搭重心」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "約會穿搭重心，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「約會穿搭重心」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "約會穿搭重心？",
+        "voiceover": "遇到「約會穿搭重心」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜約會穿搭重心",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「約會穿搭重心」，所屬章節「正式/休閒/約會/通勤」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「約會穿搭重心」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “約會穿搭重心” in the module “正式/休閒/約會/通勤”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「約會穿搭重心」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 before-after 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。",
+        "subtitle": "一次只改一個變因，才看得出真正影響。｜版型、材質與衣長要一起比較。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「約會穿搭重心」，所屬章節「正式/休閒/約會/通勤」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 before-after 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “約會穿搭重心” in the module “正式/休閒/約會/通勤”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 before-after 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「約會穿搭重心」，所屬章節「正式/休閒/約會/通勤」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “約會穿搭重心” in the module “正式/休閒/約會/通勤”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「約會穿搭重心」，先別急著用一個表面現象下結論。 一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "約會穿搭重心：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_14_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_14_s1",
+        "outfit_body_shape_video_14_s2",
+        "outfit_body_shape_video_14_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_14.mp4",
+      "captions": "outfit_body_shape_video_14.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d127",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v15",
+    "appSlug": "outfit-body-shape",
+    "order": 15,
+    "accessLevel": "pro",
+    "title": "寬褲不是人人都一樣穿",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「寬褲不是人人都一樣穿」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "寬褲不是人人都一樣穿，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「寬褲不是人人都一樣穿」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "寬褲不是人人都一樣穿？",
+        "voiceover": "遇到「寬褲不是人人都一樣穿」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜寬褲不是人人都一樣穿",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「寬褲不是人人都一樣穿」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：fit-check。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「寬褲不是人人都一樣穿」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “寬褲不是人人都一樣穿” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: fit-check. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「寬褲不是人人都一樣穿」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 fit-check 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 fit-check 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "試穿時用正面、側面與坐下三種狀態檢查。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。",
+        "subtitle": "試穿時用正面、側面與坐下三種狀態檢查。｜先量肩、腰、臀與上下身比例，不只看衣服尺碼。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「寬褲不是人人都一樣穿」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：fit-check。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 fit-check 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “寬褲不是人人都一樣穿” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: fit-check. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 fit-check 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 fit-check 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「寬褲不是人人都一樣穿」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：fit-check。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “寬褲不是人人都一樣穿” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: fit-check. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 fit-check 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「寬褲不是人人都一樣穿」，先別急著用一個表面現象下結論。 試穿時用正面、側面與坐下三種狀態檢查。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "寬褲不是人人都一樣穿：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_15_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_15_s1",
+        "outfit_body_shape_video_15_s2",
+        "outfit_body_shape_video_15_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_15.mp4",
+      "captions": "outfit_body_shape_video_15.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d005",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v16",
+    "appSlug": "outfit-body-shape",
+    "order": 16,
+    "accessLevel": "pro",
+    "title": "鞋子如何影響腿長",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「鞋子如何影響腿長」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "鞋子如何影響腿長，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「鞋子如何影響腿長」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "鞋子如何影響腿長？",
+        "voiceover": "遇到「鞋子如何影響腿長」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜鞋子如何影響腿長",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「鞋子如何影響腿長」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「鞋子如何影響腿長」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “鞋子如何影響腿長” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「鞋子如何影響腿長」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 before-after 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。",
+        "subtitle": "一次只改一個變因，才看得出真正影響。｜版型、材質與衣長要一起比較。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「鞋子如何影響腿長」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 before-after 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “鞋子如何影響腿長” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 before-after 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「鞋子如何影響腿長」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：before-after。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “鞋子如何影響腿長” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: before-after. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 before-after 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「鞋子如何影響腿長」，先別急著用一個表面現象下結論。 一次只改一個變因，才看得出真正影響。 版型、材質與衣長要一起比較。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "鞋子如何影響腿長：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_16_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_16_s1",
+        "outfit_body_shape_video_16_s2",
+        "outfit_body_shape_video_16_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_16.mp4",
+      "captions": "outfit_body_shape_video_16.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d002",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v17",
+    "appSlug": "outfit-body-shape",
+    "order": 17,
+    "accessLevel": "pro",
+    "title": "同色系顯高原理",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「同色系顯高原理」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "同色系顯高原理，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「同色系顯高原理」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "同色系顯高原理？",
+        "voiceover": "遇到「同色系顯高原理」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜同色系顯高原理",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同色系顯高原理」，所屬章節「色塊重心」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「同色系顯高原理」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同色系顯高原理” in the module “色塊重心”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「同色系顯高原理」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。",
+        "subtitle": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。｜一次只改一個變因，才看得出真正影響。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同色系顯高原理」，所屬章節「色塊重心」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同色系顯高原理” in the module “色塊重心”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同色系顯高原理」，所屬章節「色塊重心」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同色系顯高原理” in the module “色塊重心”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「同色系顯高原理」，先別急著用一個表面現象下結論。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "同色系顯高原理：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_17_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_17_s1",
+        "outfit_body_shape_video_17_s2",
+        "outfit_body_shape_video_17_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_17.mp4",
+      "captions": "outfit_body_shape_video_17.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d076",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v18",
+    "appSlug": "outfit-body-shape",
+    "order": 18,
+    "accessLevel": "pro",
+    "title": "購物避雷 5 秒法",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「購物避雷 5 秒法」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "購物避雷 5 秒法，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「購物避雷 5 秒法」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "購物避雷 5 秒法？",
+        "voiceover": "遇到「購物避雷 5 秒法」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜購物避雷 5 秒法",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「購物避雷 5 秒法」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：fit-check。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「購物避雷 5 秒法」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “購物避雷 5 秒法” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: fit-check. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「購物避雷 5 秒法」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 fit-check 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 fit-check 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "試穿時用正面、側面與坐下三種狀態檢查。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。",
+        "subtitle": "試穿時用正面、側面與坐下三種狀態檢查。｜先量肩、腰、臀與上下身比例，不只看衣服尺碼。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「購物避雷 5 秒法」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：fit-check。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 fit-check 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “購物避雷 5 秒法” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: fit-check. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 fit-check 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 fit-check 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「購物避雷 5 秒法」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：fit-check。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “購物避雷 5 秒法” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: fit-check. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 fit-check 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「購物避雷 5 秒法」，先別急著用一個表面現象下結論。 試穿時用正面、側面與坐下三種狀態檢查。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "購物避雷 5 秒法：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_18_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_18_s1",
+        "outfit_body_shape_video_18_s2",
+        "outfit_body_shape_video_18_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_18.mp4",
+      "captions": "outfit_body_shape_video_18.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d010",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v19",
+    "appSlug": "outfit-body-shape",
+    "order": 19,
+    "accessLevel": "pro",
+    "title": "衣櫃整理順序",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「衣櫃整理順序」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "衣櫃整理順序，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「衣櫃整理順序」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "衣櫃整理順序？",
+        "voiceover": "遇到「衣櫃整理順序」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜衣櫃整理順序",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「衣櫃整理順序」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「衣櫃整理順序」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “衣櫃整理順序” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「衣櫃整理順序」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。",
+        "subtitle": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。｜一次只改一個變因，才看得出真正影響。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「衣櫃整理順序」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “衣櫃整理順序” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「衣櫃整理順序」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “衣櫃整理順序” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「衣櫃整理順序」，先別急著用一個表面現象下結論。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "衣櫃整理順序：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_19_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_19_s1",
+        "outfit_body_shape_video_19_s2",
+        "outfit_body_shape_video_19_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_19.mp4",
+      "captions": "outfit_body_shape_video_19.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d001",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "outfit-body-shape-v20",
+    "appSlug": "outfit-body-shape",
+    "order": 20,
+    "accessLevel": "pro",
+    "title": "Pro 章節導覽示範",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用比例線與穿錯／穿對對照呈現「Pro 章節導覽示範」，先找視覺重心，再選版型與衣長。",
+    "openingHook": "Pro 章節導覽示範，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「Pro 章節導覽示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "Pro 章節導覽示範？",
+        "voiceover": "遇到「Pro 章節導覽示範」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜Pro 章節導覽示範",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「Pro 章節導覽示範」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「Pro 章節導覽示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “Pro 章節導覽示範” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「Pro 章節導覽示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。",
+        "subtitle": "先量肩、腰、臀與上下身比例，不只看衣服尺碼。｜一次只改一個變因，才看得出真正影響。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「Pro 章節導覽示範」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “Pro 章節導覽示範” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 body-ratio-overlay 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+        "subtitle": "先做：拍正面與側面比例照並標腰線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「Pro 章節導覽示範」，所屬章節「體型辨識」。 視覺風格：米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄。主體：不同身形與膚色的成年 3D 人體模特及服裝版型。 圖解型態：body-ratio-overlay。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “Pro 章節導覽示範” in the module “體型辨識”. Visual direction: 米白與霧藍、乾淨時尚 3D 人體模特、包容多元體型、比例輔助線、穿錯穿對雙欄. Main subject: 不同身形與膚色的成年 3D 人體模特及服裝版型. Diagram pattern: body-ratio-overlay. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "身材羞辱、過度瘦身、未成年人、裸露、品牌商標、奢侈品 logo、極端變形、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 body-ratio-overlay 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「Pro 章節導覽示範」，先別急著用一個表面現象下結論。 先量肩、腰、臀與上下身比例，不只看衣服尺碼。 一次只改一個變因，才看得出真正影響。 下一步先做：拍正面與側面比例照並標腰線。再依結果決定是否只替換一個版型或衣長變因。",
+    "caption": "Pro 章節導覽示範：先看完整情境，再做低風險確認。提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "outfit_body_shape_video_20_thumb",
+      "sceneFrames": [
+        "outfit_body_shape_video_20_s1",
+        "outfit_body_shape_video_20_s2",
+        "outfit_body_shape_video_20_s3"
+      ],
+      "finalVideo": "outfit_body_shape_video_20.mp4",
+      "captions": "outfit_body_shape_video_20.vtt"
+    },
+    "safetyNote": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+    "sourceDiagramId": "outfit-body-shape-d001",
+    "editorialStatus": "draft-ready-for-review"
+  }
+]

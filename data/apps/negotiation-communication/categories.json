@@ -1,0 +1,82 @@
+[
+  {
+    "id": "negotiation-communication-m01",
+    "appSlug": "negotiation-communication",
+    "title": "開場定位",
+    "order": 1,
+    "topicCount": 25,
+    "freeCount": 7,
+    "proCount": 18,
+    "iconSystemName": "message"
+  },
+  {
+    "id": "negotiation-communication-m02",
+    "appSlug": "negotiation-communication",
+    "title": "權力距離",
+    "order": 2,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "person.2"
+  },
+  {
+    "id": "negotiation-communication-m03",
+    "appSlug": "negotiation-communication",
+    "title": "問句策略",
+    "order": 3,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "arrow.left.and.right"
+  },
+  {
+    "id": "negotiation-communication-m04",
+    "appSlug": "negotiation-communication",
+    "title": "價格攻防",
+    "order": 4,
+    "topicCount": 25,
+    "freeCount": 4,
+    "proCount": 21,
+    "iconSystemName": "heart"
+  },
+  {
+    "id": "negotiation-communication-m05",
+    "appSlug": "negotiation-communication",
+    "title": "拒絕與回應",
+    "order": 5,
+    "topicCount": 25,
+    "freeCount": 1,
+    "proCount": 24,
+    "iconSystemName": "shield"
+  },
+  {
+    "id": "negotiation-communication-m06",
+    "appSlug": "negotiation-communication",
+    "title": "僵局處理",
+    "order": 6,
+    "topicCount": 25,
+    "freeCount": 1,
+    "proCount": 24,
+    "iconSystemName": "snowflake"
+  },
+  {
+    "id": "negotiation-communication-m07",
+    "appSlug": "negotiation-communication",
+    "title": "讓步交換",
+    "order": 7,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "exclamationmark.triangle"
+  },
+  {
+    "id": "negotiation-communication-m08",
+    "appSlug": "negotiation-communication",
+    "title": "收尾追蹤",
+    "order": 8,
+    "topicCount": 25,
+    "freeCount": 1,
+    "proCount": 24,
+    "iconSystemName": "wrench"
+  }
+]

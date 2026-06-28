@@ -1,0 +1,82 @@
+[
+  {
+    "id": "coffee-visual-guide-m01",
+    "appSlug": "coffee-visual-guide",
+    "title": "磨豆與粒徑",
+    "order": 1,
+    "topicCount": 25,
+    "freeCount": 5,
+    "proCount": 20,
+    "iconSystemName": "message"
+  },
+  {
+    "id": "coffee-visual-guide-m02",
+    "appSlug": "coffee-visual-guide",
+    "title": "注水方式",
+    "order": 2,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "person.2"
+  },
+  {
+    "id": "coffee-visual-guide-m03",
+    "appSlug": "coffee-visual-guide",
+    "title": "粉層結構",
+    "order": 3,
+    "topicCount": 25,
+    "freeCount": 3,
+    "proCount": 22,
+    "iconSystemName": "arrow.left.and.right"
+  },
+  {
+    "id": "coffee-visual-guide-m04",
+    "appSlug": "coffee-visual-guide",
+    "title": "萃取時間",
+    "order": 4,
+    "topicCount": 25,
+    "freeCount": 3,
+    "proCount": 22,
+    "iconSystemName": "heart"
+  },
+  {
+    "id": "coffee-visual-guide-m05",
+    "appSlug": "coffee-visual-guide",
+    "title": "不同器具",
+    "order": 5,
+    "topicCount": 25,
+    "freeCount": 3,
+    "proCount": 22,
+    "iconSystemName": "shield"
+  },
+  {
+    "id": "coffee-visual-guide-m06",
+    "appSlug": "coffee-visual-guide",
+    "title": "奶咖結構",
+    "order": 6,
+    "topicCount": 25,
+    "freeCount": 1,
+    "proCount": 24,
+    "iconSystemName": "snowflake"
+  },
+  {
+    "id": "coffee-visual-guide-m07",
+    "appSlug": "coffee-visual-guide",
+    "title": "常見失敗",
+    "order": 7,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "exclamationmark.triangle"
+  },
+  {
+    "id": "coffee-visual-guide-m08",
+    "appSlug": "coffee-visual-guide",
+    "title": "味道反推調整",
+    "order": 8,
+    "topicCount": 25,
+    "freeCount": 1,
+    "proCount": 24,
+    "iconSystemName": "wrench"
+  }
+]

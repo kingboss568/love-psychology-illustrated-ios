@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-06-25",
+  "rank": 6,
+  "name": "談判心理與溝通策略全圖解",
+  "shortName": "談判溝通",
+  "slug": "negotiation-communication",
+  "bundleId": "com.jiang.visualguide.negotiation",
+  "productId": "com.jiang.visualguide.negotiation.pro.lifetime",
+  "positioning": "在壓價、開價、拒絕、拉回主導與合作談判時少吃虧。",
+  "hook": "不是教你嘴砲，是讓你在關鍵對話少吃虧。",
+  "targetUsers": [
+    "創業者、業務、主管、接案者、自由工作者",
+    "需要在價格、合作、會議中提高主導權的人"
+  ],
+  "purchaseMotivation": "我想知道當下要怎麼回。",
+  "visualSellingPoint": "對話腳本、權力距離、座位與位置圖。",
+  "safeClaim": "提供一般溝通教育，不鼓勵欺騙、脅迫、歧視或違法行為；重大法律與勞資事項應諮詢專業人士。",
+  "theme": {
+    "primary": "深墨藍",
+    "accent": "金色",
+    "visual_language": "談判桌、權力距離、對話分支、讓步交換箭頭"
+  },
+  "uniqueFeature": {
+    "id": "branching-dialogue",
+    "name": "分支對話模擬器",
+    "description": "選擇對方回應後，查看高風險說法、替代句、交換條件與書面收尾。",
+    "views": [
+      "DialogueSimulatorView",
+      "PhraseCompareView",
+      "AgreementSummaryView"
+    ]
+  },
+  "coreFeatures": [
+    "對話腳本卡",
+    "開場定位圖",
+    "權力距離與座位圖",
+    "收尾追蹤策略",
+    "錯誤說法對照",
+    "分支對話模擬器"
+  ],
+  "contentCounts": {
+    "diagrams": 200,
+    "freeDiagrams": 20,
+    "proDiagrams": 180,
+    "videos": 20,
+    "freeVideos": 3,
+    "proVideos": 17,
+    "socialVideos": 10
+  },
+  "categories": [
+    {
+      "id": "negotiation-communication-m01",
+      "appSlug": "negotiation-communication",
+      "title": "開場定位",
+      "order": 1,
+      "topicCount": 25,
+      "freeCount": 7,
+      "proCount": 18,
+      "iconSystemName": "message"
+    },
+    {
+      "id": "negotiation-communication-m02",
+      "appSlug": "negotiation-communication",
+      "title": "權力距離",
+      "order": 2,
+      "topicCount": 25,
+      "freeCount": 2,
+      "proCount": 23,
+      "iconSystemName": "person.2"
+    },
+    {
+      "id": "negotiation-communication-m03",
+      "appSlug": "negotiation-communication",
+      "title": "問句策略",
+      "order": 3,
+      "topicCount": 25,
+      "freeCount": 2,
+      "proCount": 23,
+      "iconSystemName": "arrow.left.and.right"
+    },
+    {
+      "id": "negotiation-communication-m04",
+      "appSlug": "negotiation-communication",
+      "title": "價格攻防",
+      "order": 4,
+      "topicCount": 25,
+      "freeCount": 4,
+      "proCount": 21,
+      "iconSystemName": "heart"
+    },
+    {
+      "id": "negotiation-communication-m05",
+      "appSlug": "negotiation-communication",
+      "title": "拒絕與回應",
+      "order": 5,
+      "topicCount": 25,
+      "freeCount": 1,
+      "proCount": 24,
+      "iconSystemName": "shield"
+    },
+    {
+      "id": "negotiation-communication-m06",
+      "appSlug": "negotiation-communication",
+      "title": "僵局處理",
+      "order": 6,
+      "topicCount": 25,
+      "freeCount": 1,
+      "proCount": 24,
+      "iconSystemName": "snowflake"
+    },
+    {
+      "id": "negotiation-communication-m07",
+      "appSlug": "negotiation-communication",
+      "title": "讓步交換",
+      "order": 7,
+      "topicCount": 25,
+      "freeCount": 2,
+      "proCount": 23,
+      "iconSystemName": "exclamationmark.triangle"
+    },
+    {
+      "id": "negotiation-communication-m08",
+      "appSlug": "negotiation-communication",
+      "title": "收尾追蹤",
+      "order": 8,
+      "topicCount": 25,
+      "freeCount": 1,
+      "proCount": 24,
+      "iconSystemName": "wrench"
+    }
+  ],
+  "monetization": {
+    "download": "free",
+    "iapType": "non-consumable",
+    "targetPriceTWD": 299,
+    "priceSourceOfTruth": "StoreKit Product.displayPrice",
+    "restorePurchasesRequired": true
+  },
+  "releaseStrategy": {
+    "pilotApp": false,
+    "doNotShipAsTemplateClone": true,
+    "requiresUniqueFeatureAndMetadata": true,
+    "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+  }
+}

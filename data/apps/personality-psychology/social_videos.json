@@ -1,0 +1,422 @@
+[
+  {
+    "id": "personality-psychology-social-01",
+    "title": "高敏感型為何退縮｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "高敏感型為何退縮，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "高敏感型為何退縮，別只看表面。",
+        "subtitle": "高敏感型為何退縮？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 scenario-paths 圖解，三個節點依序亮起",
+        "voiceover": "描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：描述具體行為而不是貼標籤。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「高敏感型為何退縮」不只看表面，先用這張圖拆成三步。\n\n教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "personality-psychology-d001"
+  },
+  {
+    "id": "personality-psychology-social-02",
+    "title": "高社交型的真弱點｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "高社交型的真弱點，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "高社交型的真弱點，別只看表面。",
+        "subtitle": "高社交型的真弱點？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 preference-spectrum 圖解，三個節點依序亮起",
+        "voiceover": "平常偏好與壓力反應可能不同。 先問對方需要資訊、時間、空間或支持。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：描述具體行為而不是貼標籤。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「高社交型的真弱點」不只看表面，先用這張圖拆成三步。\n\n教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "personality-psychology-d002"
+  },
+  {
+    "id": "personality-psychology-social-03",
+    "title": "為何有些人先沉默｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "為何有些人先沉默，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "為何有些人先沉默，別只看表面。",
+        "subtitle": "為何有些人先沉默？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 stress-shift 圖解，三個節點依序亮起",
+        "voiceover": "先問對方需要資訊、時間、空間或支持。 同一特質在不同情境可能是優點也可能成為負擔。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：描述具體行為而不是貼標籤。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「為何有些人先沉默」不只看表面，先用這張圖拆成三步。\n\n教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "personality-psychology-d003"
+  },
+  {
+    "id": "personality-psychology-social-04",
+    "title": "不同人格的關心方式｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "不同人格的關心方式，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "不同人格的關心方式，別只看表面。",
+        "subtitle": "不同人格的關心方式？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 communication-bridge 圖解，三個節點依序亮起",
+        "voiceover": "同一特質在不同情境可能是優點也可能成為負擔。 建立可調整的合作方式，比猜人格類型更實用。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：描述具體行為而不是貼標籤。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「不同人格的關心方式」不只看表面，先用這張圖拆成三步。\n\n教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "personality-psychology-d004"
+  },
+  {
+    "id": "personality-psychology-social-05",
+    "title": "冒險型為何不想被管｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "冒險型為何不想被管，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "冒險型為何不想被管，別只看表面。",
+        "subtitle": "冒險型為何不想被管？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 misunderstanding-map 圖解，三個節點依序亮起",
+        "voiceover": "建立可調整的合作方式，比猜人格類型更實用。 描述可觀察行為，不把人定型。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：描述具體行為而不是貼標籤。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「冒險型為何不想被管」不只看表面，先用這張圖拆成三步。\n\n教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "personality-psychology-d005"
+  },
+  {
+    "id": "personality-psychology-social-06",
+    "title": "分析型為何一直問細節｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "分析型為何一直問細節，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "分析型為何一直問細節，別只看表面。",
+        "subtitle": "分析型為何一直問細節？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 scenario-paths 圖解，三個節點依序亮起",
+        "voiceover": "描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：描述具體行為而不是貼標籤。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「分析型為何一直問細節」不只看表面，先用這張圖拆成三步。\n\n教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "personality-psychology-d006"
+  },
+  {
+    "id": "personality-psychology-social-07",
+    "title": "外向不等於有安全感｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "外向不等於有安全感，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "外向不等於有安全感，別只看表面。",
+        "subtitle": "外向不等於有安全感？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 preference-spectrum 圖解，三個節點依序亮起",
+        "voiceover": "平常偏好與壓力反應可能不同。 先問對方需要資訊、時間、空間或支持。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：描述具體行為而不是貼標籤。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「外向不等於有安全感」不只看表面，先用這張圖拆成三步。\n\n教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "personality-psychology-d007"
+  },
+  {
+    "id": "personality-psychology-social-08",
+    "title": "內向不等於冷漠｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "內向不等於冷漠，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "內向不等於冷漠，別只看表面。",
+        "subtitle": "內向不等於冷漠？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 stress-shift 圖解，三個節點依序亮起",
+        "voiceover": "先問對方需要資訊、時間、空間或支持。 同一特質在不同情境可能是優點也可能成為負擔。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：描述具體行為而不是貼標籤。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「內向不等於冷漠」不只看表面，先用這張圖拆成三步。\n\n教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "personality-psychology-d008"
+  },
+  {
+    "id": "personality-psychology-social-09",
+    "title": "人格標籤的誤用｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "人格標籤的誤用，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "人格標籤的誤用，別只看表面。",
+        "subtitle": "人格標籤的誤用？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 communication-bridge 圖解，三個節點依序亮起",
+        "voiceover": "同一特質在不同情境可能是優點也可能成為負擔。 建立可調整的合作方式，比猜人格類型更實用。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：描述具體行為而不是貼標籤。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「人格標籤的誤用」不只看表面，先用這張圖拆成三步。\n\n教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "personality-psychology-d009"
+  },
+  {
+    "id": "personality-psychology-social-10",
+    "title": "安全感需求差異｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "安全感需求差異，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "安全感需求差異，別只看表面。",
+        "subtitle": "安全感需求差異？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 scenario-paths 圖解，三個節點依序亮起",
+        "voiceover": "描述可觀察行為，不把人定型。 平常偏好與壓力反應可能不同。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：描述具體行為而不是貼標籤。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「安全感需求差異」不只看表面，先用這張圖拆成三步。\n\n教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "personality-psychology-d026"
+  }
+]

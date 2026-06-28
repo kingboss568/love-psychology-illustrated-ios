@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-06-25",
+  "rank": 7,
+  "name": "人格心理學全圖解",
+  "shortName": "人格心理",
+  "slug": "personality-psychology",
+  "bundleId": "com.jiang.visualguide.personality",
+  "productId": "com.jiang.visualguide.personality.pro.lifetime",
+  "positioning": "用場景與反應模型，幫你理解不同人格怎麼思考與互動。",
+  "hook": "不是把人貼標籤，是讓你少誤會、少內耗。",
+  "targetUsers": [
+    "對心理學、人際互動、伴侶與職場理解有需求的人",
+    "想理解自己與他人的衝突模式、決策模式與壓力反應的人"
+  ],
+  "purchaseMotivation": "我想少誤會、少內耗。",
+  "visualSellingPoint": "同場景不同人格反應對照。",
+  "safeClaim": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+  "theme": {
+    "primary": "柔紫",
+    "accent": "霧灰",
+    "visual_language": "同場景多角色反應、壓力雷達圖、互動流程線"
+  },
+  "uniqueFeature": {
+    "id": "scenario-comparison",
+    "name": "同場景多反應比較",
+    "description": "在同一事件中切換不同偏好、壓力反應與溝通需求，建立差異而非分類定罪。",
+    "views": [
+      "ScenarioComparisonView",
+      "PreferenceSpectrumView",
+      "ReflectionNoteView"
+    ]
+  },
+  "coreFeatures": [
+    "同場景不同人格反應對照",
+    "壓力反應圖",
+    "衝突風格圖",
+    "決策節奏圖",
+    "誤會來源卡",
+    "同場景多反應比較"
+  ],
+  "contentCounts": {
+    "diagrams": 200,
+    "freeDiagrams": 20,
+    "proDiagrams": 180,
+    "videos": 20,
+    "freeVideos": 3,
+    "proVideos": 17,
+    "socialVideos": 10
+  },
+  "categories": [
+    {
+      "id": "personality-psychology-m01",
+      "appSlug": "personality-psychology",
+      "title": "思考方式",
+      "order": 1,
+      "topicCount": 25,
+      "freeCount": 9,
+      "proCount": 16,
+      "iconSystemName": "message"
+    },
+    {
+      "id": "personality-psychology-m02",
+      "appSlug": "personality-psychology",
+      "title": "關係模式",
+      "order": 2,
+      "topicCount": 25,
+      "freeCount": 3,
+      "proCount": 22,
+      "iconSystemName": "person.2"
+    },
+    {
+      "id": "personality-psychology-m03",
+      "appSlug": "personality-psychology",
+      "title": "衝突風格",
+      "order": 3,
+      "topicCount": 25,
+      "freeCount": 3,
+      "proCount": 22,
+      "iconSystemName": "arrow.left.and.right"
+    },
+    {
+      "id": "personality-psychology-m04",
+      "appSlug": "personality-psychology",
+      "title": "壓力反應",
+      "order": 4,
+      "topicCount": 25,
+      "freeCount": 4,
+      "proCount": 21,
+      "iconSystemName": "heart"
+    },
+    {
+      "id": "personality-psychology-m05",
+      "appSlug": "personality-psychology",
+      "title": "工作互動",
+      "order": 5,
+      "topicCount": 25,
+      "freeCount": 0,
+      "proCount": 25,
+      "iconSystemName": "shield"
+    },
+    {
+      "id": "personality-psychology-m06",
+      "appSlug": "personality-psychology",
+      "title": "決策節奏",
+      "order": 6,
+      "topicCount": 25,
+      "freeCount": 1,
+      "proCount": 24,
+      "iconSystemName": "snowflake"
+    },
+    {
+      "id": "personality-psychology-m07",
+      "appSlug": "personality-psychology",
+      "title": "親密距離",
+      "order": 7,
+      "topicCount": 25,
+      "freeCount": 0,
+      "proCount": 25,
+      "iconSystemName": "exclamationmark.triangle"
+    },
+    {
+      "id": "personality-psychology-m08",
+      "appSlug": "personality-psychology",
+      "title": "誤會來源",
+      "order": 8,
+      "topicCount": 25,
+      "freeCount": 0,
+      "proCount": 25,
+      "iconSystemName": "wrench"
+    }
+  ],
+  "monetization": {
+    "download": "free",
+    "iapType": "non-consumable",
+    "targetPriceTWD": 299,
+    "priceSourceOfTruth": "StoreKit Product.displayPrice",
+    "restorePurchasesRequired": true
+  },
+  "releaseStrategy": {
+    "pilotApp": false,
+    "doNotShipAsTemplateClone": true,
+    "requiresUniqueFeatureAndMetadata": true,
+    "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+  }
+}

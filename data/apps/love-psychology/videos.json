@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "love-psychology-v01",
+    "appSlug": "love-psychology",
+    "order": 1,
+    "accessLevel": "free",
+    "title": "同一句「最近好忙」在三種關係階段的不同意思",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "把「同一句「最近好忙」在三種關係階段的不同意思」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "同一句「最近好忙」在三種關係階段的不同意思，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「同一句「最近好忙」在三種關係階段的不同意思」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "同一句「最近好忙」在三種關係階段的不同意思？",
+        "voiceover": "遇到「同一句「最近好忙」在三種關係階段的不同意思」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜同一句「最近好忙」在三種關係階段的不同意思",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同一句「最近好忙」在三種關係階段的不同意思」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「同一句「最近好忙」在三種關係階段的不同意思」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同一句「最近好忙」在三種關係階段的不同意思” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「同一句「最近好忙」在三種關係階段的不同意思」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 timeline 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。",
+        "subtitle": "把行為、關係階段與雙方界線放在同一張圖看。｜用低壓力問題確認，而不是猜測或測試對方。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同一句「最近好忙」在三種關係階段的不同意思」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 timeline 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同一句「最近好忙」在三種關係階段的不同意思” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 timeline 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "免費查看完整圖解",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同一句「最近好忙」在三種關係階段的不同意思」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同一句「最近好忙」在三種關係階段的不同意思” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「同一句「最近好忙」在三種關係階段的不同意思」，先別急著用一個表面現象下結論。 把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "同一句「最近好忙」在三種關係階段的不同意思：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "打開 App 查看完整圖解",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_01_thumb",
+      "sceneFrames": [
+        "love_psychology_video_01_s1",
+        "love_psychology_video_01_s2",
+        "love_psychology_video_01_s3"
+      ],
+      "finalVideo": "love_psychology_video_01.mp4",
+      "captions": "love_psychology_video_01.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d007",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v02",
+    "appSlug": "love-psychology",
+    "order": 2,
+    "accessLevel": "free",
+    "title": "曖昧升溫前的 3 個可見線索",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "把「曖昧升溫前的 3 個可見線索」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "曖昧升溫前的 3 個可見線索，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「曖昧升溫前的 3 個可見線索」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "曖昧升溫前的 3 個可見線索？",
+        "voiceover": "遇到「曖昧升溫前的 3 個可見線索」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜曖昧升溫前的 3 個可見線索",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「曖昧升溫前的 3 個可見線索」，所屬章節「推拉模式」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「曖昧升溫前的 3 個可見線索」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “曖昧升溫前的 3 個可見線索” in the module “推拉模式”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「曖昧升溫前的 3 個可見線索」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 timeline 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。",
+        "subtitle": "把行為、關係階段與雙方界線放在同一張圖看。｜用低壓力問題確認，而不是猜測或測試對方。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「曖昧升溫前的 3 個可見線索」，所屬章節「推拉模式」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 timeline 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “曖昧升溫前的 3 個可見線索” in the module “推拉模式”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 timeline 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "免費查看完整圖解",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「曖昧升溫前的 3 個可見線索」，所屬章節「推拉模式」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “曖昧升溫前的 3 個可見線索” in the module “推拉模式”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「曖昧升溫前的 3 個可見線索」，先別急著用一個表面現象下結論。 把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "曖昧升溫前的 3 個可見線索：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "打開 App 查看完整圖解",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_02_thumb",
+      "sceneFrames": [
+        "love_psychology_video_02_s1",
+        "love_psychology_video_02_s2",
+        "love_psychology_video_02_s3"
+      ],
+      "finalVideo": "love_psychology_video_02.mp4",
+      "captions": "love_psychology_video_02.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d052",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v03",
+    "appSlug": "love-psychology",
+    "order": 3,
+    "accessLevel": "free",
+    "title": "忽冷忽熱：情緒波浪圖拆解",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "把「忽冷忽熱：情緒波浪圖拆解」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "忽冷忽熱：情緒波浪圖拆解，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「忽冷忽熱：情緒波浪圖拆解」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "忽冷忽熱：情緒波浪圖拆解？",
+        "voiceover": "遇到「忽冷忽熱：情緒波浪圖拆解」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜忽冷忽熱：情緒波浪圖拆解",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「忽冷忽熱：情緒波浪圖拆解」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「忽冷忽熱：情緒波浪圖拆解」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “忽冷忽熱：情緒波浪圖拆解” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「忽冷忽熱：情緒波浪圖拆解」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 timeline 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。",
+        "subtitle": "把行為、關係階段與雙方界線放在同一張圖看。｜用低壓力問題確認，而不是猜測或測試對方。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「忽冷忽熱：情緒波浪圖拆解」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 timeline 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “忽冷忽熱：情緒波浪圖拆解” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 timeline 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "免費查看完整圖解",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「忽冷忽熱：情緒波浪圖拆解」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “忽冷忽熱：情緒波浪圖拆解” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「忽冷忽熱：情緒波浪圖拆解」，先別急著用一個表面現象下結論。 把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "忽冷忽熱：情緒波浪圖拆解：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "打開 App 查看完整圖解",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_03_thumb",
+      "sceneFrames": [
+        "love_psychology_video_03_s1",
+        "love_psychology_video_03_s2",
+        "love_psychology_video_03_s3"
+      ],
+      "finalVideo": "love_psychology_video_03.mp4",
+      "captions": "love_psychology_video_03.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d002",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v04",
+    "appSlug": "love-psychology",
+    "order": 4,
+    "accessLevel": "pro",
+    "title": "red flag 與普通缺點的差別",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "把「red flag 與普通缺點的差別」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "red flag 與普通缺點的差別，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「red flag 與普通缺點的差別」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "red flag 與普通缺點的差別？",
+        "voiceover": "遇到「red flag 與普通缺點的差別」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜red flag 與普通缺點的差別",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「red flag 與普通缺點的差別」，所屬章節「冷淡與退縮」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「red flag 與普通缺點的差別」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “red flag 與普通缺點的差別” in the module “冷淡與退縮”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「red flag 與普通缺點的差別」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 relationship-distance 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先比較前後變化與一致性，不用一次事件下結論。 把行為、關係階段與雙方界線放在同一張圖看。",
+        "subtitle": "先比較前後變化與一致性，不用一次事件下結論。｜把行為、關係階段與雙方界線放在同一張圖看。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「red flag 與普通缺點的差別」，所屬章節「冷淡與退縮」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 relationship-distance 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “red flag 與普通缺點的差別” in the module “冷淡與退縮”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 relationship-distance 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「red flag 與普通缺點的差別」，所屬章節「冷淡與退縮」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “red flag 與普通缺點的差別” in the module “冷淡與退縮”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「red flag 與普通缺點的差別」，先別急著用一個表面現象下結論。 先比較前後變化與一致性，不用一次事件下結論。 把行為、關係階段與雙方界線放在同一張圖看。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "red flag 與普通缺點的差別：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_04_thumb",
+      "sceneFrames": [
+        "love_psychology_video_04_s1",
+        "love_psychology_video_04_s2",
+        "love_psychology_video_04_s3"
+      ],
+      "finalVideo": "love_psychology_video_04.mp4",
+      "captions": "love_psychology_video_04.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d126",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v05",
+    "appSlug": "love-psychology",
+    "order": 5,
+    "accessLevel": "pro",
+    "title": "約會後變冷的三種可能",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "把「約會後變冷的三種可能」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "約會後變冷的三種可能，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「約會後變冷的三種可能」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "約會後變冷的三種可能？",
+        "voiceover": "遇到「約會後變冷的三種可能」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜約會後變冷的三種可能",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「約會後變冷的三種可能」，所屬章節「約會互動」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「約會後變冷的三種可能」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “約會後變冷的三種可能” in the module “約會互動”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「約會後變冷的三種可能」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 relationship-distance 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先比較前後變化與一致性，不用一次事件下結論。 把行為、關係階段與雙方界線放在同一張圖看。",
+        "subtitle": "先比較前後變化與一致性，不用一次事件下結論。｜把行為、關係階段與雙方界線放在同一張圖看。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「約會後變冷的三種可能」，所屬章節「約會互動」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 relationship-distance 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “約會後變冷的三種可能” in the module “約會互動”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 relationship-distance 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「約會後變冷的三種可能」，所屬章節「約會互動」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “約會後變冷的三種可能” in the module “約會互動”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「約會後變冷的三種可能」，先別急著用一個表面現象下結論。 先比較前後變化與一致性，不用一次事件下結論。 把行為、關係階段與雙方界線放在同一張圖看。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "約會後變冷的三種可能：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_05_thumb",
+      "sceneFrames": [
+        "love_psychology_video_05_s1",
+        "love_psychology_video_05_s2",
+        "love_psychology_video_05_s3"
+      ],
+      "finalVideo": "love_psychology_video_05.mp4",
+      "captions": "love_psychology_video_05.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d026",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v06",
+    "appSlug": "love-psychology",
+    "order": 6,
+    "accessLevel": "pro",
+    "title": "只聊天不見面怎麼判斷",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "把「只聊天不見面怎麼判斷」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "只聊天不見面怎麼判斷，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「只聊天不見面怎麼判斷」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "只聊天不見面怎麼判斷？",
+        "voiceover": "遇到「只聊天不見面怎麼判斷」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜只聊天不見面怎麼判斷",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「只聊天不見面怎麼判斷」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：boundary-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「只聊天不見面怎麼判斷」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “只聊天不見面怎麼判斷” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: boundary-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「只聊天不見面怎麼判斷」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 boundary-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 boundary-map 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "你的安全感與界線也是判斷的一部分。 先比較前後變化與一致性，不用一次事件下結論。",
+        "subtitle": "你的安全感與界線也是判斷的一部分。｜先比較前後變化與一致性，不用一次事件下結論。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「只聊天不見面怎麼判斷」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：boundary-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 boundary-map 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “只聊天不見面怎麼判斷” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: boundary-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 boundary-map 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 boundary-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「只聊天不見面怎麼判斷」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：boundary-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “只聊天不見面怎麼判斷” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: boundary-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 boundary-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「只聊天不見面怎麼判斷」，先別急著用一個表面現象下結論。 你的安全感與界線也是判斷的一部分。 先比較前後變化與一致性，不用一次事件下結論。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "只聊天不見面怎麼判斷：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_06_thumb",
+      "sceneFrames": [
+        "love_psychology_video_06_s1",
+        "love_psychology_video_06_s2",
+        "love_psychology_video_06_s3"
+      ],
+      "finalVideo": "love_psychology_video_06.mp4",
+      "captions": "love_psychology_video_06.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d005",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v07",
+    "appSlug": "love-psychology",
+    "order": 7,
+    "accessLevel": "pro",
+    "title": "太快靠近為什麼反而危險",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "把「太快靠近為什麼反而危險」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "太快靠近為什麼反而危險，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「太快靠近為什麼反而危險」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "太快靠近為什麼反而危險？",
+        "voiceover": "遇到「太快靠近為什麼反而危險」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜太快靠近為什麼反而危險",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「太快靠近為什麼反而危險」，所屬章節「推拉模式」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「太快靠近為什麼反而危險」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “太快靠近為什麼反而危險” in the module “推拉模式”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「太快靠近為什麼反而危險」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 relationship-distance 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先比較前後變化與一致性，不用一次事件下結論。 把行為、關係階段與雙方界線放在同一張圖看。",
+        "subtitle": "先比較前後變化與一致性，不用一次事件下結論。｜把行為、關係階段與雙方界線放在同一張圖看。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「太快靠近為什麼反而危險」，所屬章節「推拉模式」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 relationship-distance 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “太快靠近為什麼反而危險” in the module “推拉模式”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 relationship-distance 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「太快靠近為什麼反而危險」，所屬章節「推拉模式」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “太快靠近為什麼反而危險” in the module “推拉模式”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「太快靠近為什麼反而危險」，先別急著用一個表面現象下結論。 先比較前後變化與一致性，不用一次事件下結論。 把行為、關係階段與雙方界線放在同一張圖看。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "太快靠近為什麼反而危險：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_07_thumb",
+      "sceneFrames": [
+        "love_psychology_video_07_s1",
+        "love_psychology_video_07_s2",
+        "love_psychology_video_07_s3"
+      ],
+      "finalVideo": "love_psychology_video_07.mp4",
+      "captions": "love_psychology_video_07.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d051",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v08",
+    "appSlug": "love-psychology",
+    "order": 8,
+    "accessLevel": "pro",
+    "title": "健康界線長什麼樣",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "把「健康界線長什麼樣」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "健康界線長什麼樣，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「健康界線長什麼樣」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "健康界線長什麼樣？",
+        "voiceover": "遇到「健康界線長什麼樣」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜健康界線長什麼樣",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「健康界線長什麼樣」，所屬章節「約會互動」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：boundary-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「健康界線長什麼樣」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “健康界線長什麼樣” in the module “約會互動”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: boundary-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「健康界線長什麼樣」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 boundary-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 boundary-map 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "你的安全感與界線也是判斷的一部分。 先比較前後變化與一致性，不用一次事件下結論。",
+        "subtitle": "你的安全感與界線也是判斷的一部分。｜先比較前後變化與一致性，不用一次事件下結論。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「健康界線長什麼樣」，所屬章節「約會互動」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：boundary-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 boundary-map 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “健康界線長什麼樣” in the module “約會互動”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: boundary-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 boundary-map 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 boundary-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「健康界線長什麼樣」，所屬章節「約會互動」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：boundary-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “健康界線長什麼樣” in the module “約會互動”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: boundary-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 boundary-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「健康界線長什麼樣」，先別急著用一個表面現象下結論。 你的安全感與界線也是判斷的一部分。 先比較前後變化與一致性，不用一次事件下結論。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "健康界線長什麼樣：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_08_thumb",
+      "sceneFrames": [
+        "love_psychology_video_08_s1",
+        "love_psychology_video_08_s2",
+        "love_psychology_video_08_s3"
+      ],
+      "finalVideo": "love_psychology_video_08.mp4",
+      "captions": "love_psychology_video_08.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d050",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v09",
+    "appSlug": "love-psychology",
+    "order": 9,
+    "accessLevel": "pro",
+    "title": "聊天節奏不是只看秒回",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "把「聊天節奏不是只看秒回」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "聊天節奏不是只看秒回，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「聊天節奏不是只看秒回」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "聊天節奏不是只看秒回？",
+        "voiceover": "遇到「聊天節奏不是只看秒回」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜聊天節奏不是只看秒回",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「聊天節奏不是只看秒回」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：boundary-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「聊天節奏不是只看秒回」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “聊天節奏不是只看秒回” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: boundary-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「聊天節奏不是只看秒回」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 boundary-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 boundary-map 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "你的安全感與界線也是判斷的一部分。 先比較前後變化與一致性，不用一次事件下結論。",
+        "subtitle": "你的安全感與界線也是判斷的一部分。｜先比較前後變化與一致性，不用一次事件下結論。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「聊天節奏不是只看秒回」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：boundary-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 boundary-map 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “聊天節奏不是只看秒回” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: boundary-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 boundary-map 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 boundary-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「聊天節奏不是只看秒回」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：boundary-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “聊天節奏不是只看秒回” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: boundary-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 boundary-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「聊天節奏不是只看秒回」，先別急著用一個表面現象下結論。 你的安全感與界線也是判斷的一部分。 先比較前後變化與一致性，不用一次事件下結論。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "聊天節奏不是只看秒回：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_09_thumb",
+      "sceneFrames": [
+        "love_psychology_video_09_s1",
+        "love_psychology_video_09_s2",
+        "love_psychology_video_09_s3"
+      ],
+      "finalVideo": "love_psychology_video_09.mp4",
+      "captions": "love_psychology_video_09.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d005",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v10",
+    "appSlug": "love-psychology",
+    "order": 10,
+    "accessLevel": "pro",
+    "title": "對方常消失：看模式不是看單次",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "把「對方常消失：看模式不是看單次」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "對方常消失：看模式不是看單次，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「對方常消失：看模式不是看單次」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "對方常消失：看模式不是看單次？",
+        "voiceover": "遇到「對方常消失：看模式不是看單次」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜對方常消失：看模式不是看單次",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「對方常消失：看模式不是看單次」，所屬章節「推拉模式」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：message-rhythm。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「對方常消失：看模式不是看單次」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “對方常消失：看模式不是看單次” in the module “推拉模式”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: message-rhythm. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「對方常消失：看模式不是看單次」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 message-rhythm 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 message-rhythm 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "用低壓力問題確認，而不是猜測或測試對方。 重視尊重、承諾與修復行為是否持續出現。",
+        "subtitle": "用低壓力問題確認，而不是猜測或測試對方。｜重視尊重、承諾與修復行為是否持續出現。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「對方常消失：看模式不是看單次」，所屬章節「推拉模式」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：message-rhythm。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 message-rhythm 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “對方常消失：看模式不是看單次” in the module “推拉模式”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: message-rhythm. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 message-rhythm 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 message-rhythm 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「對方常消失：看模式不是看單次」，所屬章節「推拉模式」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：message-rhythm。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “對方常消失：看模式不是看單次” in the module “推拉模式”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: message-rhythm. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 message-rhythm 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「對方常消失：看模式不是看單次」，先別急著用一個表面現象下結論。 用低壓力問題確認，而不是猜測或測試對方。 重視尊重、承諾與修復行為是否持續出現。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "對方常消失：看模式不是看單次：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_10_thumb",
+      "sceneFrames": [
+        "love_psychology_video_10_s1",
+        "love_psychology_video_10_s2",
+        "love_psychology_video_10_s3"
+      ],
+      "finalVideo": "love_psychology_video_10.mp4",
+      "captions": "love_psychology_video_10.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d053",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v11",
+    "appSlug": "love-psychology",
+    "order": 11,
+    "accessLevel": "pro",
+    "title": "安全感需求差異圖",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "把「安全感需求差異圖」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "安全感需求差異圖，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「安全感需求差異圖」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "安全感需求差異圖？",
+        "voiceover": "遇到「安全感需求差異圖」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜安全感需求差異圖",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「安全感需求差異圖」，所屬章節「互動修復」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「安全感需求差異圖」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “安全感需求差異圖” in the module “互動修復”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「安全感需求差異圖」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 relationship-distance 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先比較前後變化與一致性，不用一次事件下結論。 把行為、關係階段與雙方界線放在同一張圖看。",
+        "subtitle": "先比較前後變化與一致性，不用一次事件下結論。｜把行為、關係階段與雙方界線放在同一張圖看。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「安全感需求差異圖」，所屬章節「互動修復」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 relationship-distance 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “安全感需求差異圖” in the module “互動修復”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 relationship-distance 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「安全感需求差異圖」，所屬章節「互動修復」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “安全感需求差異圖” in the module “互動修復”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「安全感需求差異圖」，先別急著用一個表面現象下結論。 先比較前後變化與一致性，不用一次事件下結論。 把行為、關係階段與雙方界線放在同一張圖看。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "安全感需求差異圖：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_11_thumb",
+      "sceneFrames": [
+        "love_psychology_video_11_s1",
+        "love_psychology_video_11_s2",
+        "love_psychology_video_11_s3"
+      ],
+      "finalVideo": "love_psychology_video_11.mp4",
+      "captions": "love_psychology_video_11.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d186",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v12",
+    "appSlug": "love-psychology",
+    "order": 12,
+    "accessLevel": "pro",
+    "title": "焦慮依附與逃避依附互卡",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "把「焦慮依附與逃避依附互卡」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "焦慮依附與逃避依附互卡，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「焦慮依附與逃避依附互卡」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "焦慮依附與逃避依附互卡？",
+        "voiceover": "遇到「焦慮依附與逃避依附互卡」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜焦慮依附與逃避依附互卡",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「焦慮依附與逃避依附互卡」，所屬章節「依附與焦慮」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「焦慮依附與逃避依附互卡」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “焦慮依附與逃避依附互卡” in the module “依附與焦慮”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「焦慮依附與逃避依附互卡」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 relationship-distance 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先比較前後變化與一致性，不用一次事件下結論。 把行為、關係階段與雙方界線放在同一張圖看。",
+        "subtitle": "先比較前後變化與一致性，不用一次事件下結論。｜把行為、關係階段與雙方界線放在同一張圖看。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「焦慮依附與逃避依附互卡」，所屬章節「依附與焦慮」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 relationship-distance 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “焦慮依附與逃避依附互卡” in the module “依附與焦慮”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 relationship-distance 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「焦慮依附與逃避依附互卡」，所屬章節「依附與焦慮」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “焦慮依附與逃避依附互卡” in the module “依附與焦慮”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「焦慮依附與逃避依附互卡」，先別急著用一個表面現象下結論。 先比較前後變化與一致性，不用一次事件下結論。 把行為、關係階段與雙方界線放在同一張圖看。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "焦慮依附與逃避依附互卡：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_12_thumb",
+      "sceneFrames": [
+        "love_psychology_video_12_s1",
+        "love_psychology_video_12_s2",
+        "love_psychology_video_12_s3"
+      ],
+      "finalVideo": "love_psychology_video_12.mp4",
+      "captions": "love_psychology_video_12.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d076",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v13",
+    "appSlug": "love-psychology",
+    "order": 13,
+    "accessLevel": "pro",
+    "title": "如何把問題問清楚但不逼迫",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "把「如何把問題問清楚但不逼迫」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "如何把問題問清楚但不逼迫，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「如何把問題問清楚但不逼迫」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "如何把問題問清楚但不逼迫？",
+        "voiceover": "遇到「如何把問題問清楚但不逼迫」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜如何把問題問清楚但不逼迫",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「如何把問題問清楚但不逼迫」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「如何把問題問清楚但不逼迫」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “如何把問題問清楚但不逼迫” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「如何把問題問清楚但不逼迫」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 timeline 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。",
+        "subtitle": "把行為、關係階段與雙方界線放在同一張圖看。｜用低壓力問題確認，而不是猜測或測試對方。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「如何把問題問清楚但不逼迫」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 timeline 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “如何把問題問清楚但不逼迫” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 timeline 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「如何把問題問清楚但不逼迫」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “如何把問題問清楚但不逼迫” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「如何把問題問清楚但不逼迫」，先別急著用一個表面現象下結論。 把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "如何把問題問清楚但不逼迫：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_13_thumb",
+      "sceneFrames": [
+        "love_psychology_video_13_s1",
+        "love_psychology_video_13_s2",
+        "love_psychology_video_13_s3"
+      ],
+      "finalVideo": "love_psychology_video_13.mp4",
+      "captions": "love_psychology_video_13.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d012",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v14",
+    "appSlug": "love-psychology",
+    "order": 14,
+    "accessLevel": "pro",
+    "title": "對方不公開你的可能性",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "把「對方不公開你的可能性」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "對方不公開你的可能性，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「對方不公開你的可能性」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "對方不公開你的可能性？",
+        "voiceover": "遇到「對方不公開你的可能性」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜對方不公開你的可能性",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「對方不公開你的可能性」，所屬章節「約會互動」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「對方不公開你的可能性」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “對方不公開你的可能性” in the module “約會互動”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「對方不公開你的可能性」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 timeline 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。",
+        "subtitle": "把行為、關係階段與雙方界線放在同一張圖看。｜用低壓力問題確認，而不是猜測或測試對方。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「對方不公開你的可能性」，所屬章節「約會互動」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 timeline 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “對方不公開你的可能性” in the module “約會互動”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 timeline 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「對方不公開你的可能性」，所屬章節「約會互動」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “對方不公開你的可能性” in the module “約會互動”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「對方不公開你的可能性」，先別急著用一個表面現象下結論。 把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "對方不公開你的可能性：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_14_thumb",
+      "sceneFrames": [
+        "love_psychology_video_14_s1",
+        "love_psychology_video_14_s2",
+        "love_psychology_video_14_s3"
+      ],
+      "finalVideo": "love_psychology_video_14.mp4",
+      "captions": "love_psychology_video_14.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d027",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v15",
+    "appSlug": "love-psychology",
+    "order": 15,
+    "accessLevel": "pro",
+    "title": "關係升溫的微小承諾",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "把「關係升溫的微小承諾」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "關係升溫的微小承諾，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「關係升溫的微小承諾」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "關係升溫的微小承諾？",
+        "voiceover": "遇到「關係升溫的微小承諾」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜關係升溫的微小承諾",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「關係升溫的微小承諾」，所屬章節「推拉模式」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「關係升溫的微小承諾」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “關係升溫的微小承諾” in the module “推拉模式”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「關係升溫的微小承諾」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 timeline 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。",
+        "subtitle": "把行為、關係階段與雙方界線放在同一張圖看。｜用低壓力問題確認，而不是猜測或測試對方。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「關係升溫的微小承諾」，所屬章節「推拉模式」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 timeline 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “關係升溫的微小承諾” in the module “推拉模式”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 timeline 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「關係升溫的微小承諾」，所屬章節「推拉模式」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “關係升溫的微小承諾” in the module “推拉模式”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「關係升溫的微小承諾」，先別急著用一個表面現象下結論。 把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "關係升溫的微小承諾：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_15_thumb",
+      "sceneFrames": [
+        "love_psychology_video_15_s1",
+        "love_psychology_video_15_s2",
+        "love_psychology_video_15_s3"
+      ],
+      "finalVideo": "love_psychology_video_15.mp4",
+      "captions": "love_psychology_video_15.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d052",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v16",
+    "appSlug": "love-psychology",
+    "order": 16,
+    "accessLevel": "pro",
+    "title": "曖昧降溫前兆",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "把「曖昧降溫前兆」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "曖昧降溫前兆，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「曖昧降溫前兆」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "曖昧降溫前兆？",
+        "voiceover": "遇到「曖昧降溫前兆」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜曖昧降溫前兆",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「曖昧降溫前兆」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：message-rhythm。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「曖昧降溫前兆」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “曖昧降溫前兆” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: message-rhythm. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「曖昧降溫前兆」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 message-rhythm 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 message-rhythm 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "用低壓力問題確認，而不是猜測或測試對方。 重視尊重、承諾與修復行為是否持續出現。",
+        "subtitle": "用低壓力問題確認，而不是猜測或測試對方。｜重視尊重、承諾與修復行為是否持續出現。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「曖昧降溫前兆」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：message-rhythm。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 message-rhythm 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “曖昧降溫前兆” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: message-rhythm. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 message-rhythm 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 message-rhythm 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「曖昧降溫前兆」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：message-rhythm。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “曖昧降溫前兆” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: message-rhythm. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 message-rhythm 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「曖昧降溫前兆」，先別急著用一個表面現象下結論。 用低壓力問題確認，而不是猜測或測試對方。 重視尊重、承諾與修復行為是否持續出現。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "曖昧降溫前兆：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_16_thumb",
+      "sceneFrames": [
+        "love_psychology_video_16_s1",
+        "love_psychology_video_16_s2",
+        "love_psychology_video_16_s3"
+      ],
+      "finalVideo": "love_psychology_video_16.mp4",
+      "captions": "love_psychology_video_16.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d003",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v17",
+    "appSlug": "love-psychology",
+    "order": 17,
+    "accessLevel": "pro",
+    "title": "吵架後是否能修復",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "把「吵架後是否能修復」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "吵架後是否能修復，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「吵架後是否能修復」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "吵架後是否能修復？",
+        "voiceover": "遇到「吵架後是否能修復」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜吵架後是否能修復",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「吵架後是否能修復」，所屬章節「約會互動」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「吵架後是否能修復」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “吵架後是否能修復” in the module “約會互動”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「吵架後是否能修復」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 timeline 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。",
+        "subtitle": "把行為、關係階段與雙方界線放在同一張圖看。｜用低壓力問題確認，而不是猜測或測試對方。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「吵架後是否能修復」，所屬章節「約會互動」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 timeline 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “吵架後是否能修復” in the module “約會互動”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 timeline 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「吵架後是否能修復」，所屬章節「約會互動」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “吵架後是否能修復” in the module “約會互動”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「吵架後是否能修復」，先別急著用一個表面現象下結論。 把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "吵架後是否能修復：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_17_thumb",
+      "sceneFrames": [
+        "love_psychology_video_17_s1",
+        "love_psychology_video_17_s2",
+        "love_psychology_video_17_s3"
+      ],
+      "finalVideo": "love_psychology_video_17.mp4",
+      "captions": "love_psychology_video_17.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d027",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v18",
+    "appSlug": "love-psychology",
+    "order": 18,
+    "accessLevel": "pro",
+    "title": "常見操控話術拆解",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "把「常見操控話術拆解」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "常見操控話術拆解，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「常見操控話術拆解」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "常見操控話術拆解？",
+        "voiceover": "遇到「常見操控話術拆解」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜常見操控話術拆解",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「常見操控話術拆解」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：signal-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「常見操控話術拆解」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “常見操控話術拆解” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: signal-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「常見操控話術拆解」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 signal-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 signal-comparison 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "重視尊重、承諾與修復行為是否持續出現。 你的安全感與界線也是判斷的一部分。",
+        "subtitle": "重視尊重、承諾與修復行為是否持續出現。｜你的安全感與界線也是判斷的一部分。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「常見操控話術拆解」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：signal-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 signal-comparison 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “常見操控話術拆解” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: signal-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 signal-comparison 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 signal-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「常見操控話術拆解」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：signal-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “常見操控話術拆解” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: signal-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 signal-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「常見操控話術拆解」，先別急著用一個表面現象下結論。 重視尊重、承諾與修復行為是否持續出現。 你的安全感與界線也是判斷的一部分。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "常見操控話術拆解：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_18_thumb",
+      "sceneFrames": [
+        "love_psychology_video_18_s1",
+        "love_psychology_video_18_s2",
+        "love_psychology_video_18_s3"
+      ],
+      "finalVideo": "love_psychology_video_18.mp4",
+      "captions": "love_psychology_video_18.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d009",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v19",
+    "appSlug": "love-psychology",
+    "order": 19,
+    "accessLevel": "pro",
+    "title": "不確定關係的停損點",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "把「不確定關係的停損點」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "不確定關係的停損點，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「不確定關係的停損點」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "不確定關係的停損點？",
+        "voiceover": "遇到「不確定關係的停損點」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜不確定關係的停損點",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「不確定關係的停損點」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「不確定關係的停損點」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “不確定關係的停損點” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「不確定關係的停損點」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 timeline 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。",
+        "subtitle": "把行為、關係階段與雙方界線放在同一張圖看。｜用低壓力問題確認，而不是猜測或測試對方。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「不確定關係的停損點」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 timeline 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “不確定關係的停損點” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 timeline 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「不確定關係的停損點」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “不確定關係的停損點” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「不確定關係的停損點」，先別急著用一個表面現象下結論。 把行為、關係階段與雙方界線放在同一張圖看。 用低壓力問題確認，而不是猜測或測試對方。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "不確定關係的停損點：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_19_thumb",
+      "sceneFrames": [
+        "love_psychology_video_19_s1",
+        "love_psychology_video_19_s2",
+        "love_psychology_video_19_s3"
+      ],
+      "finalVideo": "love_psychology_video_19.mp4",
+      "captions": "love_psychology_video_19.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d007",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "love-psychology-v20",
+    "appSlug": "love-psychology",
+    "order": 20,
+    "accessLevel": "pro",
+    "title": "Pro 章節導覽示範",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "把「Pro 章節導覽示範」拆成情境、反覆模式與可驗證的下一步，避免把單次互動直接當成對方心意。",
+    "openingHook": "Pro 章節導覽示範，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「Pro 章節導覽示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "Pro 章節導覽示範？",
+        "voiceover": "遇到「Pro 章節導覽示範」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜Pro 章節導覽示範",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「Pro 章節導覽示範」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「Pro 章節導覽示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “Pro 章節導覽示範” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「Pro 章節導覽示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 relationship-distance 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先比較前後變化與一致性，不用一次事件下結論。 把行為、關係階段與雙方界線放在同一張圖看。",
+        "subtitle": "先比較前後變化與一致性，不用一次事件下結論。｜把行為、關係階段與雙方界線放在同一張圖看。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「Pro 章節導覽示範」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 relationship-distance 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “Pro 章節導覽示範” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 relationship-distance 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+        "subtitle": "先做：記錄三次以上互動的共同模式",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「Pro 章節導覽示範」，所屬章節「聊天節奏」。 視覺風格：溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私。主體：兩位多元、非特定身分的成年人物與手機對話情境。 圖解型態：relationship-distance。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “Pro 章節導覽示範” in the module “聊天節奏”. Visual direction: 溫暖粉橘與深酒紅、柔和 3D 情境模型、兩人距離線、訊息節奏、非寫實且尊重隱私. Main subject: 兩位多元、非特定身分的成年人物與手機對話情境. Diagram pattern: relationship-distance. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "未成年人、裸露、性暗示、暴力、監控、真實名人、品牌、讀心宣稱、診斷文字、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 relationship-distance 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「Pro 章節導覽示範」，先別急著用一個表面現象下結論。 先比較前後變化與一致性，不用一次事件下結論。 把行為、關係階段與雙方界線放在同一張圖看。 下一步先做：記錄三次以上互動的共同模式。再依結果決定是否用非指責句問清楚需求與安排。",
+    "caption": "Pro 章節導覽示範：先看完整情境，再做低風險確認。教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "love_psychology_video_20_thumb",
+      "sceneFrames": [
+        "love_psychology_video_20_s1",
+        "love_psychology_video_20_s2",
+        "love_psychology_video_20_s3"
+      ],
+      "finalVideo": "love_psychology_video_20.mp4",
+      "captions": "love_psychology_video_20.vtt"
+    },
+    "safetyNote": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+    "sourceDiagramId": "love-psychology-d001",
+    "editorialStatus": "draft-ready-for-review"
+  }
+]

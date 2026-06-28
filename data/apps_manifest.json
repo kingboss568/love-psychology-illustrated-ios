@@ -1,0 +1,1176 @@
+{
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-06-25",
+  "apps": [
+    {
+      "schemaVersion": "2.0",
+      "generatedAt": "2026-06-25",
+      "rank": 1,
+      "name": "戀愛心理全圖解",
+      "shortName": "戀愛心理",
+      "slug": "love-psychology",
+      "bundleId": "com.jiang.visualguide.lovepsychology",
+      "productId": "com.jiang.visualguide.lovepsychology.pro.lifetime",
+      "positioning": "用 3D 情境圖看懂曖昧、推拉、冷淡、依附與 red flag，不再只靠猜。",
+      "hook": "他不是難懂，你只是還沒看懂這段關係。",
+      "targetUsers": [
+        "18–35 歲曖昧期、交往初期、關係拉扯期使用者",
+        "經常卡在回訊節奏、約會後落差、忽冷忽熱的人"
+      ],
+      "purchaseMotivation": "我想知道這個人現在到底怎麼想。",
+      "visualSellingPoint": "關係距離圖、對話節奏圖、情緒升降線。",
+      "safeClaim": "教育與自我反思用途，不保證讀心、不作心理診斷，也不替使用者做重大關係決策。",
+      "theme": {
+        "primary": "暖粉橘",
+        "accent": "深酒紅",
+        "visual_language": "兩人距離、訊息氣泡、情緒曲線、約會場景空間線"
+      },
+      "uniqueFeature": {
+        "id": "relationship-timeline",
+        "name": "關係節奏時間軸",
+        "description": "用時間軸標記聯絡、見面、承諾與修復行為，比較單次事件與長期模式。",
+        "views": [
+          "RelationshipTimelineView",
+          "SignalComparisonView",
+          "BoundaryCheckView"
+        ]
+      },
+      "coreFeatures": [
+        "問題入口查詢",
+        "3D 關係距離圖",
+        "對話節奏圖",
+        "情緒升降視覺化",
+        "red flag 風險提示卡",
+        "關係節奏時間軸"
+      ],
+      "contentCounts": {
+        "diagrams": 200,
+        "freeDiagrams": 20,
+        "proDiagrams": 180,
+        "videos": 20,
+        "freeVideos": 3,
+        "proVideos": 17,
+        "socialVideos": 10
+      },
+      "categories": [
+        {
+          "id": "love-psychology-m01",
+          "appSlug": "love-psychology",
+          "title": "聊天節奏",
+          "order": 1,
+          "topicCount": 25,
+          "freeCount": 7,
+          "proCount": 18,
+          "iconSystemName": "message"
+        },
+        {
+          "id": "love-psychology-m02",
+          "appSlug": "love-psychology",
+          "title": "約會互動",
+          "order": 2,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "person.2"
+        },
+        {
+          "id": "love-psychology-m03",
+          "appSlug": "love-psychology",
+          "title": "推拉模式",
+          "order": 3,
+          "topicCount": 25,
+          "freeCount": 7,
+          "proCount": 18,
+          "iconSystemName": "arrow.left.and.right"
+        },
+        {
+          "id": "love-psychology-m04",
+          "appSlug": "love-psychology",
+          "title": "依附與焦慮",
+          "order": 4,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "heart"
+        },
+        {
+          "id": "love-psychology-m05",
+          "appSlug": "love-psychology",
+          "title": "界線與尊重",
+          "order": 5,
+          "topicCount": 25,
+          "freeCount": 0,
+          "proCount": 25,
+          "iconSystemName": "shield"
+        },
+        {
+          "id": "love-psychology-m06",
+          "appSlug": "love-psychology",
+          "title": "冷淡與退縮",
+          "order": 6,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "snowflake"
+        },
+        {
+          "id": "love-psychology-m07",
+          "appSlug": "love-psychology",
+          "title": "分手前訊號",
+          "order": 7,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "exclamationmark.triangle"
+        },
+        {
+          "id": "love-psychology-m08",
+          "appSlug": "love-psychology",
+          "title": "互動修復",
+          "order": 8,
+          "topicCount": 25,
+          "freeCount": 0,
+          "proCount": 25,
+          "iconSystemName": "wrench"
+        }
+      ],
+      "monetization": {
+        "download": "free",
+        "iapType": "non-consumable",
+        "targetPriceTWD": 299,
+        "priceSourceOfTruth": "StoreKit Product.displayPrice",
+        "restorePurchasesRequired": true
+      },
+      "releaseStrategy": {
+        "pilotApp": true,
+        "doNotShipAsTemplateClone": true,
+        "requiresUniqueFeatureAndMetadata": true,
+        "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+      }
+    },
+    {
+      "schemaVersion": "2.0",
+      "generatedAt": "2026-06-25",
+      "rank": 2,
+      "name": "穿搭與體型全圖解",
+      "shortName": "穿搭體型",
+      "slug": "outfit-body-shape",
+      "bundleId": "com.jiang.visualguide.outfitbody",
+      "productId": "com.jiang.visualguide.outfitbody.pro.lifetime",
+      "positioning": "先看懂自己的比例與身形，再選對穿搭。",
+      "hook": "不是你不會穿，是你還沒看懂自己的比例。",
+      "targetUsers": [
+        "常買錯衣服、穿起來總覺得怪的人",
+        "需要顯高、顯瘦、修飾身形的人",
+        "想建立日常穿搭決策系統的人"
+      ],
+      "purchaseMotivation": "我想知道自己到底適合什麼版型。",
+      "visualSellingPoint": "3D 人體比例線與穿錯/穿對對照。",
+      "safeClaim": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+      "theme": {
+        "primary": "米白",
+        "accent": "霧藍",
+        "visual_language": "3D 人體比例線、衣長裁切線、色塊重心、穿錯穿對對照"
+      },
+      "uniqueFeature": {
+        "id": "proportion-overlay",
+        "name": "比例線與穿錯／穿對滑桿",
+        "description": "在同一身形上切換腰線、衣長、褲長與色塊重心，立即比較視覺差異。",
+        "views": [
+          "ProportionOverlayView",
+          "BeforeAfterSliderView",
+          "ShoppingCheckView"
+        ]
+      },
+      "coreFeatures": [
+        "體型辨識入口",
+        "穿錯/穿對對照",
+        "比例線視覺化",
+        "場景穿搭分類",
+        "購物避雷卡",
+        "比例線與穿錯／穿對滑桿"
+      ],
+      "contentCounts": {
+        "diagrams": 200,
+        "freeDiagrams": 20,
+        "proDiagrams": 180,
+        "videos": 20,
+        "freeVideos": 3,
+        "proVideos": 17,
+        "socialVideos": 10
+      },
+      "categories": [
+        {
+          "id": "outfit-body-shape-m01",
+          "appSlug": "outfit-body-shape",
+          "title": "體型辨識",
+          "order": 1,
+          "topicCount": 25,
+          "freeCount": 10,
+          "proCount": 15,
+          "iconSystemName": "message"
+        },
+        {
+          "id": "outfit-body-shape-m02",
+          "appSlug": "outfit-body-shape",
+          "title": "上身版型",
+          "order": 2,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "person.2"
+        },
+        {
+          "id": "outfit-body-shape-m03",
+          "appSlug": "outfit-body-shape",
+          "title": "下身比例",
+          "order": 3,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "arrow.left.and.right"
+        },
+        {
+          "id": "outfit-body-shape-m04",
+          "appSlug": "outfit-body-shape",
+          "title": "色塊重心",
+          "order": 4,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "heart"
+        },
+        {
+          "id": "outfit-body-shape-m05",
+          "appSlug": "outfit-body-shape",
+          "title": "顯高顯瘦",
+          "order": 5,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "shield"
+        },
+        {
+          "id": "outfit-body-shape-m06",
+          "appSlug": "outfit-body-shape",
+          "title": "正式/休閒/約會/通勤",
+          "order": 6,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "snowflake"
+        },
+        {
+          "id": "outfit-body-shape-m07",
+          "appSlug": "outfit-body-shape",
+          "title": "男女版本",
+          "order": 7,
+          "topicCount": 25,
+          "freeCount": 0,
+          "proCount": 25,
+          "iconSystemName": "exclamationmark.triangle"
+        },
+        {
+          "id": "outfit-body-shape-m08",
+          "appSlug": "outfit-body-shape",
+          "title": "常見購物錯誤",
+          "order": 8,
+          "topicCount": 25,
+          "freeCount": 0,
+          "proCount": 25,
+          "iconSystemName": "wrench"
+        }
+      ],
+      "monetization": {
+        "download": "free",
+        "iapType": "non-consumable",
+        "targetPriceTWD": 299,
+        "priceSourceOfTruth": "StoreKit Product.displayPrice",
+        "restorePurchasesRequired": true
+      },
+      "releaseStrategy": {
+        "pilotApp": false,
+        "doNotShipAsTemplateClone": true,
+        "requiresUniqueFeatureAndMetadata": true,
+        "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+      }
+    },
+    {
+      "schemaVersion": "2.0",
+      "generatedAt": "2026-06-25",
+      "rank": 3,
+      "name": "旅行應急與海外自救英文全圖解",
+      "shortName": "旅安英文",
+      "slug": "travel-emergency-english",
+      "bundleId": "com.jiang.visualguide.travelenglish",
+      "productId": "com.jiang.visualguide.travelenglish.pro.lifetime",
+      "positioning": "出國遇到狀況時，直接點圖就能說出正確求助英文。",
+      "hook": "你不必英文很好，但要先會在出事時說對話。",
+      "targetUsers": [
+        "自助旅行者、商務旅客、英文不流利者",
+        "擔心醫療、失竊、遺失護照、報警求助時不會表達的人"
+      ],
+      "purchaseMotivation": "我怕出國出事時不會講。",
+      "visualSellingPoint": "情境圖＋語音按鈕＋求助流程。",
+      "safeClaim": "緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+      "theme": {
+        "primary": "高可視橘",
+        "accent": "安全藍",
+        "visual_language": "機場/醫院/警局/街道情境圖、語音按鈕、流程箭頭"
+      },
+      "uniqueFeature": {
+        "id": "tap-to-speak",
+        "name": "點擊播音與求助流程",
+        "description": "每張情境卡提供正常／慢速語音、可放大英文句、關鍵資料欄與下一步流程。",
+        "views": [
+          "EmergencyPhraseView",
+          "SpeechSpeedControl",
+          "HelpFlowView",
+          "OfflinePhraseLibraryView"
+        ]
+      },
+      "coreFeatures": [
+        "點人物/物件/情境卡播語音",
+        "慢速/正常語速",
+        "關鍵應急句",
+        "流程式求助引導",
+        "離線收藏句",
+        "點擊播音與求助流程"
+      ],
+      "contentCounts": {
+        "diagrams": 200,
+        "freeDiagrams": 20,
+        "proDiagrams": 180,
+        "videos": 20,
+        "freeVideos": 3,
+        "proVideos": 17,
+        "socialVideos": 10
+      },
+      "categories": [
+        {
+          "id": "travel-emergency-english-m01",
+          "appSlug": "travel-emergency-english",
+          "title": "機場入境",
+          "order": 1,
+          "topicCount": 25,
+          "freeCount": 6,
+          "proCount": 19,
+          "iconSystemName": "message"
+        },
+        {
+          "id": "travel-emergency-english-m02",
+          "appSlug": "travel-emergency-english",
+          "title": "飯店求助",
+          "order": 2,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "person.2"
+        },
+        {
+          "id": "travel-emergency-english-m03",
+          "appSlug": "travel-emergency-english",
+          "title": "醫療與藥局",
+          "order": 3,
+          "topicCount": 25,
+          "freeCount": 4,
+          "proCount": 21,
+          "iconSystemName": "arrow.left.and.right"
+        },
+        {
+          "id": "travel-emergency-english-m04",
+          "appSlug": "travel-emergency-english",
+          "title": "警察與失竊",
+          "order": 4,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "heart"
+        },
+        {
+          "id": "travel-emergency-english-m05",
+          "appSlug": "travel-emergency-english",
+          "title": "交通事故",
+          "order": 5,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "shield"
+        },
+        {
+          "id": "travel-emergency-english-m06",
+          "appSlug": "travel-emergency-english",
+          "title": "文件與護照",
+          "order": 6,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "snowflake"
+        },
+        {
+          "id": "travel-emergency-english-m07",
+          "appSlug": "travel-emergency-english",
+          "title": "自然災害",
+          "order": 7,
+          "topicCount": 25,
+          "freeCount": 0,
+          "proCount": 25,
+          "iconSystemName": "exclamationmark.triangle"
+        },
+        {
+          "id": "travel-emergency-english-m08",
+          "appSlug": "travel-emergency-english",
+          "title": "旅遊保險與聯絡流程",
+          "order": 8,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "wrench"
+        }
+      ],
+      "monetization": {
+        "download": "free",
+        "iapType": "non-consumable",
+        "targetPriceTWD": 299,
+        "priceSourceOfTruth": "StoreKit Product.displayPrice",
+        "restorePurchasesRequired": true
+      },
+      "releaseStrategy": {
+        "pilotApp": false,
+        "doNotShipAsTemplateClone": true,
+        "requiresUniqueFeatureAndMetadata": true,
+        "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+      }
+    },
+    {
+      "schemaVersion": "2.0",
+      "generatedAt": "2026-06-25",
+      "rank": 4,
+      "name": "微表情與社交洞察全圖解",
+      "shortName": "社交洞察",
+      "slug": "microexpression-social-insight",
+      "bundleId": "com.jiang.visualguide.microexpression",
+      "productId": "com.jiang.visualguide.microexpression.pro.lifetime",
+      "positioning": "用表情、姿勢、視線、停頓與距離，提升社交判讀力。",
+      "hook": "你不是不會社交，你只是漏看了太多訊號。",
+      "targetUsers": [
+        "想提升社交敏銳度、會議觀察力、面談互動判斷力的人",
+        "常在聊天、會議、約會後反覆猜測的人"
+      ],
+      "purchaseMotivation": "我想看懂別人的反應線索。",
+      "visualSellingPoint": "臉部細節、姿勢、視線、群體距離拆解。",
+      "safeClaim": "教育與觀察參考，不保證讀心、測謊或預測行為，也不應用來歧視或監控他人。",
+      "theme": {
+        "primary": "冷灰",
+        "accent": "電光青",
+        "visual_language": "臉部局部放大、視線箭頭、站位圖、肢體角度標記"
+      },
+      "uniqueFeature": {
+        "id": "cue-hotspot-quiz",
+        "name": "線索熱點與二次確認測驗",
+        "description": "先點選臉、手、腳與距離的可觀察熱點，再選擇可能情境與安全回應。",
+        "views": [
+          "CueHotspotView",
+          "BaselineComparisonView",
+          "ContextQuizView"
+        ]
+      },
+      "coreFeatures": [
+        "部位式學習",
+        "同場景雙版本對照",
+        "群體站位圖",
+        "社交情境快速判讀",
+        "錯誤解讀提醒",
+        "線索熱點與二次確認測驗"
+      ],
+      "contentCounts": {
+        "diagrams": 200,
+        "freeDiagrams": 20,
+        "proDiagrams": 180,
+        "videos": 20,
+        "freeVideos": 3,
+        "proVideos": 17,
+        "socialVideos": 10
+      },
+      "categories": [
+        {
+          "id": "microexpression-social-insight-m01",
+          "appSlug": "microexpression-social-insight",
+          "title": "臉部微線索",
+          "order": 1,
+          "topicCount": 25,
+          "freeCount": 6,
+          "proCount": 19,
+          "iconSystemName": "message"
+        },
+        {
+          "id": "microexpression-social-insight-m02",
+          "appSlug": "microexpression-social-insight",
+          "title": "眼神與專注",
+          "order": 2,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "person.2"
+        },
+        {
+          "id": "microexpression-social-insight-m03",
+          "appSlug": "microexpression-social-insight",
+          "title": "手勢與防備",
+          "order": 3,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "arrow.left.and.right"
+        },
+        {
+          "id": "microexpression-social-insight-m04",
+          "appSlug": "microexpression-social-insight",
+          "title": "空間距離",
+          "order": 4,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "heart"
+        },
+        {
+          "id": "microexpression-social-insight-m05",
+          "appSlug": "microexpression-social-insight",
+          "title": "群體互動",
+          "order": 5,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "shield"
+        },
+        {
+          "id": "microexpression-social-insight-m06",
+          "appSlug": "microexpression-social-insight",
+          "title": "社交焦慮與防禦",
+          "order": 6,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "snowflake"
+        },
+        {
+          "id": "microexpression-social-insight-m07",
+          "appSlug": "microexpression-social-insight",
+          "title": "緊張情境",
+          "order": 7,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "exclamationmark.triangle"
+        },
+        {
+          "id": "microexpression-social-insight-m08",
+          "appSlug": "microexpression-social-insight",
+          "title": "抗拒/討好情境",
+          "order": 8,
+          "topicCount": 25,
+          "freeCount": 0,
+          "proCount": 25,
+          "iconSystemName": "wrench"
+        }
+      ],
+      "monetization": {
+        "download": "free",
+        "iapType": "non-consumable",
+        "targetPriceTWD": 299,
+        "priceSourceOfTruth": "StoreKit Product.displayPrice",
+        "restorePurchasesRequired": true
+      },
+      "releaseStrategy": {
+        "pilotApp": false,
+        "doNotShipAsTemplateClone": true,
+        "requiresUniqueFeatureAndMetadata": true,
+        "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+      }
+    },
+    {
+      "schemaVersion": "2.0",
+      "generatedAt": "2026-06-25",
+      "rank": 5,
+      "name": "咖啡全圖解",
+      "shortName": "咖啡圖解",
+      "slug": "coffee-visual-guide",
+      "bundleId": "com.jiang.visualguide.coffee",
+      "productId": "com.jiang.visualguide.coffee.pro.lifetime",
+      "positioning": "用 3D 剖面與流體視覺，看懂味道與操作之間的因果。",
+      "hook": "第一次看懂，你的咖啡到底哪裡出問題。",
+      "targetUsers": [
+        "咖啡初學者、手沖愛好者、想提升穩定度的人",
+        "常覺得太酸、太苦、太澀、太淡但不知道怎麼調的人"
+      ],
+      "purchaseMotivation": "我想知道這杯為什麼沖壞了。",
+      "visualSellingPoint": "粉層剖面、水流與萃取動畫。",
+      "safeClaim": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+      "theme": {
+        "primary": "咖啡棕",
+        "accent": "奶泡白",
+        "visual_language": "粉層剖面、水流路徑、粒徑分布、時間軸"
+      },
+      "uniqueFeature": {
+        "id": "brew-diagnostic",
+        "name": "味道反推與變因診斷",
+        "description": "選擇味道、流速、時間與粉床狀態，得到一次只調一個變因的下一杯測試。",
+        "views": [
+          "FlavorDiagnosticView",
+          "BrewTimelineView",
+          "WaterFlowCutawayView"
+        ]
+      },
+      "coreFeatures": [
+        "味道反推入口",
+        "水流剖面",
+        "粉層與悶蒸結構",
+        "器具差異圖",
+        "參數調整卡",
+        "味道反推與變因診斷"
+      ],
+      "contentCounts": {
+        "diagrams": 200,
+        "freeDiagrams": 20,
+        "proDiagrams": 180,
+        "videos": 20,
+        "freeVideos": 3,
+        "proVideos": 17,
+        "socialVideos": 10
+      },
+      "categories": [
+        {
+          "id": "coffee-visual-guide-m01",
+          "appSlug": "coffee-visual-guide",
+          "title": "磨豆與粒徑",
+          "order": 1,
+          "topicCount": 25,
+          "freeCount": 5,
+          "proCount": 20,
+          "iconSystemName": "message"
+        },
+        {
+          "id": "coffee-visual-guide-m02",
+          "appSlug": "coffee-visual-guide",
+          "title": "注水方式",
+          "order": 2,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "person.2"
+        },
+        {
+          "id": "coffee-visual-guide-m03",
+          "appSlug": "coffee-visual-guide",
+          "title": "粉層結構",
+          "order": 3,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "arrow.left.and.right"
+        },
+        {
+          "id": "coffee-visual-guide-m04",
+          "appSlug": "coffee-visual-guide",
+          "title": "萃取時間",
+          "order": 4,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "heart"
+        },
+        {
+          "id": "coffee-visual-guide-m05",
+          "appSlug": "coffee-visual-guide",
+          "title": "不同器具",
+          "order": 5,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "shield"
+        },
+        {
+          "id": "coffee-visual-guide-m06",
+          "appSlug": "coffee-visual-guide",
+          "title": "奶咖結構",
+          "order": 6,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "snowflake"
+        },
+        {
+          "id": "coffee-visual-guide-m07",
+          "appSlug": "coffee-visual-guide",
+          "title": "常見失敗",
+          "order": 7,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "exclamationmark.triangle"
+        },
+        {
+          "id": "coffee-visual-guide-m08",
+          "appSlug": "coffee-visual-guide",
+          "title": "味道反推調整",
+          "order": 8,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "wrench"
+        }
+      ],
+      "monetization": {
+        "download": "free",
+        "iapType": "non-consumable",
+        "targetPriceTWD": 299,
+        "priceSourceOfTruth": "StoreKit Product.displayPrice",
+        "restorePurchasesRequired": true
+      },
+      "releaseStrategy": {
+        "pilotApp": false,
+        "doNotShipAsTemplateClone": true,
+        "requiresUniqueFeatureAndMetadata": true,
+        "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+      }
+    },
+    {
+      "schemaVersion": "2.0",
+      "generatedAt": "2026-06-25",
+      "rank": 6,
+      "name": "談判心理與溝通策略全圖解",
+      "shortName": "談判溝通",
+      "slug": "negotiation-communication",
+      "bundleId": "com.jiang.visualguide.negotiation",
+      "productId": "com.jiang.visualguide.negotiation.pro.lifetime",
+      "positioning": "在壓價、開價、拒絕、拉回主導與合作談判時少吃虧。",
+      "hook": "不是教你嘴砲，是讓你在關鍵對話少吃虧。",
+      "targetUsers": [
+        "創業者、業務、主管、接案者、自由工作者",
+        "需要在價格、合作、會議中提高主導權的人"
+      ],
+      "purchaseMotivation": "我想知道當下要怎麼回。",
+      "visualSellingPoint": "對話腳本、權力距離、座位與位置圖。",
+      "safeClaim": "提供一般溝通教育，不鼓勵欺騙、脅迫、歧視或違法行為；重大法律與勞資事項應諮詢專業人士。",
+      "theme": {
+        "primary": "深墨藍",
+        "accent": "金色",
+        "visual_language": "談判桌、權力距離、對話分支、讓步交換箭頭"
+      },
+      "uniqueFeature": {
+        "id": "branching-dialogue",
+        "name": "分支對話模擬器",
+        "description": "選擇對方回應後，查看高風險說法、替代句、交換條件與書面收尾。",
+        "views": [
+          "DialogueSimulatorView",
+          "PhraseCompareView",
+          "AgreementSummaryView"
+        ]
+      },
+      "coreFeatures": [
+        "對話腳本卡",
+        "開場定位圖",
+        "權力距離與座位圖",
+        "收尾追蹤策略",
+        "錯誤說法對照",
+        "分支對話模擬器"
+      ],
+      "contentCounts": {
+        "diagrams": 200,
+        "freeDiagrams": 20,
+        "proDiagrams": 180,
+        "videos": 20,
+        "freeVideos": 3,
+        "proVideos": 17,
+        "socialVideos": 10
+      },
+      "categories": [
+        {
+          "id": "negotiation-communication-m01",
+          "appSlug": "negotiation-communication",
+          "title": "開場定位",
+          "order": 1,
+          "topicCount": 25,
+          "freeCount": 7,
+          "proCount": 18,
+          "iconSystemName": "message"
+        },
+        {
+          "id": "negotiation-communication-m02",
+          "appSlug": "negotiation-communication",
+          "title": "權力距離",
+          "order": 2,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "person.2"
+        },
+        {
+          "id": "negotiation-communication-m03",
+          "appSlug": "negotiation-communication",
+          "title": "問句策略",
+          "order": 3,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "arrow.left.and.right"
+        },
+        {
+          "id": "negotiation-communication-m04",
+          "appSlug": "negotiation-communication",
+          "title": "價格攻防",
+          "order": 4,
+          "topicCount": 25,
+          "freeCount": 4,
+          "proCount": 21,
+          "iconSystemName": "heart"
+        },
+        {
+          "id": "negotiation-communication-m05",
+          "appSlug": "negotiation-communication",
+          "title": "拒絕與回應",
+          "order": 5,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "shield"
+        },
+        {
+          "id": "negotiation-communication-m06",
+          "appSlug": "negotiation-communication",
+          "title": "僵局處理",
+          "order": 6,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "snowflake"
+        },
+        {
+          "id": "negotiation-communication-m07",
+          "appSlug": "negotiation-communication",
+          "title": "讓步交換",
+          "order": 7,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "exclamationmark.triangle"
+        },
+        {
+          "id": "negotiation-communication-m08",
+          "appSlug": "negotiation-communication",
+          "title": "收尾追蹤",
+          "order": 8,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "wrench"
+        }
+      ],
+      "monetization": {
+        "download": "free",
+        "iapType": "non-consumable",
+        "targetPriceTWD": 299,
+        "priceSourceOfTruth": "StoreKit Product.displayPrice",
+        "restorePurchasesRequired": true
+      },
+      "releaseStrategy": {
+        "pilotApp": false,
+        "doNotShipAsTemplateClone": true,
+        "requiresUniqueFeatureAndMetadata": true,
+        "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+      }
+    },
+    {
+      "schemaVersion": "2.0",
+      "generatedAt": "2026-06-25",
+      "rank": 7,
+      "name": "人格心理學全圖解",
+      "shortName": "人格心理",
+      "slug": "personality-psychology",
+      "bundleId": "com.jiang.visualguide.personality",
+      "productId": "com.jiang.visualguide.personality.pro.lifetime",
+      "positioning": "用場景與反應模型，幫你理解不同人格怎麼思考與互動。",
+      "hook": "不是把人貼標籤，是讓你少誤會、少內耗。",
+      "targetUsers": [
+        "對心理學、人際互動、伴侶與職場理解有需求的人",
+        "想理解自己與他人的衝突模式、決策模式與壓力反應的人"
+      ],
+      "purchaseMotivation": "我想少誤會、少內耗。",
+      "visualSellingPoint": "同場景不同人格反應對照。",
+      "safeClaim": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+      "theme": {
+        "primary": "柔紫",
+        "accent": "霧灰",
+        "visual_language": "同場景多角色反應、壓力雷達圖、互動流程線"
+      },
+      "uniqueFeature": {
+        "id": "scenario-comparison",
+        "name": "同場景多反應比較",
+        "description": "在同一事件中切換不同偏好、壓力反應與溝通需求，建立差異而非分類定罪。",
+        "views": [
+          "ScenarioComparisonView",
+          "PreferenceSpectrumView",
+          "ReflectionNoteView"
+        ]
+      },
+      "coreFeatures": [
+        "同場景不同人格反應對照",
+        "壓力反應圖",
+        "衝突風格圖",
+        "決策節奏圖",
+        "誤會來源卡",
+        "同場景多反應比較"
+      ],
+      "contentCounts": {
+        "diagrams": 200,
+        "freeDiagrams": 20,
+        "proDiagrams": 180,
+        "videos": 20,
+        "freeVideos": 3,
+        "proVideos": 17,
+        "socialVideos": 10
+      },
+      "categories": [
+        {
+          "id": "personality-psychology-m01",
+          "appSlug": "personality-psychology",
+          "title": "思考方式",
+          "order": 1,
+          "topicCount": 25,
+          "freeCount": 9,
+          "proCount": 16,
+          "iconSystemName": "message"
+        },
+        {
+          "id": "personality-psychology-m02",
+          "appSlug": "personality-psychology",
+          "title": "關係模式",
+          "order": 2,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "person.2"
+        },
+        {
+          "id": "personality-psychology-m03",
+          "appSlug": "personality-psychology",
+          "title": "衝突風格",
+          "order": 3,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "arrow.left.and.right"
+        },
+        {
+          "id": "personality-psychology-m04",
+          "appSlug": "personality-psychology",
+          "title": "壓力反應",
+          "order": 4,
+          "topicCount": 25,
+          "freeCount": 4,
+          "proCount": 21,
+          "iconSystemName": "heart"
+        },
+        {
+          "id": "personality-psychology-m05",
+          "appSlug": "personality-psychology",
+          "title": "工作互動",
+          "order": 5,
+          "topicCount": 25,
+          "freeCount": 0,
+          "proCount": 25,
+          "iconSystemName": "shield"
+        },
+        {
+          "id": "personality-psychology-m06",
+          "appSlug": "personality-psychology",
+          "title": "決策節奏",
+          "order": 6,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "snowflake"
+        },
+        {
+          "id": "personality-psychology-m07",
+          "appSlug": "personality-psychology",
+          "title": "親密距離",
+          "order": 7,
+          "topicCount": 25,
+          "freeCount": 0,
+          "proCount": 25,
+          "iconSystemName": "exclamationmark.triangle"
+        },
+        {
+          "id": "personality-psychology-m08",
+          "appSlug": "personality-psychology",
+          "title": "誤會來源",
+          "order": 8,
+          "topicCount": 25,
+          "freeCount": 0,
+          "proCount": 25,
+          "iconSystemName": "wrench"
+        }
+      ],
+      "monetization": {
+        "download": "free",
+        "iapType": "non-consumable",
+        "targetPriceTWD": 299,
+        "priceSourceOfTruth": "StoreKit Product.displayPrice",
+        "restorePurchasesRequired": true
+      },
+      "releaseStrategy": {
+        "pilotApp": false,
+        "doNotShipAsTemplateClone": true,
+        "requiresUniqueFeatureAndMetadata": true,
+        "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+      }
+    },
+    {
+      "schemaVersion": "2.0",
+      "generatedAt": "2026-06-25",
+      "rank": 8,
+      "name": "生存技能全圖解",
+      "shortName": "生存技能",
+      "slug": "survival-skills",
+      "bundleId": "com.jiang.visualguide.survival",
+      "productId": "com.jiang.visualguide.survival.pro.lifetime",
+      "positioning": "在迷路、受困、災害、缺水等高風險情境下，先知道正確順序。",
+      "hook": "平常用不到，但出事時你會希望早就看過。",
+      "targetUsers": [
+        "喜歡防災、求生、野外與高風險應對內容的人",
+        "想知道真正遇到危險時先做什麼的人"
+      ],
+      "purchaseMotivation": "我想知道遇到危險時先做什麼。",
+      "visualSellingPoint": "危險區域與步驟式情境圖。",
+      "safeClaim": "一般防災教育用途；面臨立即危險時，優先聯絡當地緊急服務並遵循官方指示。",
+      "theme": {
+        "primary": "苔綠",
+        "accent": "警示黃",
+        "visual_language": "危險區域標示、步驟序號、地形剖面、求救訊號圖"
+      },
+      "uniqueFeature": {
+        "id": "priority-checklist",
+        "name": "高風險優先順序與求援檢查表",
+        "description": "依立即危險、求援、保暖、飲水與資源保存排序，並標出必須交由官方處置的節點。",
+        "views": [
+          "PriorityChecklistView",
+          "HazardZoneView",
+          "EmergencyTimerView"
+        ]
+      },
+      "coreFeatures": [
+        "情境步驟圖",
+        "危險區域標示",
+        "先做什麼/不要做什麼",
+        "裝備與判斷卡",
+        "離線快速索引",
+        "高風險優先順序與求援檢查表"
+      ],
+      "contentCounts": {
+        "diagrams": 200,
+        "freeDiagrams": 20,
+        "proDiagrams": 180,
+        "videos": 20,
+        "freeVideos": 3,
+        "proVideos": 17,
+        "socialVideos": 10
+      },
+      "categories": [
+        {
+          "id": "survival-skills-m01",
+          "appSlug": "survival-skills",
+          "title": "迷途應對",
+          "order": 1,
+          "topicCount": 25,
+          "freeCount": 6,
+          "proCount": 19,
+          "iconSystemName": "message"
+        },
+        {
+          "id": "survival-skills-m02",
+          "appSlug": "survival-skills",
+          "title": "求救與定位",
+          "order": 2,
+          "topicCount": 25,
+          "freeCount": 3,
+          "proCount": 22,
+          "iconSystemName": "person.2"
+        },
+        {
+          "id": "survival-skills-m03",
+          "appSlug": "survival-skills",
+          "title": "避難與保暖",
+          "order": 3,
+          "topicCount": 25,
+          "freeCount": 1,
+          "proCount": 24,
+          "iconSystemName": "arrow.left.and.right"
+        },
+        {
+          "id": "survival-skills-m04",
+          "appSlug": "survival-skills",
+          "title": "缺水缺糧",
+          "order": 4,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "heart"
+        },
+        {
+          "id": "survival-skills-m05",
+          "appSlug": "survival-skills",
+          "title": "都市災害",
+          "order": 5,
+          "topicCount": 25,
+          "freeCount": 4,
+          "proCount": 21,
+          "iconSystemName": "shield"
+        },
+        {
+          "id": "survival-skills-m06",
+          "appSlug": "survival-skills",
+          "title": "車內/建物受困",
+          "order": 6,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "snowflake"
+        },
+        {
+          "id": "survival-skills-m07",
+          "appSlug": "survival-skills",
+          "title": "火源與風險",
+          "order": 7,
+          "topicCount": 25,
+          "freeCount": 0,
+          "proCount": 25,
+          "iconSystemName": "exclamationmark.triangle"
+        },
+        {
+          "id": "survival-skills-m08",
+          "appSlug": "survival-skills",
+          "title": "裝備與判斷",
+          "order": 8,
+          "topicCount": 25,
+          "freeCount": 2,
+          "proCount": 23,
+          "iconSystemName": "wrench"
+        }
+      ],
+      "monetization": {
+        "download": "free",
+        "iapType": "non-consumable",
+        "targetPriceTWD": 299,
+        "priceSourceOfTruth": "StoreKit Product.displayPrice",
+        "restorePurchasesRequired": true
+      },
+      "releaseStrategy": {
+        "pilotApp": false,
+        "doNotShipAsTemplateClone": true,
+        "requiresUniqueFeatureAndMetadata": true,
+        "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+      }
+    }
+  ]
+}

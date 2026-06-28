@@ -1,0 +1,422 @@
+[
+  {
+    "id": "microexpression-social-insight-social-01",
+    "title": "真笑 vs 假笑｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "真笑 vs 假笑，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "真笑 vs 假笑，別只看表面。",
+        "subtitle": "真笑 vs 假笑？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 face-hotspot 圖解，三個節點依序亮起",
+        "voiceover": "先建立這個人的平常基準線，再看變化。 至少找兩個以上線索，並把情境壓力算進去。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先看平常基準線與當下變化。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「真笑 vs 假笑」不只看表面，先用這張圖拆成三步。\n\n教育與觀察參考，不保證讀心、測謊或預測行為，也不應用來歧視或監控他人。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "microexpression-social-insight-d001"
+  },
+  {
+    "id": "microexpression-social-insight-social-02",
+    "title": "嘴角抽動｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "嘴角抽動，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "嘴角抽動，別只看表面。",
+        "subtitle": "嘴角抽動？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 baseline-comparison 圖解，三個節點依序亮起",
+        "voiceover": "至少找兩個以上線索，並把情境壓力算進去。 同一動作可能來自疲倦、習慣、環境或情緒。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先看平常基準線與當下變化。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「嘴角抽動」不只看表面，先用這張圖拆成三步。\n\n教育與觀察參考，不保證讀心、測謊或預測行為，也不應用來歧視或監控他人。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "microexpression-social-insight-d002"
+  },
+  {
+    "id": "microexpression-social-insight-social-03",
+    "title": "禮貌點頭 vs 真投入｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "禮貌點頭 vs 真投入，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "禮貌點頭 vs 真投入，別只看表面。",
+        "subtitle": "禮貌點頭 vs 真投入？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 posture-map 圖解，三個節點依序亮起",
+        "voiceover": "同一動作可能來自疲倦、習慣、環境或情緒。 用開放式問題確認，不用對方的身體反應定罪。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先看平常基準線與當下變化。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「禮貌點頭 vs 真投入」不只看表面，先用這張圖拆成三步。\n\n教育與觀察參考，不保證讀心、測謊或預測行為，也不應用來歧視或監控他人。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "microexpression-social-insight-d003"
+  },
+  {
+    "id": "microexpression-social-insight-social-04",
+    "title": "停頓時間的線索｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "停頓時間的線索，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "停頓時間的線索，別只看表面。",
+        "subtitle": "停頓時間的線索？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 group-distance 圖解，三個節點依序亮起",
+        "voiceover": "用開放式問題確認，不用對方的身體反應定罪。 觀察的目的應是改善溝通，而不是操控。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先看平常基準線與當下變化。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「停頓時間的線索」不只看表面，先用這張圖拆成三步。\n\n教育與觀察參考，不保證讀心、測謊或預測行為，也不應用來歧視或監控他人。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "microexpression-social-insight-d004"
+  },
+  {
+    "id": "microexpression-social-insight-social-05",
+    "title": "聊天中的防衛姿勢｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "聊天中的防衛姿勢，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "聊天中的防衛姿勢，別只看表面。",
+        "subtitle": "聊天中的防衛姿勢？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 context-tree 圖解，三個節點依序亮起",
+        "voiceover": "觀察的目的應是改善溝通，而不是操控。 先建立這個人的平常基準線，再看變化。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先看平常基準線與當下變化。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「聊天中的防衛姿勢」不只看表面，先用這張圖拆成三步。\n\n教育與觀察參考，不保證讀心、測謊或預測行為，也不應用來歧視或監控他人。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "microexpression-social-insight-d005"
+  },
+  {
+    "id": "microexpression-social-insight-social-06",
+    "title": "尷尬笑怎麼辨識｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "尷尬笑怎麼辨識，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "尷尬笑怎麼辨識，別只看表面。",
+        "subtitle": "尷尬笑怎麼辨識？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 face-hotspot 圖解，三個節點依序亮起",
+        "voiceover": "先建立這個人的平常基準線，再看變化。 至少找兩個以上線索，並把情境壓力算進去。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先看平常基準線與當下變化。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「尷尬笑怎麼辨識」不只看表面，先用這張圖拆成三步。\n\n教育與觀察參考，不保證讀心、測謊或預測行為，也不應用來歧視或監控他人。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "microexpression-social-insight-d006"
+  },
+  {
+    "id": "microexpression-social-insight-social-07",
+    "title": "眼神閃避的不同意思｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "眼神閃避的不同意思，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "眼神閃避的不同意思，別只看表面。",
+        "subtitle": "眼神閃避的不同意思？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 face-hotspot 圖解，三個節點依序亮起",
+        "voiceover": "先建立這個人的平常基準線，再看變化。 至少找兩個以上線索，並把情境壓力算進去。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先看平常基準線與當下變化。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「眼神閃避的不同意思」不只看表面，先用這張圖拆成三步。\n\n教育與觀察參考，不保證讀心、測謊或預測行為，也不應用來歧視或監控他人。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "microexpression-social-insight-d026"
+  },
+  {
+    "id": "microexpression-social-insight-social-08",
+    "title": "視線停留與壓力｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "視線停留與壓力，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "視線停留與壓力，別只看表面。",
+        "subtitle": "視線停留與壓力？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 baseline-comparison 圖解，三個節點依序亮起",
+        "voiceover": "至少找兩個以上線索，並把情境壓力算進去。 同一動作可能來自疲倦、習慣、環境或情緒。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先看平常基準線與當下變化。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「視線停留與壓力」不只看表面，先用這張圖拆成三步。\n\n教育與觀察參考，不保證讀心、測謊或預測行為，也不應用來歧視或監控他人。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "microexpression-social-insight-d027"
+  },
+  {
+    "id": "microexpression-social-insight-social-09",
+    "title": "快速眨眼與壓力｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "快速眨眼與壓力，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "快速眨眼與壓力，別只看表面。",
+        "subtitle": "快速眨眼與壓力？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 posture-map 圖解，三個節點依序亮起",
+        "voiceover": "同一動作可能來自疲倦、習慣、環境或情緒。 用開放式問題確認，不用對方的身體反應定罪。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先看平常基準線與當下變化。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「快速眨眼與壓力」不只看表面，先用這張圖拆成三步。\n\n教育與觀察參考，不保證讀心、測謊或預測行為，也不應用來歧視或監控他人。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "microexpression-social-insight-d028"
+  },
+  {
+    "id": "microexpression-social-insight-social-10",
+    "title": "手臂交叉不一定是拒絕｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "手臂交叉不一定是拒絕，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "手臂交叉不一定是拒絕，別只看表面。",
+        "subtitle": "手臂交叉不一定是拒絕？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 face-hotspot 圖解，三個節點依序亮起",
+        "voiceover": "先建立這個人的平常基準線，再看變化。 至少找兩個以上線索，並把情境壓力算進去。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先看平常基準線與當下變化。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「手臂交叉不一定是拒絕」不只看表面，先用這張圖拆成三步。\n\n教育與觀察參考，不保證讀心、測謊或預測行為，也不應用來歧視或監控他人。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "microexpression-social-insight-d051"
+  }
+]

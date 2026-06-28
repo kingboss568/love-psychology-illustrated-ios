@@ -1,0 +1,422 @@
+[
+  {
+    "id": "travel-emergency-english-social-01",
+    "title": "我需要醫生｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "我需要醫生，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "我需要醫生，別只看表面。",
+        "subtitle": "我需要醫生？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 tap-scene 圖解，三個節點依序亮起",
+        "voiceover": "先用一句短句說明你需要什麼幫助。 補充地點、症狀、遺失物或危險是否仍在。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先播放核心求助句並指出情境卡。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「我需要醫生」不只看表面，先用這張圖拆成三步。\n\n緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "travel-emergency-english-d001"
+  },
+  {
+    "id": "travel-emergency-english-social-02",
+    "title": "幫我叫救護車｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "幫我叫救護車，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "幫我叫救護車，別只看表面。",
+        "subtitle": "幫我叫救護車？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 phrase-card 圖解，三個節點依序亮起",
+        "voiceover": "補充地點、症狀、遺失物或危險是否仍在。 請對方寫下地址、案件編號或下一步。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先播放核心求助句並指出情境卡。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「幫我叫救護車」不只看表面，先用這張圖拆成三步。\n\n緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "travel-emergency-english-d002"
+  },
+  {
+    "id": "travel-emergency-english-social-03",
+    "title": "最近的醫院在哪｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "最近的醫院在哪，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "最近的醫院在哪，別只看表面。",
+        "subtitle": "最近的醫院在哪？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 step-flow 圖解，三個節點依序亮起",
+        "voiceover": "請對方寫下地址、案件編號或下一步。 聽不懂時要求說慢一點或找翻譯。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先播放核心求助句並指出情境卡。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「最近的醫院在哪」不只看表面，先用這張圖拆成三步。\n\n緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "travel-emergency-english-d003"
+  },
+  {
+    "id": "travel-emergency-english-social-04",
+    "title": "我的行李不見了｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "我的行李不見了，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "我的行李不見了，別只看表面。",
+        "subtitle": "我的行李不見了？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 object-hotspot 圖解，三個節點依序亮起",
+        "voiceover": "聽不懂時要求說慢一點或找翻譯。 緊急事件優先聯絡當地官方救援與使領館。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先播放核心求助句並指出情境卡。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「我的行李不見了」不只看表面，先用這張圖拆成三步。\n\n緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "travel-emergency-english-d004"
+  },
+  {
+    "id": "travel-emergency-english-social-05",
+    "title": "請寫下地址｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "請寫下地址，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "請寫下地址，別只看表面。",
+        "subtitle": "請寫下地址？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 emergency-checklist 圖解，三個節點依序亮起",
+        "voiceover": "緊急事件優先聯絡當地官方救援與使領館。 先用一句短句說明你需要什麼幫助。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先播放核心求助句並指出情境卡。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「請寫下地址」不只看表面，先用這張圖拆成三步。\n\n緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "travel-emergency-english-d005"
+  },
+  {
+    "id": "travel-emergency-english-social-06",
+    "title": "請說慢一點｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "請說慢一點，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "請說慢一點，別只看表面。",
+        "subtitle": "請說慢一點？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 tap-scene 圖解，三個節點依序亮起",
+        "voiceover": "先用一句短句說明你需要什麼幫助。 補充地點、症狀、遺失物或危險是否仍在。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先播放核心求助句並指出情境卡。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「請說慢一點」不只看表面，先用這張圖拆成三步。\n\n緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "travel-emergency-english-d006"
+  },
+  {
+    "id": "travel-emergency-english-social-07",
+    "title": "這裡安全嗎｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "這裡安全嗎，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "這裡安全嗎，別只看表面。",
+        "subtitle": "這裡安全嗎？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 tap-scene 圖解，三個節點依序亮起",
+        "voiceover": "先用一句短句說明你需要什麼幫助。 補充地點、症狀、遺失物或危險是否仍在。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先播放核心求助句並指出情境卡。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「這裡安全嗎」不只看表面，先用這張圖拆成三步。\n\n緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "travel-emergency-english-d026"
+  },
+  {
+    "id": "travel-emergency-english-social-08",
+    "title": "請幫我聯絡飯店｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "請幫我聯絡飯店，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "請幫我聯絡飯店，別只看表面。",
+        "subtitle": "請幫我聯絡飯店？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 phrase-card 圖解，三個節點依序亮起",
+        "voiceover": "補充地點、症狀、遺失物或危險是否仍在。 請對方寫下地址、案件編號或下一步。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先播放核心求助句並指出情境卡。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「請幫我聯絡飯店」不只看表面，先用這張圖拆成三步。\n\n緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "travel-emergency-english-d027"
+  },
+  {
+    "id": "travel-emergency-english-social-09",
+    "title": "我對這個藥過敏｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "我對這個藥過敏，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "我對這個藥過敏，別只看表面。",
+        "subtitle": "我對這個藥過敏？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 tap-scene 圖解，三個節點依序亮起",
+        "voiceover": "先用一句短句說明你需要什麼幫助。 補充地點、症狀、遺失物或危險是否仍在。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先播放核心求助句並指出情境卡。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「我對這個藥過敏」不只看表面，先用這張圖拆成三步。\n\n緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "travel-emergency-english-d051"
+  },
+  {
+    "id": "travel-emergency-english-social-10",
+    "title": "我發燒/受傷了｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "我發燒/受傷了，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "我發燒/受傷了，別只看表面。",
+        "subtitle": "我發燒/受傷了？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 phrase-card 圖解，三個節點依序亮起",
+        "voiceover": "補充地點、症狀、遺失物或危險是否仍在。 請對方寫下地址、案件編號或下一步。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：先播放核心求助句並指出情境卡。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「我發燒/受傷了」不只看表面，先用這張圖拆成三步。\n\n緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "travel-emergency-english-d052"
+  }
+]

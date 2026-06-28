@@ -1,0 +1,82 @@
+[
+  {
+    "id": "outfit-body-shape-m01",
+    "appSlug": "outfit-body-shape",
+    "title": "體型辨識",
+    "order": 1,
+    "topicCount": 25,
+    "freeCount": 10,
+    "proCount": 15,
+    "iconSystemName": "message"
+  },
+  {
+    "id": "outfit-body-shape-m02",
+    "appSlug": "outfit-body-shape",
+    "title": "上身版型",
+    "order": 2,
+    "topicCount": 25,
+    "freeCount": 3,
+    "proCount": 22,
+    "iconSystemName": "person.2"
+  },
+  {
+    "id": "outfit-body-shape-m03",
+    "appSlug": "outfit-body-shape",
+    "title": "下身比例",
+    "order": 3,
+    "topicCount": 25,
+    "freeCount": 1,
+    "proCount": 24,
+    "iconSystemName": "arrow.left.and.right"
+  },
+  {
+    "id": "outfit-body-shape-m04",
+    "appSlug": "outfit-body-shape",
+    "title": "色塊重心",
+    "order": 4,
+    "topicCount": 25,
+    "freeCount": 1,
+    "proCount": 24,
+    "iconSystemName": "heart"
+  },
+  {
+    "id": "outfit-body-shape-m05",
+    "appSlug": "outfit-body-shape",
+    "title": "顯高顯瘦",
+    "order": 5,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "shield"
+  },
+  {
+    "id": "outfit-body-shape-m06",
+    "appSlug": "outfit-body-shape",
+    "title": "正式/休閒/約會/通勤",
+    "order": 6,
+    "topicCount": 25,
+    "freeCount": 3,
+    "proCount": 22,
+    "iconSystemName": "snowflake"
+  },
+  {
+    "id": "outfit-body-shape-m07",
+    "appSlug": "outfit-body-shape",
+    "title": "男女版本",
+    "order": 7,
+    "topicCount": 25,
+    "freeCount": 0,
+    "proCount": 25,
+    "iconSystemName": "exclamationmark.triangle"
+  },
+  {
+    "id": "outfit-body-shape-m08",
+    "appSlug": "outfit-body-shape",
+    "title": "常見購物錯誤",
+    "order": 8,
+    "topicCount": 25,
+    "freeCount": 0,
+    "proCount": 25,
+    "iconSystemName": "wrench"
+  }
+]

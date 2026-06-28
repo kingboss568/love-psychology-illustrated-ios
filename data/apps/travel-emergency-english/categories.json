@@ -1,0 +1,82 @@
+[
+  {
+    "id": "travel-emergency-english-m01",
+    "appSlug": "travel-emergency-english",
+    "title": "機場入境",
+    "order": 1,
+    "topicCount": 25,
+    "freeCount": 6,
+    "proCount": 19,
+    "iconSystemName": "message"
+  },
+  {
+    "id": "travel-emergency-english-m02",
+    "appSlug": "travel-emergency-english",
+    "title": "飯店求助",
+    "order": 2,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "person.2"
+  },
+  {
+    "id": "travel-emergency-english-m03",
+    "appSlug": "travel-emergency-english",
+    "title": "醫療與藥局",
+    "order": 3,
+    "topicCount": 25,
+    "freeCount": 4,
+    "proCount": 21,
+    "iconSystemName": "arrow.left.and.right"
+  },
+  {
+    "id": "travel-emergency-english-m04",
+    "appSlug": "travel-emergency-english",
+    "title": "警察與失竊",
+    "order": 4,
+    "topicCount": 25,
+    "freeCount": 3,
+    "proCount": 22,
+    "iconSystemName": "heart"
+  },
+  {
+    "id": "travel-emergency-english-m05",
+    "appSlug": "travel-emergency-english",
+    "title": "交通事故",
+    "order": 5,
+    "topicCount": 25,
+    "freeCount": 1,
+    "proCount": 24,
+    "iconSystemName": "shield"
+  },
+  {
+    "id": "travel-emergency-english-m06",
+    "appSlug": "travel-emergency-english",
+    "title": "文件與護照",
+    "order": 6,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "snowflake"
+  },
+  {
+    "id": "travel-emergency-english-m07",
+    "appSlug": "travel-emergency-english",
+    "title": "自然災害",
+    "order": 7,
+    "topicCount": 25,
+    "freeCount": 0,
+    "proCount": 25,
+    "iconSystemName": "exclamationmark.triangle"
+  },
+  {
+    "id": "travel-emergency-english-m08",
+    "appSlug": "travel-emergency-english",
+    "title": "旅遊保險與聯絡流程",
+    "order": 8,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "wrench"
+  }
+]

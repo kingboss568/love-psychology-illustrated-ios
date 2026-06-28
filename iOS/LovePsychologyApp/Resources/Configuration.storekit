@@ -1,0 +1,38 @@
+{
+  "identifier": "LOVE-PSYCHOLOGY-FULL-UNLOCK-STOREKIT",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "199",
+      "familyShareable": true,
+      "internalID": "LOVE_PSYCHOLOGY_FULL_UNLOCK",
+      "localizations": [
+        {
+          "locale": "zh_TW",
+          "displayName": "戀愛心理全圖解 Pro 完整版",
+          "description": "一次解鎖戀愛心理全圖解完整版，永久使用全部 200 張圖解與 100 種關係微工具。"
+        },
+        {
+          "locale": "en_US",
+          "displayName": "Love Psychology Illustrated Pro",
+          "description": "Unlock all 200 relationship psychology diagrams and 100 practical micro tools with a one-time purchase."
+        }
+      ],
+      "productID": "com.jiang.visualguide.lovepsychology.pro.lifetime",
+      "referenceName": "Love Psychology Illustrated Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_developerTeamID": "7H7ZUG2WX8",
+    "_failTransactionsEnabled": false,
+    "_locale": "zh_TW",
+    "_storefront": "TWN",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 4,
+    "minor": 0
+  }
+}

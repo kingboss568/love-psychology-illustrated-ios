@@ -1,0 +1,82 @@
+[
+  {
+    "id": "microexpression-social-insight-m01",
+    "appSlug": "microexpression-social-insight",
+    "title": "臉部微線索",
+    "order": 1,
+    "topicCount": 25,
+    "freeCount": 6,
+    "proCount": 19,
+    "iconSystemName": "message"
+  },
+  {
+    "id": "microexpression-social-insight-m02",
+    "appSlug": "microexpression-social-insight",
+    "title": "眼神與專注",
+    "order": 2,
+    "topicCount": 25,
+    "freeCount": 3,
+    "proCount": 22,
+    "iconSystemName": "person.2"
+  },
+  {
+    "id": "microexpression-social-insight-m03",
+    "appSlug": "microexpression-social-insight",
+    "title": "手勢與防備",
+    "order": 3,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "arrow.left.and.right"
+  },
+  {
+    "id": "microexpression-social-insight-m04",
+    "appSlug": "microexpression-social-insight",
+    "title": "空間距離",
+    "order": 4,
+    "topicCount": 25,
+    "freeCount": 3,
+    "proCount": 22,
+    "iconSystemName": "heart"
+  },
+  {
+    "id": "microexpression-social-insight-m05",
+    "appSlug": "microexpression-social-insight",
+    "title": "群體互動",
+    "order": 5,
+    "topicCount": 25,
+    "freeCount": 3,
+    "proCount": 22,
+    "iconSystemName": "shield"
+  },
+  {
+    "id": "microexpression-social-insight-m06",
+    "appSlug": "microexpression-social-insight",
+    "title": "社交焦慮與防禦",
+    "order": 6,
+    "topicCount": 25,
+    "freeCount": 2,
+    "proCount": 23,
+    "iconSystemName": "snowflake"
+  },
+  {
+    "id": "microexpression-social-insight-m07",
+    "appSlug": "microexpression-social-insight",
+    "title": "緊張情境",
+    "order": 7,
+    "topicCount": 25,
+    "freeCount": 1,
+    "proCount": 24,
+    "iconSystemName": "exclamationmark.triangle"
+  },
+  {
+    "id": "microexpression-social-insight-m08",
+    "appSlug": "microexpression-social-insight",
+    "title": "抗拒/討好情境",
+    "order": 8,
+    "topicCount": 25,
+    "freeCount": 0,
+    "proCount": 25,
+    "iconSystemName": "wrench"
+  }
+]

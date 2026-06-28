@@ -1,0 +1,147 @@
+{
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-06-25",
+  "rank": 2,
+  "name": "穿搭與體型全圖解",
+  "shortName": "穿搭體型",
+  "slug": "outfit-body-shape",
+  "bundleId": "com.jiang.visualguide.outfitbody",
+  "productId": "com.jiang.visualguide.outfitbody.pro.lifetime",
+  "positioning": "先看懂自己的比例與身形，再選對穿搭。",
+  "hook": "不是你不會穿，是你還沒看懂自己的比例。",
+  "targetUsers": [
+    "常買錯衣服、穿起來總覺得怪的人",
+    "需要顯高、顯瘦、修飾身形的人",
+    "想建立日常穿搭決策系統的人"
+  ],
+  "purchaseMotivation": "我想知道自己到底適合什麼版型。",
+  "visualSellingPoint": "3D 人體比例線與穿錯/穿對對照。",
+  "safeClaim": "提供穿搭比例與購物參考，不評判身材、不製造身材焦慮，也不提供減重或醫療建議。",
+  "theme": {
+    "primary": "米白",
+    "accent": "霧藍",
+    "visual_language": "3D 人體比例線、衣長裁切線、色塊重心、穿錯穿對對照"
+  },
+  "uniqueFeature": {
+    "id": "proportion-overlay",
+    "name": "比例線與穿錯／穿對滑桿",
+    "description": "在同一身形上切換腰線、衣長、褲長與色塊重心，立即比較視覺差異。",
+    "views": [
+      "ProportionOverlayView",
+      "BeforeAfterSliderView",
+      "ShoppingCheckView"
+    ]
+  },
+  "coreFeatures": [
+    "體型辨識入口",
+    "穿錯/穿對對照",
+    "比例線視覺化",
+    "場景穿搭分類",
+    "購物避雷卡",
+    "比例線與穿錯／穿對滑桿"
+  ],
+  "contentCounts": {
+    "diagrams": 200,
+    "freeDiagrams": 20,
+    "proDiagrams": 180,
+    "videos": 20,
+    "freeVideos": 3,
+    "proVideos": 17,
+    "socialVideos": 10
+  },
+  "categories": [
+    {
+      "id": "outfit-body-shape-m01",
+      "appSlug": "outfit-body-shape",
+      "title": "體型辨識",
+      "order": 1,
+      "topicCount": 25,
+      "freeCount": 10,
+      "proCount": 15,
+      "iconSystemName": "message"
+    },
+    {
+      "id": "outfit-body-shape-m02",
+      "appSlug": "outfit-body-shape",
+      "title": "上身版型",
+      "order": 2,
+      "topicCount": 25,
+      "freeCount": 3,
+      "proCount": 22,
+      "iconSystemName": "person.2"
+    },
+    {
+      "id": "outfit-body-shape-m03",
+      "appSlug": "outfit-body-shape",
+      "title": "下身比例",
+      "order": 3,
+      "topicCount": 25,
+      "freeCount": 1,
+      "proCount": 24,
+      "iconSystemName": "arrow.left.and.right"
+    },
+    {
+      "id": "outfit-body-shape-m04",
+      "appSlug": "outfit-body-shape",
+      "title": "色塊重心",
+      "order": 4,
+      "topicCount": 25,
+      "freeCount": 1,
+      "proCount": 24,
+      "iconSystemName": "heart"
+    },
+    {
+      "id": "outfit-body-shape-m05",
+      "appSlug": "outfit-body-shape",
+      "title": "顯高顯瘦",
+      "order": 5,
+      "topicCount": 25,
+      "freeCount": 2,
+      "proCount": 23,
+      "iconSystemName": "shield"
+    },
+    {
+      "id": "outfit-body-shape-m06",
+      "appSlug": "outfit-body-shape",
+      "title": "正式/休閒/約會/通勤",
+      "order": 6,
+      "topicCount": 25,
+      "freeCount": 3,
+      "proCount": 22,
+      "iconSystemName": "snowflake"
+    },
+    {
+      "id": "outfit-body-shape-m07",
+      "appSlug": "outfit-body-shape",
+      "title": "男女版本",
+      "order": 7,
+      "topicCount": 25,
+      "freeCount": 0,
+      "proCount": 25,
+      "iconSystemName": "exclamationmark.triangle"
+    },
+    {
+      "id": "outfit-body-shape-m08",
+      "appSlug": "outfit-body-shape",
+      "title": "常見購物錯誤",
+      "order": 8,
+      "topicCount": 25,
+      "freeCount": 0,
+      "proCount": 25,
+      "iconSystemName": "wrench"
+    }
+  ],
+  "monetization": {
+    "download": "free",
+    "iapType": "non-consumable",
+    "targetPriceTWD": 299,
+    "priceSourceOfTruth": "StoreKit Product.displayPrice",
+    "restorePurchasesRequired": true
+  },
+  "releaseStrategy": {
+    "pilotApp": false,
+    "doNotShipAsTemplateClone": true,
+    "requiresUniqueFeatureAndMetadata": true,
+    "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+  }
+}

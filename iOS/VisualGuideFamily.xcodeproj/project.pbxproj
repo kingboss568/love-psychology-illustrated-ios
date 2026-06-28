@@ -1,0 +1,579 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		067362ED9517A33885EFB2FF /* VisualGuideCore.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C884F23983F797CF3EA554EA /* VisualGuideCore.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		0721CF25003D0067360F6D95 /* VisualGuideCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C884F23983F797CF3EA554EA /* VisualGuideCore.framework */; };
+		1760486A43BF392E7128AC7B /* UIKitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F78CAA8E890FC41DBC16468 /* UIKitApp.swift */; };
+		226E181E374C136590C6B9D6 /* ContentModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA85F1A6E5E47D77D39C0694 /* ContentModels.swift */; };
+		333674070E1B9DBD7743E67B /* VisualGuideCore.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C884F23983F797CF3EA554EA /* VisualGuideCore.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		4406016153FBD03659F9F62D /* ContentRepositoryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB3FE89541C198F346363261 /* ContentRepositoryTests.swift */; };
+		8D8D3E3F36E1496A6D147860 /* VisualGuideCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C884F23983F797CF3EA554EA /* VisualGuideCore.framework */; };
+		A8A0DEB4A28595F32CF7BB22 /* AppVariant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC1323658CFB513763B1842 /* AppVariant.swift */; };
+		BEB8A6DC929E59268B08E39F /* PurchaseStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE8BAF5FC43403B452CD2733 /* PurchaseStore.swift */; };
+		C2E8F4BD0320F09C1719736F /* BundleContentRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2031FBD96789C9B11F3D5A17 /* BundleContentRepository.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0A381DAEB3B385349DEB9327 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 54CF96D238899073EC1E27C7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FBAC03821BD1DFDB42107597;
+			remoteInfo = VisualGuideCore;
+		};
+		373C5ABFD09127D767493587 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 54CF96D238899073EC1E27C7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FBAC03821BD1DFDB42107597;
+			remoteInfo = VisualGuideCore;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		56D80FE3C43CEAF09E320FD4 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				067362ED9517A33885EFB2FF /* VisualGuideCore.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AEBF8EE36FC39CE1321D06F6 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				333674070E1B9DBD7743E67B /* VisualGuideCore.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		2031FBD96789C9B11F3D5A17 /* BundleContentRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleContentRepository.swift; sourceTree = "<group>"; };
+		41DDC140D69191B59561558E /* VisualGuideCore-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "VisualGuideCore-Info.plist"; sourceTree = "<group>"; };
+		4F78CAA8E890FC41DBC16468 /* UIKitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitApp.swift; sourceTree = "<group>"; };
+		8FC1323658CFB513763B1842 /* AppVariant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppVariant.swift; sourceTree = "<group>"; };
+		BA18BE03ED2B8800C67442B4 /* VisualGuideCoreTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = VisualGuideCoreTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C884F23983F797CF3EA554EA /* VisualGuideCore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VisualGuideCore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C8908B6A3A8581930FA6549E /* LovePsychology.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = LovePsychology.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB3FE89541C198F346363261 /* ContentRepositoryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentRepositoryTests.swift; sourceTree = "<group>"; };
+		DA85F1A6E5E47D77D39C0694 /* ContentModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentModels.swift; sourceTree = "<group>"; };
+		DE8BAF5FC43403B452CD2733 /* PurchaseStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurchaseStore.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1E605603BA6B42BB030B875D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0721CF25003D0067360F6D95 /* VisualGuideCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7F19D3CD81413679F90C659E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D8D3E3F36E1496A6D147860 /* VisualGuideCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0E3A77E2F22A7BAC8AEBB1C0 /* AppCore */ = {
+			isa = PBXGroup;
+			children = (
+				8FC1323658CFB513763B1842 /* AppVariant.swift */,
+				41DDC140D69191B59561558E /* VisualGuideCore-Info.plist */,
+			);
+			path = AppCore;
+			sourceTree = "<group>";
+		};
+		0EC0852D90ECF7FD7328AB74 /* ContentKit */ = {
+			isa = PBXGroup;
+			children = (
+				2031FBD96789C9B11F3D5A17 /* BundleContentRepository.swift */,
+				DA85F1A6E5E47D77D39C0694 /* ContentModels.swift */,
+			);
+			path = ContentKit;
+			sourceTree = "<group>";
+		};
+		257B1B0EE6FA59D33446DCB4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C8908B6A3A8581930FA6549E /* LovePsychology.app */,
+				C884F23983F797CF3EA554EA /* VisualGuideCore.framework */,
+				BA18BE03ED2B8800C67442B4 /* VisualGuideCoreTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		981A927BC9FCADC6B27A8815 /* VisualGuideCoreTests */ = {
+			isa = PBXGroup;
+			children = (
+				CB3FE89541C198F346363261 /* ContentRepositoryTests.swift */,
+			);
+			path = VisualGuideCoreTests;
+			sourceTree = "<group>";
+		};
+		99F45E55D976E21F2E4D25CA /* PurchaseKit */ = {
+			isa = PBXGroup;
+			children = (
+				DE8BAF5FC43403B452CD2733 /* PurchaseStore.swift */,
+			);
+			path = PurchaseKit;
+			sourceTree = "<group>";
+		};
+		9B6B1FA120B3DE05144C9367 /* LovePsychologyUIKit */ = {
+			isa = PBXGroup;
+			children = (
+				4F78CAA8E890FC41DBC16468 /* UIKitApp.swift */,
+			);
+			path = LovePsychologyUIKit;
+			sourceTree = "<group>";
+		};
+		EA3015C1CC4D63CCA509CB28 = {
+			isa = PBXGroup;
+			children = (
+				0E3A77E2F22A7BAC8AEBB1C0 /* AppCore */,
+				0EC0852D90ECF7FD7328AB74 /* ContentKit */,
+				9B6B1FA120B3DE05144C9367 /* LovePsychologyUIKit */,
+				99F45E55D976E21F2E4D25CA /* PurchaseKit */,
+				981A927BC9FCADC6B27A8815 /* VisualGuideCoreTests */,
+				257B1B0EE6FA59D33446DCB4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6489D441F05452EC20EE3DCE /* VisualGuideCoreTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 923F43B31EFA0C93B82A78DA /* Build configuration list for PBXNativeTarget "VisualGuideCoreTests" */;
+			buildPhases = (
+				94B6814AF556EE085213AEC6 /* Sources */,
+				7F19D3CD81413679F90C659E /* Frameworks */,
+				56D80FE3C43CEAF09E320FD4 /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				33DBA37EB2665286B3C1D92D /* PBXTargetDependency */,
+			);
+			name = VisualGuideCoreTests;
+			packageProductDependencies = (
+			);
+			productName = VisualGuideCoreTests;
+			productReference = BA18BE03ED2B8800C67442B4 /* VisualGuideCoreTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		71431518CDCE06AEACEC8D28 /* LovePsychology */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ED19B240549D71E9DC53FC97 /* Build configuration list for PBXNativeTarget "LovePsychology" */;
+			buildPhases = (
+				C7452AE2230C4DE9D3A950FE /* Sources */,
+				1E605603BA6B42BB030B875D /* Frameworks */,
+				AEBF8EE36FC39CE1321D06F6 /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E187C3836E5407DF8979E1DE /* PBXTargetDependency */,
+			);
+			name = LovePsychology;
+			packageProductDependencies = (
+			);
+			productName = LovePsychology;
+			productReference = C8908B6A3A8581930FA6549E /* LovePsychology.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FBAC03821BD1DFDB42107597 /* VisualGuideCore */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 527620FB8A581237C5B70776 /* Build configuration list for PBXNativeTarget "VisualGuideCore" */;
+			buildPhases = (
+				9E00E9635EB011B47A2FA8CE /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = VisualGuideCore;
+			packageProductDependencies = (
+			);
+			productName = VisualGuideCore;
+			productReference = C884F23983F797CF3EA554EA /* VisualGuideCore.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		54CF96D238899073EC1E27C7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					71431518CDCE06AEACEC8D28 = {
+						DevelopmentTeam = 7H7ZUG2WX8;
+					};
+				};
+			};
+			buildConfigurationList = 9C28A629BFCE17B2E561AE37 /* Build configuration list for PBXProject "VisualGuideFamily" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = EA3015C1CC4D63CCA509CB28;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 257B1B0EE6FA59D33446DCB4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				71431518CDCE06AEACEC8D28 /* LovePsychology */,
+				FBAC03821BD1DFDB42107597 /* VisualGuideCore */,
+				6489D441F05452EC20EE3DCE /* VisualGuideCoreTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		94B6814AF556EE085213AEC6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4406016153FBD03659F9F62D /* ContentRepositoryTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9E00E9635EB011B47A2FA8CE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A8A0DEB4A28595F32CF7BB22 /* AppVariant.swift in Sources */,
+				C2E8F4BD0320F09C1719736F /* BundleContentRepository.swift in Sources */,
+				226E181E374C136590C6B9D6 /* ContentModels.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C7452AE2230C4DE9D3A950FE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BEB8A6DC929E59268B08E39F /* PurchaseStore.swift in Sources */,
+				1760486A43BF392E7128AC7B /* UIKitApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		33DBA37EB2665286B3C1D92D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FBAC03821BD1DFDB42107597 /* VisualGuideCore */;
+			targetProxy = 0A381DAEB3B385349DEB9327 /* PBXContainerItemProxy */;
+		};
+		E187C3836E5407DF8979E1DE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FBAC03821BD1DFDB42107597 /* VisualGuideCore */;
+			targetProxy = 373C5ABFD09127D767493587 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1B0847E02000D152A1C80E87 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 7H7ZUG2WX8;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				INFOPLIST_FILE = LovePsychologyApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.jiang.visualguide.lovepsychology;
+				PRODUCT_NAME = "戀愛心理全圖解";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2595A357D0972A0E35F808D3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Release;
+		};
+		2EE88F2B329EDAE8121535E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "AppCore/VisualGuideCore-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.jiang.visualguide.core;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Debug;
+		};
+		39A30CF2FDBF9BC3909D106E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Debug;
+		};
+		56713C260D66E93841235E53 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 7H7ZUG2WX8;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				INFOPLIST_FILE = LovePsychologyApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.jiang.visualguide.lovepsychology;
+				PRODUCT_NAME = "戀愛心理全圖解";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		64D271C0A56695F46D17340E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.jiang.visualguide.core.tests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8EA3B28879D02024A3ADE9B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.jiang.visualguide.core.tests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CABC49BF49BBB98979187B9C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "AppCore/VisualGuideCore-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.jiang.visualguide.core;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		527620FB8A581237C5B70776 /* Build configuration list for PBXNativeTarget "VisualGuideCore" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2EE88F2B329EDAE8121535E4 /* Debug */,
+				CABC49BF49BBB98979187B9C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		923F43B31EFA0C93B82A78DA /* Build configuration list for PBXNativeTarget "VisualGuideCoreTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8EA3B28879D02024A3ADE9B8 /* Debug */,
+				64D271C0A56695F46D17340E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		9C28A629BFCE17B2E561AE37 /* Build configuration list for PBXProject "VisualGuideFamily" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39A30CF2FDBF9BC3909D106E /* Debug */,
+				2595A357D0972A0E35F808D3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		ED19B240549D71E9DC53FC97 /* Build configuration list for PBXNativeTarget "LovePsychology" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1B0847E02000D152A1C80E87 /* Debug */,
+				56713C260D66E93841235E53 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 54CF96D238899073EC1E27C7 /* Project object */;
+}

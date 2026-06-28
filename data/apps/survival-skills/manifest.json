@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-06-25",
+  "rank": 8,
+  "name": "生存技能全圖解",
+  "shortName": "生存技能",
+  "slug": "survival-skills",
+  "bundleId": "com.jiang.visualguide.survival",
+  "productId": "com.jiang.visualguide.survival.pro.lifetime",
+  "positioning": "在迷路、受困、災害、缺水等高風險情境下，先知道正確順序。",
+  "hook": "平常用不到，但出事時你會希望早就看過。",
+  "targetUsers": [
+    "喜歡防災、求生、野外與高風險應對內容的人",
+    "想知道真正遇到危險時先做什麼的人"
+  ],
+  "purchaseMotivation": "我想知道遇到危險時先做什麼。",
+  "visualSellingPoint": "危險區域與步驟式情境圖。",
+  "safeClaim": "一般防災教育用途；面臨立即危險時，優先聯絡當地緊急服務並遵循官方指示。",
+  "theme": {
+    "primary": "苔綠",
+    "accent": "警示黃",
+    "visual_language": "危險區域標示、步驟序號、地形剖面、求救訊號圖"
+  },
+  "uniqueFeature": {
+    "id": "priority-checklist",
+    "name": "高風險優先順序與求援檢查表",
+    "description": "依立即危險、求援、保暖、飲水與資源保存排序，並標出必須交由官方處置的節點。",
+    "views": [
+      "PriorityChecklistView",
+      "HazardZoneView",
+      "EmergencyTimerView"
+    ]
+  },
+  "coreFeatures": [
+    "情境步驟圖",
+    "危險區域標示",
+    "先做什麼/不要做什麼",
+    "裝備與判斷卡",
+    "離線快速索引",
+    "高風險優先順序與求援檢查表"
+  ],
+  "contentCounts": {
+    "diagrams": 200,
+    "freeDiagrams": 20,
+    "proDiagrams": 180,
+    "videos": 20,
+    "freeVideos": 3,
+    "proVideos": 17,
+    "socialVideos": 10
+  },
+  "categories": [
+    {
+      "id": "survival-skills-m01",
+      "appSlug": "survival-skills",
+      "title": "迷途應對",
+      "order": 1,
+      "topicCount": 25,
+      "freeCount": 6,
+      "proCount": 19,
+      "iconSystemName": "message"
+    },
+    {
+      "id": "survival-skills-m02",
+      "appSlug": "survival-skills",
+      "title": "求救與定位",
+      "order": 2,
+      "topicCount": 25,
+      "freeCount": 3,
+      "proCount": 22,
+      "iconSystemName": "person.2"
+    },
+    {
+      "id": "survival-skills-m03",
+      "appSlug": "survival-skills",
+      "title": "避難與保暖",
+      "order": 3,
+      "topicCount": 25,
+      "freeCount": 1,
+      "proCount": 24,
+      "iconSystemName": "arrow.left.and.right"
+    },
+    {
+      "id": "survival-skills-m04",
+      "appSlug": "survival-skills",
+      "title": "缺水缺糧",
+      "order": 4,
+      "topicCount": 25,
+      "freeCount": 2,
+      "proCount": 23,
+      "iconSystemName": "heart"
+    },
+    {
+      "id": "survival-skills-m05",
+      "appSlug": "survival-skills",
+      "title": "都市災害",
+      "order": 5,
+      "topicCount": 25,
+      "freeCount": 4,
+      "proCount": 21,
+      "iconSystemName": "shield"
+    },
+    {
+      "id": "survival-skills-m06",
+      "appSlug": "survival-skills",
+      "title": "車內/建物受困",
+      "order": 6,
+      "topicCount": 25,
+      "freeCount": 2,
+      "proCount": 23,
+      "iconSystemName": "snowflake"
+    },
+    {
+      "id": "survival-skills-m07",
+      "appSlug": "survival-skills",
+      "title": "火源與風險",
+      "order": 7,
+      "topicCount": 25,
+      "freeCount": 0,
+      "proCount": 25,
+      "iconSystemName": "exclamationmark.triangle"
+    },
+    {
+      "id": "survival-skills-m08",
+      "appSlug": "survival-skills",
+      "title": "裝備與判斷",
+      "order": 8,
+      "topicCount": 25,
+      "freeCount": 2,
+      "proCount": 23,
+      "iconSystemName": "wrench"
+    }
+  ],
+  "monetization": {
+    "download": "free",
+    "iapType": "non-consumable",
+    "targetPriceTWD": 299,
+    "priceSourceOfTruth": "StoreKit Product.displayPrice",
+    "restorePurchasesRequired": true
+  },
+  "releaseStrategy": {
+    "pilotApp": false,
+    "doNotShipAsTemplateClone": true,
+    "requiresUniqueFeatureAndMetadata": true,
+    "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+  }
+}

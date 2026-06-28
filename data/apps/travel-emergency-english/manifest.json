@@ -1,0 +1,147 @@
+{
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-06-25",
+  "rank": 3,
+  "name": "旅行應急與海外自救英文全圖解",
+  "shortName": "旅安英文",
+  "slug": "travel-emergency-english",
+  "bundleId": "com.jiang.visualguide.travelenglish",
+  "productId": "com.jiang.visualguide.travelenglish.pro.lifetime",
+  "positioning": "出國遇到狀況時，直接點圖就能說出正確求助英文。",
+  "hook": "你不必英文很好，但要先會在出事時說對話。",
+  "targetUsers": [
+    "自助旅行者、商務旅客、英文不流利者",
+    "擔心醫療、失竊、遺失護照、報警求助時不會表達的人"
+  ],
+  "purchaseMotivation": "我怕出國出事時不會講。",
+  "visualSellingPoint": "情境圖＋語音按鈕＋求助流程。",
+  "safeClaim": "緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+  "theme": {
+    "primary": "高可視橘",
+    "accent": "安全藍",
+    "visual_language": "機場/醫院/警局/街道情境圖、語音按鈕、流程箭頭"
+  },
+  "uniqueFeature": {
+    "id": "tap-to-speak",
+    "name": "點擊播音與求助流程",
+    "description": "每張情境卡提供正常／慢速語音、可放大英文句、關鍵資料欄與下一步流程。",
+    "views": [
+      "EmergencyPhraseView",
+      "SpeechSpeedControl",
+      "HelpFlowView",
+      "OfflinePhraseLibraryView"
+    ]
+  },
+  "coreFeatures": [
+    "點人物/物件/情境卡播語音",
+    "慢速/正常語速",
+    "關鍵應急句",
+    "流程式求助引導",
+    "離線收藏句",
+    "點擊播音與求助流程"
+  ],
+  "contentCounts": {
+    "diagrams": 200,
+    "freeDiagrams": 20,
+    "proDiagrams": 180,
+    "videos": 20,
+    "freeVideos": 3,
+    "proVideos": 17,
+    "socialVideos": 10
+  },
+  "categories": [
+    {
+      "id": "travel-emergency-english-m01",
+      "appSlug": "travel-emergency-english",
+      "title": "機場入境",
+      "order": 1,
+      "topicCount": 25,
+      "freeCount": 6,
+      "proCount": 19,
+      "iconSystemName": "message"
+    },
+    {
+      "id": "travel-emergency-english-m02",
+      "appSlug": "travel-emergency-english",
+      "title": "飯店求助",
+      "order": 2,
+      "topicCount": 25,
+      "freeCount": 2,
+      "proCount": 23,
+      "iconSystemName": "person.2"
+    },
+    {
+      "id": "travel-emergency-english-m03",
+      "appSlug": "travel-emergency-english",
+      "title": "醫療與藥局",
+      "order": 3,
+      "topicCount": 25,
+      "freeCount": 4,
+      "proCount": 21,
+      "iconSystemName": "arrow.left.and.right"
+    },
+    {
+      "id": "travel-emergency-english-m04",
+      "appSlug": "travel-emergency-english",
+      "title": "警察與失竊",
+      "order": 4,
+      "topicCount": 25,
+      "freeCount": 3,
+      "proCount": 22,
+      "iconSystemName": "heart"
+    },
+    {
+      "id": "travel-emergency-english-m05",
+      "appSlug": "travel-emergency-english",
+      "title": "交通事故",
+      "order": 5,
+      "topicCount": 25,
+      "freeCount": 1,
+      "proCount": 24,
+      "iconSystemName": "shield"
+    },
+    {
+      "id": "travel-emergency-english-m06",
+      "appSlug": "travel-emergency-english",
+      "title": "文件與護照",
+      "order": 6,
+      "topicCount": 25,
+      "freeCount": 2,
+      "proCount": 23,
+      "iconSystemName": "snowflake"
+    },
+    {
+      "id": "travel-emergency-english-m07",
+      "appSlug": "travel-emergency-english",
+      "title": "自然災害",
+      "order": 7,
+      "topicCount": 25,
+      "freeCount": 0,
+      "proCount": 25,
+      "iconSystemName": "exclamationmark.triangle"
+    },
+    {
+      "id": "travel-emergency-english-m08",
+      "appSlug": "travel-emergency-english",
+      "title": "旅遊保險與聯絡流程",
+      "order": 8,
+      "topicCount": 25,
+      "freeCount": 2,
+      "proCount": 23,
+      "iconSystemName": "wrench"
+    }
+  ],
+  "monetization": {
+    "download": "free",
+    "iapType": "non-consumable",
+    "targetPriceTWD": 299,
+    "priceSourceOfTruth": "StoreKit Product.displayPrice",
+    "restorePurchasesRequired": true
+  },
+  "releaseStrategy": {
+    "pilotApp": false,
+    "doNotShipAsTemplateClone": true,
+    "requiresUniqueFeatureAndMetadata": true,
+    "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+  }
+}

@@ -1,0 +1,2 @@
+app_identifier(ENV["APP_IDENTIFIER"])
+team_name(ENV["APP_TEAM_NAME"])

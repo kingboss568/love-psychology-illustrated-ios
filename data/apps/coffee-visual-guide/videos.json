@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "coffee-visual-guide-v01",
+    "appSlug": "coffee-visual-guide",
+    "order": 1,
+    "accessLevel": "free",
+    "title": "太酸不是只有水溫問題",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「太酸不是只有水溫問題」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "太酸不是只有水溫問題，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「太酸不是只有水溫問題」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "太酸不是只有水溫問題？",
+        "voiceover": "遇到「太酸不是只有水溫問題」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜太酸不是只有水溫問題",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「太酸不是只有水溫問題」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「太酸不是只有水溫問題」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “太酸不是只有水溫問題” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「太酸不是只有水溫問題」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 flow-map 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。",
+        "subtitle": "同時記錄流速、總時間與味道，不只看秒數。｜粉床外觀是線索，不是唯一判準。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「太酸不是只有水溫問題」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 flow-map 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “太酸不是只有水溫問題” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 flow-map 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "免費查看完整圖解",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「太酸不是只有水溫問題」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “太酸不是只有水溫問題” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「太酸不是只有水溫問題」，先別急著用一個表面現象下結論。 同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "太酸不是只有水溫問題：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "打開 App 查看完整圖解",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_01_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_01_s1",
+        "coffee_visual_guide_video_01_s2",
+        "coffee_visual_guide_video_01_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_01.mp4",
+      "captions": "coffee_visual_guide_video_01.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d002",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v02",
+    "appSlug": "coffee-visual-guide",
+    "order": 2,
+    "accessLevel": "free",
+    "title": "過萃與苦澀剖面",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「過萃與苦澀剖面」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "過萃與苦澀剖面，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「過萃與苦澀剖面」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "過萃與苦澀剖面？",
+        "voiceover": "遇到「過萃與苦澀剖面」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜過萃與苦澀剖面",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「過萃與苦澀剖面」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brew-timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「過萃與苦澀剖面」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “過萃與苦澀剖面” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brew-timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「過萃與苦澀剖面」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brew-timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 brew-timeline 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先用較小幅度調整，避免一次改太多。 不同豆子與器具需要重新校正，不套用單一答案。",
+        "subtitle": "先用較小幅度調整，避免一次改太多。｜不同豆子與器具需要重新校正，不套用單一答案。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「過萃與苦澀剖面」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brew-timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 brew-timeline 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “過萃與苦澀剖面” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brew-timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 brew-timeline 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brew-timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "免費查看完整圖解",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「過萃與苦澀剖面」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brew-timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “過萃與苦澀剖面” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brew-timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brew-timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「過萃與苦澀剖面」，先別急著用一個表面現象下結論。 先用較小幅度調整，避免一次改太多。 不同豆子與器具需要重新校正，不套用單一答案。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "過萃與苦澀剖面：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "打開 App 查看完整圖解",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_02_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_02_s1",
+        "coffee_visual_guide_video_02_s2",
+        "coffee_visual_guide_video_02_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_02.mp4",
+      "captions": "coffee_visual_guide_video_02.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d009",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v03",
+    "appSlug": "coffee-visual-guide",
+    "order": 3,
+    "accessLevel": "free",
+    "title": "磨太粗/太細對照",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「磨太粗/太細對照」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "磨太粗/太細對照，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「磨太粗/太細對照」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "磨太粗/太細對照？",
+        "voiceover": "遇到「磨太粗/太細對照」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜磨太粗/太細對照",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「磨太粗/太細對照」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「磨太粗/太細對照」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “磨太粗/太細對照” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「磨太粗/太細對照」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 brewer-cutaway 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。",
+        "subtitle": "固定豆量、總水量與水溫，再調一個變因。｜同時記錄流速、總時間與味道，不只看秒數。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「磨太粗/太細對照」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “磨太粗/太細對照” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "免費查看完整圖解",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「磨太粗/太細對照」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “磨太粗/太細對照” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「磨太粗/太細對照」，先別急著用一個表面現象下結論。 固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "磨太粗/太細對照：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "打開 App 查看完整圖解",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_03_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_03_s1",
+        "coffee_visual_guide_video_03_s2",
+        "coffee_visual_guide_video_03_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_03.mp4",
+      "captions": "coffee_visual_guide_video_03.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d001",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v04",
+    "appSlug": "coffee-visual-guide",
+    "order": 4,
+    "accessLevel": "pro",
+    "title": "粉層崩掉怎麼看",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「粉層崩掉怎麼看」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "粉層崩掉怎麼看，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「粉層崩掉怎麼看」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "粉層崩掉怎麼看？",
+        "voiceover": "遇到「粉層崩掉怎麼看」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜粉層崩掉怎麼看",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「粉層崩掉怎麼看」，所屬章節「粉層結構」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「粉層崩掉怎麼看」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “粉層崩掉怎麼看” in the module “粉層結構”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「粉層崩掉怎麼看」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 brewer-cutaway 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。",
+        "subtitle": "固定豆量、總水量與水溫，再調一個變因。｜同時記錄流速、總時間與味道，不只看秒數。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「粉層崩掉怎麼看」，所屬章節「粉層結構」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “粉層崩掉怎麼看” in the module “粉層結構”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「粉層崩掉怎麼看」，所屬章節「粉層結構」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “粉層崩掉怎麼看” in the module “粉層結構”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「粉層崩掉怎麼看」，先別急著用一個表面現象下結論。 固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "粉層崩掉怎麼看：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_04_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_04_s1",
+        "coffee_visual_guide_video_04_s2",
+        "coffee_visual_guide_video_04_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_04.mp4",
+      "captions": "coffee_visual_guide_video_04.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d051",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v05",
+    "appSlug": "coffee-visual-guide",
+    "order": 5,
+    "accessLevel": "pro",
+    "title": "悶蒸成功與失敗",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「悶蒸成功與失敗」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "悶蒸成功與失敗，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「悶蒸成功與失敗」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "悶蒸成功與失敗？",
+        "voiceover": "遇到「悶蒸成功與失敗」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜悶蒸成功與失敗",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「悶蒸成功與失敗」，所屬章節「粉層結構」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「悶蒸成功與失敗」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “悶蒸成功與失敗” in the module “粉層結構”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「悶蒸成功與失敗」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 flow-map 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。",
+        "subtitle": "同時記錄流速、總時間與味道，不只看秒數。｜粉床外觀是線索，不是唯一判準。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「悶蒸成功與失敗」，所屬章節「粉層結構」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 flow-map 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “悶蒸成功與失敗” in the module “粉層結構”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 flow-map 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「悶蒸成功與失敗」，所屬章節「粉層結構」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “悶蒸成功與失敗” in the module “粉層結構”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「悶蒸成功與失敗」，先別急著用一個表面現象下結論。 同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "悶蒸成功與失敗：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_05_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_05_s1",
+        "coffee_visual_guide_video_05_s2",
+        "coffee_visual_guide_video_05_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_05.mp4",
+      "captions": "coffee_visual_guide_video_05.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d052",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v06",
+    "appSlug": "coffee-visual-guide",
+    "order": 6,
+    "accessLevel": "pro",
+    "title": "注水速度動畫",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「注水速度動畫」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "注水速度動畫，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「注水速度動畫」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "注水速度動畫？",
+        "voiceover": "遇到「注水速度動畫」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜注水速度動畫",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「注水速度動畫」，所屬章節「注水方式」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「注水速度動畫」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “注水速度動畫” in the module “注水方式”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「注水速度動畫」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 brewer-cutaway 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。",
+        "subtitle": "固定豆量、總水量與水溫，再調一個變因。｜同時記錄流速、總時間與味道，不只看秒數。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「注水速度動畫」，所屬章節「注水方式」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “注水速度動畫” in the module “注水方式”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「注水速度動畫」，所屬章節「注水方式」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “注水速度動畫” in the module “注水方式”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「注水速度動畫」，先別急著用一個表面現象下結論。 固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "注水速度動畫：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_06_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_06_s1",
+        "coffee_visual_guide_video_06_s2",
+        "coffee_visual_guide_video_06_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_06.mp4",
+      "captions": "coffee_visual_guide_video_06.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d026",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v07",
+    "appSlug": "coffee-visual-guide",
+    "order": 7,
+    "accessLevel": "pro",
+    "title": "流速太快原因",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「流速太快原因」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "流速太快原因，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「流速太快原因」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "流速太快原因？",
+        "voiceover": "遇到「流速太快原因」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜流速太快原因",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「流速太快原因」，所屬章節「萃取時間」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「流速太快原因」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “流速太快原因” in the module “萃取時間”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「流速太快原因」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 flow-map 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。",
+        "subtitle": "同時記錄流速、總時間與味道，不只看秒數。｜粉床外觀是線索，不是唯一判準。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「流速太快原因」，所屬章節「萃取時間」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 flow-map 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “流速太快原因” in the module “萃取時間”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 flow-map 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「流速太快原因」，所屬章節「萃取時間」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “流速太快原因” in the module “萃取時間”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「流速太快原因」，先別急著用一個表面現象下結論。 同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "流速太快原因：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_07_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_07_s1",
+        "coffee_visual_guide_video_07_s2",
+        "coffee_visual_guide_video_07_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_07.mp4",
+      "captions": "coffee_visual_guide_video_07.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d077",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v08",
+    "appSlug": "coffee-visual-guide",
+    "order": 8,
+    "accessLevel": "pro",
+    "title": "粉水比調整",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「粉水比調整」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "粉水比調整，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「粉水比調整」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "粉水比調整？",
+        "voiceover": "遇到「粉水比調整」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜粉水比調整",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「粉水比調整」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：particle-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「粉水比調整」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “粉水比調整” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: particle-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「粉水比調整」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 particle-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 particle-comparison 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "粉床外觀是線索，不是唯一判準。 先用較小幅度調整，避免一次改太多。",
+        "subtitle": "粉床外觀是線索，不是唯一判準。｜先用較小幅度調整，避免一次改太多。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「粉水比調整」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：particle-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 particle-comparison 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “粉水比調整” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: particle-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 particle-comparison 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 particle-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「粉水比調整」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：particle-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “粉水比調整” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: particle-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 particle-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「粉水比調整」，先別急著用一個表面現象下結論。 粉床外觀是線索，不是唯一判準。 先用較小幅度調整，避免一次改太多。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "粉水比調整：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_08_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_08_s1",
+        "coffee_visual_guide_video_08_s2",
+        "coffee_visual_guide_video_08_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_08.mp4",
+      "captions": "coffee_visual_guide_video_08.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d003",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v09",
+    "appSlug": "coffee-visual-guide",
+    "order": 9,
+    "accessLevel": "pro",
+    "title": "水溫影響萃取",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「水溫影響萃取」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "水溫影響萃取，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「水溫影響萃取」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "水溫影響萃取？",
+        "voiceover": "遇到「水溫影響萃取」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜水溫影響萃取",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「水溫影響萃取」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「水溫影響萃取」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “水溫影響萃取” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「水溫影響萃取」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 flow-map 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。",
+        "subtitle": "同時記錄流速、總時間與味道，不只看秒數。｜粉床外觀是線索，不是唯一判準。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「水溫影響萃取」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 flow-map 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “水溫影響萃取” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 flow-map 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「水溫影響萃取」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “水溫影響萃取” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「水溫影響萃取」，先別急著用一個表面現象下結論。 同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "水溫影響萃取：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_09_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_09_s1",
+        "coffee_visual_guide_video_09_s2",
+        "coffee_visual_guide_video_09_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_09.mp4",
+      "captions": "coffee_visual_guide_video_09.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d002",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v10",
+    "appSlug": "coffee-visual-guide",
+    "order": 10,
+    "accessLevel": "pro",
+    "title": "濾杯差異",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「濾杯差異」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "濾杯差異，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「濾杯差異」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "濾杯差異？",
+        "voiceover": "遇到「濾杯差異」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜濾杯差異",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「濾杯差異」，所屬章節「粉層結構」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brew-timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「濾杯差異」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “濾杯差異” in the module “粉層結構”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brew-timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「濾杯差異」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brew-timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 brew-timeline 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先用較小幅度調整，避免一次改太多。 不同豆子與器具需要重新校正，不套用單一答案。",
+        "subtitle": "先用較小幅度調整，避免一次改太多。｜不同豆子與器具需要重新校正，不套用單一答案。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「濾杯差異」，所屬章節「粉層結構」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brew-timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 brew-timeline 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “濾杯差異” in the module “粉層結構”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brew-timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 brew-timeline 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brew-timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「濾杯差異」，所屬章節「粉層結構」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brew-timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “濾杯差異” in the module “粉層結構”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brew-timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brew-timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「濾杯差異」，先別急著用一個表面現象下結論。 先用較小幅度調整，避免一次改太多。 不同豆子與器具需要重新校正，不套用單一答案。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "濾杯差異：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_10_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_10_s1",
+        "coffee_visual_guide_video_10_s2",
+        "coffee_visual_guide_video_10_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_10.mp4",
+      "captions": "coffee_visual_guide_video_10.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d074",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v11",
+    "appSlug": "coffee-visual-guide",
+    "order": 11,
+    "accessLevel": "pro",
+    "title": "義式通道效應",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「義式通道效應」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "義式通道效應，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「義式通道效應」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "義式通道效應？",
+        "voiceover": "遇到「義式通道效應」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜義式通道效應",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「義式通道效應」，所屬章節「粉層結構」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：particle-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「義式通道效應」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “義式通道效應” in the module “粉層結構”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: particle-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「義式通道效應」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 particle-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 particle-comparison 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "粉床外觀是線索，不是唯一判準。 先用較小幅度調整，避免一次改太多。",
+        "subtitle": "粉床外觀是線索，不是唯一判準。｜先用較小幅度調整，避免一次改太多。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「義式通道效應」，所屬章節「粉層結構」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：particle-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 particle-comparison 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “義式通道效應” in the module “粉層結構”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: particle-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 particle-comparison 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 particle-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「義式通道效應」，所屬章節「粉層結構」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：particle-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “義式通道效應” in the module “粉層結構”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: particle-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 particle-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「義式通道效應」，先別急著用一個表面現象下結論。 粉床外觀是線索，不是唯一判準。 先用較小幅度調整，避免一次改太多。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "義式通道效應：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_11_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_11_s1",
+        "coffee_visual_guide_video_11_s2",
+        "coffee_visual_guide_video_11_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_11.mp4",
+      "captions": "coffee_visual_guide_video_11.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d053",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v12",
+    "appSlug": "coffee-visual-guide",
+    "order": 12,
+    "accessLevel": "pro",
+    "title": "奶泡結構",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「奶泡結構」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "奶泡結構，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「奶泡結構」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "奶泡結構？",
+        "voiceover": "遇到「奶泡結構」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜奶泡結構",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「奶泡結構」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flavor-diagnostic。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「奶泡結構」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “奶泡結構” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flavor-diagnostic. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「奶泡結構」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flavor-diagnostic 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 flavor-diagnostic 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "不同豆子與器具需要重新校正，不套用單一答案。 固定豆量、總水量與水溫，再調一個變因。",
+        "subtitle": "不同豆子與器具需要重新校正，不套用單一答案。｜固定豆量、總水量與水溫，再調一個變因。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「奶泡結構」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flavor-diagnostic。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 flavor-diagnostic 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “奶泡結構” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flavor-diagnostic. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 flavor-diagnostic 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flavor-diagnostic 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「奶泡結構」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flavor-diagnostic。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “奶泡結構” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flavor-diagnostic. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flavor-diagnostic 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「奶泡結構」，先別急著用一個表面現象下結論。 不同豆子與器具需要重新校正，不套用單一答案。 固定豆量、總水量與水溫，再調一個變因。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "奶泡結構：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_12_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_12_s1",
+        "coffee_visual_guide_video_12_s2",
+        "coffee_visual_guide_video_12_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_12.mp4",
+      "captions": "coffee_visual_guide_video_12.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d005",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v13",
+    "appSlug": "coffee-visual-guide",
+    "order": 13,
+    "accessLevel": "pro",
+    "title": "冰咖啡不變淡技巧",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「冰咖啡不變淡技巧」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "冰咖啡不變淡技巧，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「冰咖啡不變淡技巧」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "冰咖啡不變淡技巧？",
+        "voiceover": "遇到「冰咖啡不變淡技巧」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜冰咖啡不變淡技巧",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「冰咖啡不變淡技巧」，所屬章節「不同器具」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：particle-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「冰咖啡不變淡技巧」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “冰咖啡不變淡技巧” in the module “不同器具”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: particle-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「冰咖啡不變淡技巧」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 particle-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 particle-comparison 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "粉床外觀是線索，不是唯一判準。 先用較小幅度調整，避免一次改太多。",
+        "subtitle": "粉床外觀是線索，不是唯一判準。｜先用較小幅度調整，避免一次改太多。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「冰咖啡不變淡技巧」，所屬章節「不同器具」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：particle-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 particle-comparison 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “冰咖啡不變淡技巧” in the module “不同器具”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: particle-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 particle-comparison 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 particle-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「冰咖啡不變淡技巧」，所屬章節「不同器具」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：particle-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “冰咖啡不變淡技巧” in the module “不同器具”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: particle-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 particle-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「冰咖啡不變淡技巧」，先別急著用一個表面現象下結論。 粉床外觀是線索，不是唯一判準。 先用較小幅度調整，避免一次改太多。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "冰咖啡不變淡技巧：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_13_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_13_s1",
+        "coffee_visual_guide_video_13_s2",
+        "coffee_visual_guide_video_13_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_13.mp4",
+      "captions": "coffee_visual_guide_video_13.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d103",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v14",
+    "appSlug": "coffee-visual-guide",
+    "order": 14,
+    "accessLevel": "pro",
+    "title": "同豆不同參數",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「同豆不同參數」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "同豆不同參數，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「同豆不同參數」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "同豆不同參數？",
+        "voiceover": "遇到「同豆不同參數」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜同豆不同參數",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同豆不同參數」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「同豆不同參數」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同豆不同參數” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「同豆不同參數」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 flow-map 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。",
+        "subtitle": "同時記錄流速、總時間與味道，不只看秒數。｜粉床外觀是線索，不是唯一判準。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同豆不同參數」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 flow-map 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同豆不同參數” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 flow-map 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「同豆不同參數」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：flow-map。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “同豆不同參數” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: flow-map. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 flow-map 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「同豆不同參數」，先別急著用一個表面現象下結論。 同時記錄流速、總時間與味道，不只看秒數。 粉床外觀是線索，不是唯一判準。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "同豆不同參數：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_14_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_14_s1",
+        "coffee_visual_guide_video_14_s2",
+        "coffee_visual_guide_video_14_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_14.mp4",
+      "captions": "coffee_visual_guide_video_14.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d007",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v15",
+    "appSlug": "coffee-visual-guide",
+    "order": 15,
+    "accessLevel": "pro",
+    "title": "器具比較",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「器具比較」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "器具比較，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「器具比較」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "器具比較？",
+        "voiceover": "遇到「器具比較」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜器具比較",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「器具比較」，所屬章節「不同器具」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「器具比較」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “器具比較” in the module “不同器具”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「器具比較」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 brewer-cutaway 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。",
+        "subtitle": "固定豆量、總水量與水溫，再調一個變因。｜同時記錄流速、總時間與味道，不只看秒數。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「器具比較」，所屬章節「不同器具」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “器具比較” in the module “不同器具”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「器具比較」，所屬章節「不同器具」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “器具比較” in the module “不同器具”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「器具比較」，先別急著用一個表面現象下結論。 固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "器具比較：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_15_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_15_s1",
+        "coffee_visual_guide_video_15_s2",
+        "coffee_visual_guide_video_15_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_15.mp4",
+      "captions": "coffee_visual_guide_video_15.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d101",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v16",
+    "appSlug": "coffee-visual-guide",
+    "order": 16,
+    "accessLevel": "pro",
+    "title": "新手最常犯錯",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「新手最常犯錯」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "新手最常犯錯，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「新手最常犯錯」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "新手最常犯錯？",
+        "voiceover": "遇到「新手最常犯錯」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜新手最常犯錯",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「新手最常犯錯」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「新手最常犯錯」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “新手最常犯錯” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「新手最常犯錯」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 brewer-cutaway 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。",
+        "subtitle": "固定豆量、總水量與水溫，再調一個變因。｜同時記錄流速、總時間與味道，不只看秒數。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「新手最常犯錯」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “新手最常犯錯” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「新手最常犯錯」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “新手最常犯錯” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「新手最常犯錯」，先別急著用一個表面現象下結論。 固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "新手最常犯錯：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_16_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_16_s1",
+        "coffee_visual_guide_video_16_s2",
+        "coffee_visual_guide_video_16_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_16.mp4",
+      "captions": "coffee_visual_guide_video_16.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d001",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v17",
+    "appSlug": "coffee-visual-guide",
+    "order": 17,
+    "accessLevel": "pro",
+    "title": "味道反推流程",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「味道反推流程」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "味道反推流程，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「味道反推流程」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "味道反推流程？",
+        "voiceover": "遇到「味道反推流程」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜味道反推流程",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「味道反推流程」，所屬章節「味道反推調整」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「味道反推流程」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “味道反推流程” in the module “味道反推調整”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「味道反推流程」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 brewer-cutaway 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。",
+        "subtitle": "固定豆量、總水量與水溫，再調一個變因。｜同時記錄流速、總時間與味道，不只看秒數。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「味道反推流程」，所屬章節「味道反推調整」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “味道反推流程” in the module “味道反推調整”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「味道反推流程」，所屬章節「味道反推調整」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “味道反推流程” in the module “味道反推調整”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「味道反推流程」，先別急著用一個表面現象下結論。 固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "味道反推流程：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_17_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_17_s1",
+        "coffee_visual_guide_video_17_s2",
+        "coffee_visual_guide_video_17_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_17.mp4",
+      "captions": "coffee_visual_guide_video_17.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d176",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v18",
+    "appSlug": "coffee-visual-guide",
+    "order": 18,
+    "accessLevel": "pro",
+    "title": "前中後段風味",
+    "durationSeconds": 30,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「前中後段風味」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "前中後段風味，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「前中後段風味」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "前中後段風味？",
+        "voiceover": "遇到「前中後段風味」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜前中後段風味",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「前中後段風味」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「前中後段風味」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “前中後段風味” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「前中後段風味」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 17,
+        "purpose": "圖解拆解",
+        "visual": "切換成 brewer-cutaway 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。",
+        "subtitle": "固定豆量、總水量與水溫，再調一個變因。｜同時記錄流速、總時間與味道，不只看秒數。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「前中後段風味」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “前中後段風味” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 brewer-cutaway 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 17,
+        "end": 30,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「前中後段風味」，所屬章節「磨豆與粒徑」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brewer-cutaway。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “前中後段風味” in the module “磨豆與粒徑”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brewer-cutaway. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brewer-cutaway 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「前中後段風味」，先別急著用一個表面現象下結論。 固定豆量、總水量與水溫，再調一個變因。 同時記錄流速、總時間與味道，不只看秒數。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "前中後段風味：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_18_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_18_s1",
+        "coffee_visual_guide_video_18_s2",
+        "coffee_visual_guide_video_18_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_18.mp4",
+      "captions": "coffee_visual_guide_video_18.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d001",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v19",
+    "appSlug": "coffee-visual-guide",
+    "order": 19,
+    "accessLevel": "pro",
+    "title": "萃取時間線",
+    "durationSeconds": 15,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「萃取時間線」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "萃取時間線，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 4,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「萃取時間線」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "萃取時間線？",
+        "voiceover": "遇到「萃取時間線」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜萃取時間線",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「萃取時間線」，所屬章節「萃取時間」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：particle-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「萃取時間線」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “萃取時間線” in the module “萃取時間”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: particle-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「萃取時間線」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 particle-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 4,
+        "end": 10,
+        "purpose": "圖解拆解",
+        "visual": "切換成 particle-comparison 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "粉床外觀是線索，不是唯一判準。 先用較小幅度調整，避免一次改太多。",
+        "subtitle": "粉床外觀是線索，不是唯一判準。｜先用較小幅度調整，避免一次改太多。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「萃取時間線」，所屬章節「萃取時間」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：particle-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 particle-comparison 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “萃取時間線” in the module “萃取時間”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: particle-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 particle-comparison 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 particle-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「萃取時間線」，所屬章節「萃取時間」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：particle-comparison。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “萃取時間線” in the module “萃取時間”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: particle-comparison. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 particle-comparison 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「萃取時間線」，先別急著用一個表面現象下結論。 粉床外觀是線索，不是唯一判準。 先用較小幅度調整，避免一次改太多。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "萃取時間線：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_19_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_19_s1",
+        "coffee_visual_guide_video_19_s2",
+        "coffee_visual_guide_video_19_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_19.mp4",
+      "captions": "coffee_visual_guide_video_19.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d078",
+    "editorialStatus": "draft-ready-for-review"
+  },
+  {
+    "id": "coffee-visual-guide-v20",
+    "appSlug": "coffee-visual-guide",
+    "order": 20,
+    "accessLevel": "pro",
+    "title": "Pro 章節導覽示範",
+    "durationSeconds": 20,
+    "format": "vertical-9x16",
+    "learningObjective": "用粉床剖面、水流與時間軸說明「Pro 章節導覽示範」如何影響萃取，並提供一次只調一個變因的測試方式。",
+    "openingHook": "Pro 章節導覽示範，你可能漏看了哪一步？",
+    "storyboard": [
+      {
+        "scene": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "問題鉤子",
+        "visual": "先呈現「Pro 章節導覽示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。",
+        "overlay": "Pro 章節導覽示範？",
+        "voiceover": "遇到「Pro 章節導覽示範」，先別急著用一個表面現象下結論。",
+        "subtitle": "先別急著下結論｜Pro 章節導覽示範",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「Pro 章節導覽示範」，所屬章節「不同器具」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brew-timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：先呈現「Pro 章節導覽示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “Pro 章節導覽示範” in the module “不同器具”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brew-timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 先呈現「Pro 章節導覽示範」最常見的困惑畫面，關鍵區域以一個高亮框標示。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brew-timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 2,
+        "start": 5,
+        "end": 13,
+        "purpose": "圖解拆解",
+        "visual": "切換成 brew-timeline 圖，依序亮起三個判斷節點。",
+        "overlay": "看情境 → 看模式 → 看下一步",
+        "voiceover": "先用較小幅度調整，避免一次改太多。 不同豆子與器具需要重新校正，不套用單一答案。",
+        "subtitle": "先用較小幅度調整，避免一次改太多。｜不同豆子與器具需要重新校正，不套用單一答案。",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「Pro 章節導覽示範」，所屬章節「不同器具」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brew-timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：切換成 brew-timeline 圖，依序亮起三個判斷節點。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “Pro 章節導覽示範” in the module “不同器具”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brew-timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 切換成 brew-timeline 圖，依序亮起三個判斷節點。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brew-timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      },
+      {
+        "scene": 3,
+        "start": 13,
+        "end": 20,
+        "purpose": "行動與導流",
+        "visual": "聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。",
+        "overlay": "Pro 完整章節",
+        "voiceover": "下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+        "subtitle": "先做：固定配方與器具",
+        "framePromptZh": "建立一張手機直式 9:16 的乾淨 3D 等角教育圖解，主題是「Pro 章節導覽示範」，所屬章節「不同器具」。 視覺風格：咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感。主體：透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構。 圖解型態：brew-timeline。用清楚的前後對照、箭頭、區域高亮或步驟節點呈現因果；保留頂部 18% 與底部 18% 安全留白供 App 疊加標題與字幕。 不在圖片內生成長文字；只保留可由 App 後製疊加的短標籤位置。光線柔和、輪廓清楚、材質一致、手機縮圖仍可辨識。 本鏡頭重點：聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 不要在生成影像中加入字幕，字幕由後製疊加。",
+        "framePromptEn": "Create a clean vertical 9:16 3D isometric educational infographic for the topic “Pro 章節導覽示範” in the module “不同器具”. Visual direction: 咖啡棕與青綠、透明濾杯剖面、可視化水流與粉床、乾淨技術插畫、溫暖質感. Main subject: 透明咖啡濾杯、粉床、水流、咖啡液、磨豆顆粒與奶泡結構. Diagram pattern: brew-timeline. Show the causal relationship with a clear before/after comparison, arrows, highlighted zones, or step nodes. Reserve 18 percent safe space at the top and bottom for in-app title and subtitles. Do not render paragraphs inside the image; leave short label anchors for the app overlay. Soft studio lighting, crisp silhouettes, consistent materials, legible at mobile thumbnail size. Frame focus: 聚焦一個可執行動作，最後縮回 App 圖解詳情頁與章節入口。 Do not render captions in the generated image; captions are added in post-production.",
+        "negativePrompt": "品牌 logo、危險蒸氣、錯誤器具結構、髒亂、過度擬真液體噴濺、畫面內長段文字、watermark、低解析、模糊、重複人物、錯位手指、亂碼、長文字、logo、UI 截圖外框",
+        "motionPromptZh": "由靜態圖生成 5–7 秒微動畫：鏡頭只做 4–6 度緩慢推進或輕微環繞；依 brew-timeline 的順序讓箭頭、重點區與節點逐一亮起；人物只做自然呼吸與極小姿勢變化。 保持原構圖、角色、服裝、器具與背景一致，不新增文字、不換臉、不變形、不跳切，最後停在可截圖的完整教學畫面。"
+      }
+    ],
+    "fullVoiceover": "遇到「Pro 章節導覽示範」，先別急著用一個表面現象下結論。 先用較小幅度調整，避免一次改太多。 不同豆子與器具需要重新校正，不套用單一答案。 下一步先做：固定配方與器具。再依結果決定是否只調整一個參數並記錄。",
+    "caption": "Pro 章節導覽示範：先看完整情境，再做低風險確認。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "cta": "解鎖 Pro 查看完整章節",
+    "audioDirection": "清楚、中性、每分鐘約 145–160 字；避免煽動與恐嚇。背景音量需低於旁白 14 dB 以上。",
+    "editingNotes": [
+      "前 1 秒先出現問題字卡與真實 App 畫面。",
+      "每個字幕不超過兩行，每行不超過 14 個中文字。",
+      "重點框、箭頭與節點必須對應 App 內實際圖解。",
+      "最後 2 秒保留 CTA 與 App 內章節畫面。"
+    ],
+    "assetManifest": {
+      "thumbnail": "coffee_visual_guide_video_20_thumb",
+      "sceneFrames": [
+        "coffee_visual_guide_video_20_s1",
+        "coffee_visual_guide_video_20_s2",
+        "coffee_visual_guide_video_20_s3"
+      ],
+      "finalVideo": "coffee_visual_guide_video_20.mp4",
+      "captions": "coffee_visual_guide_video_20.vtt"
+    },
+    "safetyNote": "提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。",
+    "sourceDiagramId": "coffee-visual-guide-d119",
+    "editorialStatus": "draft-ready-for-review"
+  }
+]

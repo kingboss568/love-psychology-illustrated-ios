@@ -1,0 +1,82 @@
+[
+  {
+    "id": "personality-psychology-m01",
+    "appSlug": "personality-psychology",
+    "title": "思考方式",
+    "order": 1,
+    "topicCount": 25,
+    "freeCount": 9,
+    "proCount": 16,
+    "iconSystemName": "message"
+  },
+  {
+    "id": "personality-psychology-m02",
+    "appSlug": "personality-psychology",
+    "title": "關係模式",
+    "order": 2,
+    "topicCount": 25,
+    "freeCount": 3,
+    "proCount": 22,
+    "iconSystemName": "person.2"
+  },
+  {
+    "id": "personality-psychology-m03",
+    "appSlug": "personality-psychology",
+    "title": "衝突風格",
+    "order": 3,
+    "topicCount": 25,
+    "freeCount": 3,
+    "proCount": 22,
+    "iconSystemName": "arrow.left.and.right"
+  },
+  {
+    "id": "personality-psychology-m04",
+    "appSlug": "personality-psychology",
+    "title": "壓力反應",
+    "order": 4,
+    "topicCount": 25,
+    "freeCount": 4,
+    "proCount": 21,
+    "iconSystemName": "heart"
+  },
+  {
+    "id": "personality-psychology-m05",
+    "appSlug": "personality-psychology",
+    "title": "工作互動",
+    "order": 5,
+    "topicCount": 25,
+    "freeCount": 0,
+    "proCount": 25,
+    "iconSystemName": "shield"
+  },
+  {
+    "id": "personality-psychology-m06",
+    "appSlug": "personality-psychology",
+    "title": "決策節奏",
+    "order": 6,
+    "topicCount": 25,
+    "freeCount": 1,
+    "proCount": 24,
+    "iconSystemName": "snowflake"
+  },
+  {
+    "id": "personality-psychology-m07",
+    "appSlug": "personality-psychology",
+    "title": "親密距離",
+    "order": 7,
+    "topicCount": 25,
+    "freeCount": 0,
+    "proCount": 25,
+    "iconSystemName": "exclamationmark.triangle"
+  },
+  {
+    "id": "personality-psychology-m08",
+    "appSlug": "personality-psychology",
+    "title": "誤會來源",
+    "order": 8,
+    "topicCount": 25,
+    "freeCount": 0,
+    "proCount": 25,
+    "iconSystemName": "wrench"
+  }
+]

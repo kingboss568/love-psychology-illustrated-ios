@@ -1,0 +1,422 @@
+[
+  {
+    "id": "negotiation-communication-social-01",
+    "title": "被壓價怎麼回｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "被壓價怎麼回，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "被壓價怎麼回，別只看表面。",
+        "subtitle": "被壓價怎麼回？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 dialogue-branch 圖解，三個節點依序亮起",
+        "voiceover": "先確認目標、底線與可交換項目。 用問題取得資訊，不急著自我降價。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：重述雙方目標與限制。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「被壓價怎麼回」不只看表面，先用這張圖拆成三步。\n\n提供一般溝通教育，不鼓勵欺騙、脅迫、歧視或違法行為；重大法律與勞資事項應諮詢專業人士。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "negotiation-communication-d001"
+  },
+  {
+    "id": "negotiation-communication-social-02",
+    "title": "會議被打斷怎麼拉回｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "會議被打斷怎麼拉回，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "會議被打斷怎麼拉回，別只看表面。",
+        "subtitle": "會議被打斷怎麼拉回？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 power-distance 圖解，三個節點依序亮起",
+        "voiceover": "用問題取得資訊，不急著自我降價。 每次讓步都要換回條件、時間或範圍。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：重述雙方目標與限制。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「會議被打斷怎麼拉回」不只看表面，先用這張圖拆成三步。\n\n提供一般溝通教育，不鼓勵欺騙、脅迫、歧視或違法行為；重大法律與勞資事項應諮詢專業人士。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "negotiation-communication-d002"
+  },
+  {
+    "id": "negotiation-communication-social-03",
+    "title": "一開口就失分的講法｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "一開口就失分的講法，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "一開口就失分的講法，別只看表面。",
+        "subtitle": "一開口就失分的講法？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 exchange-balance 圖解，三個節點依序亮起",
+        "voiceover": "每次讓步都要換回條件、時間或範圍。 把人與議題分開，避免情緒升高。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：重述雙方目標與限制。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「一開口就失分的講法」不只看表面，先用這張圖拆成三步。\n\n提供一般溝通教育，不鼓勵欺騙、脅迫、歧視或違法行為；重大法律與勞資事項應諮詢專業人士。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "negotiation-communication-d003"
+  },
+  {
+    "id": "negotiation-communication-social-04",
+    "title": "結尾怎麼不失主導｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "結尾怎麼不失主導，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "結尾怎麼不失主導，別只看表面。",
+        "subtitle": "結尾怎麼不失主導？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 phrase-before-after 圖解，三個節點依序亮起",
+        "voiceover": "把人與議題分開，避免情緒升高。 重要共識要用書面確認責任與期限。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：重述雙方目標與限制。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「結尾怎麼不失主導」不只看表面，先用這張圖拆成三步。\n\n提供一般溝通教育，不鼓勵欺騙、脅迫、歧視或違法行為；重大法律與勞資事項應諮詢專業人士。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "negotiation-communication-d004"
+  },
+  {
+    "id": "negotiation-communication-social-05",
+    "title": "報價前先問什麼｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "報價前先問什麼，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "報價前先問什麼，別只看表面。",
+        "subtitle": "報價前先問什麼？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 agreement-flow 圖解，三個節點依序亮起",
+        "voiceover": "重要共識要用書面確認責任與期限。 先確認目標、底線與可交換項目。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：重述雙方目標與限制。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「報價前先問什麼」不只看表面，先用這張圖拆成三步。\n\n提供一般溝通教育，不鼓勵欺騙、脅迫、歧視或違法行為；重大法律與勞資事項應諮詢專業人士。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "negotiation-communication-d005"
+  },
+  {
+    "id": "negotiation-communication-social-06",
+    "title": "被催促時怎麼放慢｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "被催促時怎麼放慢，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "被催促時怎麼放慢，別只看表面。",
+        "subtitle": "被催促時怎麼放慢？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 dialogue-branch 圖解，三個節點依序亮起",
+        "voiceover": "先確認目標、底線與可交換項目。 用問題取得資訊，不急著自我降價。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：重述雙方目標與限制。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「被催促時怎麼放慢」不只看表面，先用這張圖拆成三步。\n\n提供一般溝通教育，不鼓勵欺騙、脅迫、歧視或違法行為；重大法律與勞資事項應諮詢專業人士。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "negotiation-communication-d006"
+  },
+  {
+    "id": "negotiation-communication-social-07",
+    "title": "會議前設定議程｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "會議前設定議程，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "會議前設定議程，別只看表面。",
+        "subtitle": "會議前設定議程？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 power-distance 圖解，三個節點依序亮起",
+        "voiceover": "用問題取得資訊，不急著自我降價。 每次讓步都要換回條件、時間或範圍。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：重述雙方目標與限制。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「會議前設定議程」不只看表面，先用這張圖拆成三步。\n\n提供一般溝通教育，不鼓勵欺騙、脅迫、歧視或違法行為；重大法律與勞資事項應諮詢專業人士。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "negotiation-communication-d007"
+  },
+  {
+    "id": "negotiation-communication-social-08",
+    "title": "對方說太貴怎麼接｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "對方說太貴怎麼接，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "對方說太貴怎麼接，別只看表面。",
+        "subtitle": "對方說太貴怎麼接？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 dialogue-branch 圖解，三個節點依序亮起",
+        "voiceover": "先確認目標、底線與可交換項目。 用問題取得資訊，不急著自我降價。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：重述雙方目標與限制。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「對方說太貴怎麼接」不只看表面，先用這張圖拆成三步。\n\n提供一般溝通教育，不鼓勵欺騙、脅迫、歧視或違法行為；重大法律與勞資事項應諮詢專業人士。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "negotiation-communication-d026"
+  },
+  {
+    "id": "negotiation-communication-social-09",
+    "title": "對方轉移話題怎麼拉回｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "對方轉移話題怎麼拉回，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "對方轉移話題怎麼拉回，別只看表面。",
+        "subtitle": "對方轉移話題怎麼拉回？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 power-distance 圖解，三個節點依序亮起",
+        "voiceover": "用問題取得資訊，不急著自我降價。 每次讓步都要換回條件、時間或範圍。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：重述雙方目標與限制。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「對方轉移話題怎麼拉回」不只看表面，先用這張圖拆成三步。\n\n提供一般溝通教育，不鼓勵欺騙、脅迫、歧視或違法行為；重大法律與勞資事項應諮詢專業人士。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "negotiation-communication-d027"
+  },
+  {
+    "id": "negotiation-communication-social-10",
+    "title": "對方一直模糊承諾怎麼辦｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "對方一直模糊承諾怎麼辦，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "對方一直模糊承諾怎麼辦，別只看表面。",
+        "subtitle": "對方一直模糊承諾怎麼辦？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 dialogue-branch 圖解，三個節點依序亮起",
+        "voiceover": "先確認目標、底線與可交換項目。 用問題取得資訊，不急著自我降價。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：重述雙方目標與限制。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「對方一直模糊承諾怎麼辦」不只看表面，先用這張圖拆成三步。\n\n提供一般溝通教育，不鼓勵欺騙、脅迫、歧視或違法行為；重大法律與勞資事項應諮詢專業人士。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "negotiation-communication-d051"
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "appName": "咖啡全圖解",
+  "subtitle": "用剖面與水流看懂萃取問題",
+  "promotionalText": "先免費查看 20 張圖解與 3 部短片；Pro 一次解鎖 200 張完整圖解、20 部短片、完整主題索引與進階工具。",
+  "keywords": "咖啡,手沖,萃取,磨豆,注水,粉床,太酸,太苦,濾杯,奶泡",
+  "description": "咖啡全圖解 把難懂的問題變成一眼能理解的 3D 圖解與短片。你可以直接搜尋問題句、從主題分類進入、收藏重要內容，並使用「味道反推與變因診斷」把觀念轉成可操作的下一步。\n\n免費版包含：\n• 20 張高需求圖解\n• 3 部微學習短片\n• 搜尋、收藏與最近查看\n\nPro 一次解鎖：\n• 其餘 180 張進階圖解\n• 其餘 17 部完整短片\n• 8 大主題完整索引\n• 進階互動工具與導覽\n\n特色：\n• 每張圖只解決一個具體問題\n• 3D 情境、剖面、比較或流程圖\n• 15／20／30 秒短片，快速掌握重點\n• 本機內容優先，核心瀏覽可離線使用\n\n提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。\n\nPro 為一次買斷型 App 內購買。實際價格與幣別以 App Store 顯示為準；可使用同一 Apple ID 恢復購買。",
+  "supportUrlPlaceholder": "https://example.com/support",
+  "privacyUrlPlaceholder": "https://example.com/privacy",
+  "marketingUrlPlaceholder": "https://example.com",
+  "screenshots": [
+    {
+      "order": 1,
+      "headline": "第一次看懂，你的咖啡到底哪裡出問題。",
+      "subheadline": "從最痛的問題直接進入",
+      "screen": "HomeView",
+      "mustShow": [
+        "真實首頁",
+        "免費圖解卡",
+        "推薦短片"
+      ]
+    },
+    {
+      "order": 2,
+      "headline": "一張圖，只解一個困惑",
+      "subheadline": "粉層剖面、水流與萃取動畫。",
+      "screen": "DiagramDetailView",
+      "mustShow": [
+        "真實圖解",
+        "重點框",
+        "收藏按鈕"
+      ]
+    },
+    {
+      "order": 3,
+      "headline": "味道反推與變因診斷",
+      "subheadline": "選擇味道、流速、時間與粉床狀態，得到一次只調一個變因的下一杯測試。",
+      "screen": "FlavorDiagnosticView",
+      "mustShow": [
+        "可操作控制",
+        "結果或流程",
+        "安全聲明入口"
+      ]
+    },
+    {
+      "order": 4,
+      "headline": "直接搜尋你的問題",
+      "subheadline": "不用先懂術語",
+      "screen": "SearchView",
+      "mustShow": [
+        "搜尋字串",
+        "高亮結果",
+        "免費與 Pro 標示"
+      ]
+    },
+    {
+      "order": 5,
+      "headline": "15／20／30 秒看懂重點",
+      "subheadline": "短片節點對應 App 內圖解",
+      "screen": "VideoLessonView",
+      "mustShow": [
+        "真實播放器",
+        "字幕",
+        "相關章節"
+      ]
+    },
+    {
+      "order": 6,
+      "headline": "收藏與最近查看",
+      "subheadline": "需要時快速回到重點",
+      "screen": "LibraryView",
+      "mustShow": [
+        "收藏列表",
+        "最近查看",
+        "空狀態"
+      ]
+    },
+    {
+      "order": 7,
+      "headline": "免費先看最常見痛點",
+      "subheadline": "20 張圖解＋3 部短片",
+      "screen": "FreeCatalogView",
+      "mustShow": [
+        "免費內容數量",
+        "內容卡",
+        "無誤導價格"
+      ]
+    },
+    {
+      "order": 8,
+      "headline": "一次解鎖完整系統",
+      "subheadline": "價格以 App Store 顯示為準",
+      "screen": "PaywallView",
+      "mustShow": [
+        "StoreKit displayPrice",
+        "Restore Purchases",
+        "免費/Pro 比較"
+      ]
+    }
+  ],
+  "appPreview": {
+    "durationSeconds": 30,
+    "orientation": "portrait",
+    "captureRule": "只使用實機或模擬器中已實作 UI 的錄影；不以概念動畫假裝功能。",
+    "timeline": [
+      {
+        "time": "0–4s",
+        "screen": "HomeView",
+        "caption": "第一次看懂，你的咖啡到底哪裡出問題。"
+      },
+      {
+        "time": "4–9s",
+        "screen": "SearchView",
+        "caption": "輸入問題，直接找到圖解"
+      },
+      {
+        "time": "9–15s",
+        "screen": "DiagramDetailView",
+        "caption": "3D 圖解＋重點框"
+      },
+      {
+        "time": "15–21s",
+        "screen": "FlavorDiagnosticView",
+        "caption": "味道反推與變因診斷"
+      },
+      {
+        "time": "21–26s",
+        "screen": "VideoLessonView",
+        "caption": "15／20／30 秒微學習"
+      },
+      {
+        "time": "26–30s",
+        "screen": "PaywallView",
+        "caption": "免費開始；Pro 一次解鎖"
+      }
+    ]
+  },
+  "reviewNotes": "本 App 的 Pro 為 non-consumable 一次買斷，Product ID：com.jiang.visualguide.coffee.pro.lifetime。Paywall 以 StoreKit Product.displayPrice 顯示實際價格，並提供 Restore Purchases。提供一般咖啡沖煮教育；注意熱水、蒸氣、玻璃器具與設備使用安全。 審核可從首頁直接查看免費內容，不需帳號。",
+  "lengthChecks": {
+    "appNameChars": 5,
+    "subtitleChars": 12,
+    "promotionalTextChars": 58,
+    "keywordsChars": 29
+  }
+}

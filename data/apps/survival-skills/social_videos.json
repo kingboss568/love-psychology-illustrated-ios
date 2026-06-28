@@ -1,0 +1,422 @@
+[
+  {
+    "id": "survival-skills-social-01",
+    "title": "迷路後先做什麼｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "迷路後先做什麼，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "迷路後先做什麼，別只看表面。",
+        "subtitle": "迷路後先做什麼？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 hazard-zone 圖解，三個節點依序亮起",
+        "voiceover": "先停下來評估環境與立即危險。 能聯絡官方救援時，先提供位置、狀況與人數。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：停止移動並評估立即危險。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「迷路後先做什麼」不只看表面，先用這張圖拆成三步。\n\n一般防災教育用途；面臨立即危險時，優先聯絡當地緊急服務並遵循官方指示。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "survival-skills-d001"
+  },
+  {
+    "id": "survival-skills-social-02",
+    "title": "山區失聯提高獲救率｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "山區失聯提高獲救率，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "山區失聯提高獲救率，別只看表面。",
+        "subtitle": "山區失聯提高獲救率？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 priority-flow 圖解，三個節點依序亮起",
+        "voiceover": "能聯絡官方救援時，先提供位置、狀況與人數。 優先保護呼吸、體溫、飲水與避免二次傷害。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：停止移動並評估立即危險。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「山區失聯提高獲救率」不只看表面，先用這張圖拆成三步。\n\n一般防災教育用途；面臨立即危險時，優先聯絡當地緊急服務並遵循官方指示。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "survival-skills-d002"
+  },
+  {
+    "id": "survival-skills-social-03",
+    "title": "夜間保暖｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "夜間保暖，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "夜間保暖，別只看表面。",
+        "subtitle": "夜間保暖？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 rescue-signal 圖解，三個節點依序亮起",
+        "voiceover": "優先保護呼吸、體溫、飲水與避免二次傷害。 保存手機電力、體力與可辨識位置。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：停止移動並評估立即危險。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「夜間保暖」不只看表面，先用這張圖拆成三步。\n\n一般防災教育用途；面臨立即危險時，優先聯絡當地緊急服務並遵循官方指示。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "survival-skills-d003"
+  },
+  {
+    "id": "survival-skills-social-04",
+    "title": "哪些錯誤更危險｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "哪些錯誤更危險，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "哪些錯誤更危險，別只看表面。",
+        "subtitle": "哪些錯誤更危險？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 resource-triage 圖解，三個節點依序亮起",
+        "voiceover": "保存手機電力、體力與可辨識位置。 依當地官方指示撤離，不自行冒險穿越危險區。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：停止移動並評估立即危險。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「哪些錯誤更危險」不只看表面，先用這張圖拆成三步。\n\n一般防災教育用途；面臨立即危險時，優先聯絡當地緊急服務並遵循官方指示。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "survival-skills-d004"
+  },
+  {
+    "id": "survival-skills-social-05",
+    "title": "車上應急包｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "車上應急包，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "車上應急包，別只看表面。",
+        "subtitle": "車上應急包？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 step-checklist 圖解，三個節點依序亮起",
+        "voiceover": "依當地官方指示撤離，不自行冒險穿越危險區。 先停下來評估環境與立即危險。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：停止移動並評估立即危險。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「車上應急包」不只看表面，先用這張圖拆成三步。\n\n一般防災教育用途；面臨立即危險時，優先聯絡當地緊急服務並遵循官方指示。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "survival-skills-d005"
+  },
+  {
+    "id": "survival-skills-social-06",
+    "title": "災後資訊判讀｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "災後資訊判讀，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "災後資訊判讀，別只看表面。",
+        "subtitle": "災後資訊判讀？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 hazard-zone 圖解，三個節點依序亮起",
+        "voiceover": "先停下來評估環境與立即危險。 能聯絡官方救援時，先提供位置、狀況與人數。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：停止移動並評估立即危險。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「災後資訊判讀」不只看表面，先用這張圖拆成三步。\n\n一般防災教育用途；面臨立即危險時，優先聯絡當地緊急服務並遵循官方指示。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "survival-skills-d006"
+  },
+  {
+    "id": "survival-skills-social-07",
+    "title": "手機沒電怎麼求救｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "手機沒電怎麼求救，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "手機沒電怎麼求救，別只看表面。",
+        "subtitle": "手機沒電怎麼求救？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 hazard-zone 圖解，三個節點依序亮起",
+        "voiceover": "先停下來評估環境與立即危險。 能聯絡官方救援時，先提供位置、狀況與人數。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：停止移動並評估立即危險。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「手機沒電怎麼求救」不只看表面，先用這張圖拆成三步。\n\n一般防災教育用途；面臨立即危險時，優先聯絡當地緊急服務並遵循官方指示。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "survival-skills-d026"
+  },
+  {
+    "id": "survival-skills-social-08",
+    "title": "求救訊號怎麼留｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "求救訊號怎麼留，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "求救訊號怎麼留，別只看表面。",
+        "subtitle": "求救訊號怎麼留？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 priority-flow 圖解，三個節點依序亮起",
+        "voiceover": "能聯絡官方救援時，先提供位置、狀況與人數。 優先保護呼吸、體溫、飲水與避免二次傷害。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：停止移動並評估立即危險。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「求救訊號怎麼留」不只看表面，先用這張圖拆成三步。\n\n一般防災教育用途；面臨立即危險時，優先聯絡當地緊急服務並遵循官方指示。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "survival-skills-d027"
+  },
+  {
+    "id": "survival-skills-social-09",
+    "title": "簡易定位訊息怎麼寫｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "簡易定位訊息怎麼寫，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "簡易定位訊息怎麼寫，別只看表面。",
+        "subtitle": "簡易定位訊息怎麼寫？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 rescue-signal 圖解，三個節點依序亮起",
+        "voiceover": "優先保護呼吸、體溫、飲水與避免二次傷害。 保存手機電力、體力與可辨識位置。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：停止移動並評估立即危險。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「簡易定位訊息怎麼寫」不只看表面，先用這張圖拆成三步。\n\n一般防災教育用途；面臨立即危險時，優先聯絡當地緊急服務並遵循官方指示。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "survival-skills-d028"
+  },
+  {
+    "id": "survival-skills-social-10",
+    "title": "低溫失溫初期警訊｜15 秒圖解",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "durationSeconds": 15,
+    "hook3s": "低溫失溫初期警訊，別只看表面。",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "App 內搜尋或痛點卡畫面",
+        "voiceover": "低溫失溫初期警訊，別只看表面。",
+        "subtitle": "低溫失溫初期警訊？"
+      },
+      {
+        "time": "3–10s",
+        "visual": "App 內 hazard-zone 圖解，三個節點依序亮起",
+        "voiceover": "先停下來評估環境與立即危險。 能聯絡官方救援時，先提供位置、狀況與人數。",
+        "subtitle": "看情境｜看模式｜看下一步"
+      },
+      {
+        "time": "10–15s",
+        "visual": "圖解詳情頁、收藏與相關短片入口",
+        "voiceover": "先做：停止移動並評估立即危險。免費版可直接看 20 張圖解。",
+        "subtitle": "免費看 20 張圖解"
+      }
+    ],
+    "postCaption": "「低溫失溫初期警訊」不只看表面，先用這張圖拆成三步。\n\n一般防災教育用途；面臨立即危險時，優先聯絡當地緊急服務並遵循官方指示。",
+    "cta": "搜尋 App 名稱並從免費圖解開始",
+    "forbiddenClaims": [
+      "保證",
+      "一定",
+      "一秒看穿",
+      "百分之百",
+      "救命神器",
+      "適合所有人"
+    ],
+    "sourceDiagramId": "survival-skills-d051"
+  }
+]

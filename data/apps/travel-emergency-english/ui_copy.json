@@ -1,0 +1,101 @@
+{
+  "common": {
+    "navigation": {
+      "home": "首頁",
+      "categories": "主題",
+      "search": "搜尋",
+      "library": "收藏",
+      "pro": "Pro"
+    },
+    "actions": {
+      "open": "查看圖解",
+      "play": "播放短片",
+      "favorite": "加入收藏",
+      "unfavorite": "移除收藏",
+      "share": "分享",
+      "retry": "再試一次",
+      "close": "關閉",
+      "continue": "繼續",
+      "back": "返回"
+    },
+    "access": {
+      "freeBadge": "免費",
+      "proBadge": "Pro",
+      "lockedTitle": "這是 Pro 內容",
+      "lockedBody": "一次解鎖完整圖解、短片與主題索引。",
+      "unlock": "解鎖 Pro"
+    },
+    "purchase": {
+      "title": "一次解鎖完整內容",
+      "body": "20 張免費圖解與 3 部免費短片可直接使用；Pro 解鎖其餘 180 張圖解與 17 部短片。",
+      "cta": "一次解鎖 Pro",
+      "restore": "恢復購買",
+      "restoring": "正在恢復購買…",
+      "success": "Pro 已解鎖",
+      "cancelled": "已取消購買",
+      "priceFallback": "價格載入中",
+      "legal": "實際價格以 App Store 顯示為準。購買後可使用同一 Apple ID 恢復購買。"
+    },
+    "search": {
+      "placeholder": "輸入你的問題",
+      "recent": "最近搜尋",
+      "clear": "清除",
+      "emptyTitle": "找不到完全相同的題目",
+      "emptyBody": "換一個較短的關鍵字，或從主題分類瀏覽。"
+    },
+    "library": {
+      "favoritesTitle": "我的收藏",
+      "recentTitle": "最近查看",
+      "emptyFavorites": "還沒有收藏。看到想保留的圖解時，點一下書籤。",
+      "emptyRecent": "你查看過的內容會出現在這裡。"
+    },
+    "errors": {
+      "contentLoad": "內容暫時無法載入。請重新開啟 App。",
+      "productLoad": "目前無法取得購買資訊。稍後再試。",
+      "videoLoad": "短片無法播放。請稍後再試。"
+    }
+  },
+  "variant": {
+    "appName": "旅行應急與海外自救英文全圖解",
+    "hook": "你不必英文很好，但要先會在出事時說對話。",
+    "homeHeroTitle": "你不必英文很好，但要先會在出事時說對話。",
+    "homeHeroSubtitle": "出國遇到狀況時，直接點圖就能說出正確求助英文。",
+    "popularSection": "先看最常見的困惑",
+    "recommendedVideoSection": "今天用一支短片看懂",
+    "categorySection": "8 大主題",
+    "featureTitle": "點擊播音與求助流程",
+    "featureBody": "每張情境卡提供正常／慢速語音、可放大英文句、關鍵資料欄與下一步流程。",
+    "safetyTitle": "使用前提醒",
+    "safetyBody": "緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。",
+    "onboarding": [
+      {
+        "title": "緊急時先說對一句",
+        "body": "點情境卡播放清楚英文，不必先翻完整句子。",
+        "cta": "下一步"
+      },
+      {
+        "title": "慢速／正常語速",
+        "body": "讓你先練習，也能直接給對方聽。",
+        "cta": "下一步"
+      },
+      {
+        "title": "官方求助優先",
+        "body": "App 是溝通輔助；危急時立刻聯絡當地救援。",
+        "cta": "開始使用"
+      }
+    ],
+    "paywall": {
+      "headline": "一次解鎖旅行應急與海外自救英文完整圖解",
+      "subheadline": "免費先看最痛問題，Pro 解鎖完整系統。",
+      "benefits": [
+        "200 張完整圖解",
+        "20 部微學習短片",
+        "8 大主題完整索引",
+        "點擊播音與求助流程"
+      ],
+      "primaryCTA": "一次解鎖 Pro",
+      "secondaryCTA": "恢復購買",
+      "disclaimer": "緊急時優先聯絡當地官方救援、警察、醫療或使領館；本 App 不保證所有地區流程相同。"
+    }
+  }
+}

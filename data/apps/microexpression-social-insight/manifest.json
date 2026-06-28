@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-06-25",
+  "rank": 4,
+  "name": "微表情與社交洞察全圖解",
+  "shortName": "社交洞察",
+  "slug": "microexpression-social-insight",
+  "bundleId": "com.jiang.visualguide.microexpression",
+  "productId": "com.jiang.visualguide.microexpression.pro.lifetime",
+  "positioning": "用表情、姿勢、視線、停頓與距離，提升社交判讀力。",
+  "hook": "你不是不會社交，你只是漏看了太多訊號。",
+  "targetUsers": [
+    "想提升社交敏銳度、會議觀察力、面談互動判斷力的人",
+    "常在聊天、會議、約會後反覆猜測的人"
+  ],
+  "purchaseMotivation": "我想看懂別人的反應線索。",
+  "visualSellingPoint": "臉部細節、姿勢、視線、群體距離拆解。",
+  "safeClaim": "教育與觀察參考，不保證讀心、測謊或預測行為，也不應用來歧視或監控他人。",
+  "theme": {
+    "primary": "冷灰",
+    "accent": "電光青",
+    "visual_language": "臉部局部放大、視線箭頭、站位圖、肢體角度標記"
+  },
+  "uniqueFeature": {
+    "id": "cue-hotspot-quiz",
+    "name": "線索熱點與二次確認測驗",
+    "description": "先點選臉、手、腳與距離的可觀察熱點，再選擇可能情境與安全回應。",
+    "views": [
+      "CueHotspotView",
+      "BaselineComparisonView",
+      "ContextQuizView"
+    ]
+  },
+  "coreFeatures": [
+    "部位式學習",
+    "同場景雙版本對照",
+    "群體站位圖",
+    "社交情境快速判讀",
+    "錯誤解讀提醒",
+    "線索熱點與二次確認測驗"
+  ],
+  "contentCounts": {
+    "diagrams": 200,
+    "freeDiagrams": 20,
+    "proDiagrams": 180,
+    "videos": 20,
+    "freeVideos": 3,
+    "proVideos": 17,
+    "socialVideos": 10
+  },
+  "categories": [
+    {
+      "id": "microexpression-social-insight-m01",
+      "appSlug": "microexpression-social-insight",
+      "title": "臉部微線索",
+      "order": 1,
+      "topicCount": 25,
+      "freeCount": 6,
+      "proCount": 19,
+      "iconSystemName": "message"
+    },
+    {
+      "id": "microexpression-social-insight-m02",
+      "appSlug": "microexpression-social-insight",
+      "title": "眼神與專注",
+      "order": 2,
+      "topicCount": 25,
+      "freeCount": 3,
+      "proCount": 22,
+      "iconSystemName": "person.2"
+    },
+    {
+      "id": "microexpression-social-insight-m03",
+      "appSlug": "microexpression-social-insight",
+      "title": "手勢與防備",
+      "order": 3,
+      "topicCount": 25,
+      "freeCount": 2,
+      "proCount": 23,
+      "iconSystemName": "arrow.left.and.right"
+    },
+    {
+      "id": "microexpression-social-insight-m04",
+      "appSlug": "microexpression-social-insight",
+      "title": "空間距離",
+      "order": 4,
+      "topicCount": 25,
+      "freeCount": 3,
+      "proCount": 22,
+      "iconSystemName": "heart"
+    },
+    {
+      "id": "microexpression-social-insight-m05",
+      "appSlug": "microexpression-social-insight",
+      "title": "群體互動",
+      "order": 5,
+      "topicCount": 25,
+      "freeCount": 3,
+      "proCount": 22,
+      "iconSystemName": "shield"
+    },
+    {
+      "id": "microexpression-social-insight-m06",
+      "appSlug": "microexpression-social-insight",
+      "title": "社交焦慮與防禦",
+      "order": 6,
+      "topicCount": 25,
+      "freeCount": 2,
+      "proCount": 23,
+      "iconSystemName": "snowflake"
+    },
+    {
+      "id": "microexpression-social-insight-m07",
+      "appSlug": "microexpression-social-insight",
+      "title": "緊張情境",
+      "order": 7,
+      "topicCount": 25,
+      "freeCount": 1,
+      "proCount": 24,
+      "iconSystemName": "exclamationmark.triangle"
+    },
+    {
+      "id": "microexpression-social-insight-m08",
+      "appSlug": "microexpression-social-insight",
+      "title": "抗拒/討好情境",
+      "order": 8,
+      "topicCount": 25,
+      "freeCount": 0,
+      "proCount": 25,
+      "iconSystemName": "wrench"
+    }
+  ],
+  "monetization": {
+    "download": "free",
+    "iapType": "non-consumable",
+    "targetPriceTWD": 299,
+    "priceSourceOfTruth": "StoreKit Product.displayPrice",
+    "restorePurchasesRequired": true
+  },
+  "releaseStrategy": {
+    "pilotApp": false,
+    "doNotShipAsTemplateClone": true,
+    "requiresUniqueFeatureAndMetadata": true,
+    "recommended": "先用 Debug 變體切換驗證共用核心；Release 每個 target 只帶單一 appSlug 與獨立互動功能。"
+  }
+}

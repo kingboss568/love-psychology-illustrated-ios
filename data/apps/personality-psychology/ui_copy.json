@@ -1,0 +1,101 @@
+{
+  "common": {
+    "navigation": {
+      "home": "首頁",
+      "categories": "主題",
+      "search": "搜尋",
+      "library": "收藏",
+      "pro": "Pro"
+    },
+    "actions": {
+      "open": "查看圖解",
+      "play": "播放短片",
+      "favorite": "加入收藏",
+      "unfavorite": "移除收藏",
+      "share": "分享",
+      "retry": "再試一次",
+      "close": "關閉",
+      "continue": "繼續",
+      "back": "返回"
+    },
+    "access": {
+      "freeBadge": "免費",
+      "proBadge": "Pro",
+      "lockedTitle": "這是 Pro 內容",
+      "lockedBody": "一次解鎖完整圖解、短片與主題索引。",
+      "unlock": "解鎖 Pro"
+    },
+    "purchase": {
+      "title": "一次解鎖完整內容",
+      "body": "20 張免費圖解與 3 部免費短片可直接使用；Pro 解鎖其餘 180 張圖解與 17 部短片。",
+      "cta": "一次解鎖 Pro",
+      "restore": "恢復購買",
+      "restoring": "正在恢復購買…",
+      "success": "Pro 已解鎖",
+      "cancelled": "已取消購買",
+      "priceFallback": "價格載入中",
+      "legal": "實際價格以 App Store 顯示為準。購買後可使用同一 Apple ID 恢復購買。"
+    },
+    "search": {
+      "placeholder": "輸入你的問題",
+      "recent": "最近搜尋",
+      "clear": "清除",
+      "emptyTitle": "找不到完全相同的題目",
+      "emptyBody": "換一個較短的關鍵字，或從主題分類瀏覽。"
+    },
+    "library": {
+      "favoritesTitle": "我的收藏",
+      "recentTitle": "最近查看",
+      "emptyFavorites": "還沒有收藏。看到想保留的圖解時，點一下書籤。",
+      "emptyRecent": "你查看過的內容會出現在這裡。"
+    },
+    "errors": {
+      "contentLoad": "內容暫時無法載入。請重新開啟 App。",
+      "productLoad": "目前無法取得購買資訊。稍後再試。",
+      "videoLoad": "短片無法播放。請稍後再試。"
+    }
+  },
+  "variant": {
+    "appName": "人格心理學全圖解",
+    "hook": "不是把人貼標籤，是讓你少誤會、少內耗。",
+    "homeHeroTitle": "不是把人貼標籤，是讓你少誤會、少內耗。",
+    "homeHeroSubtitle": "用場景與反應模型，幫你理解不同人格怎麼思考與互動。",
+    "popularSection": "先看最常見的困惑",
+    "recommendedVideoSection": "今天用一支短片看懂",
+    "categorySection": "8 大主題",
+    "featureTitle": "同場景多反應比較",
+    "featureBody": "在同一事件中切換不同偏好、壓力反應與溝通需求，建立差異而非分類定罪。",
+    "safetyTitle": "使用前提醒",
+    "safetyBody": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。",
+    "onboarding": [
+      {
+        "title": "人格是光譜，不是盒子",
+        "body": "看偏好與情境變化，不急著定型。",
+        "cta": "下一步"
+      },
+      {
+        "title": "同一場景，多種合理反應",
+        "body": "比較資訊、時間、空間與支持需求。",
+        "cta": "下一步"
+      },
+      {
+        "title": "用理解改善互動",
+        "body": "不作診斷，也不把標籤當藉口。",
+        "cta": "開始使用"
+      }
+    ],
+    "paywall": {
+      "headline": "一次解鎖人格心理學完整圖解",
+      "subheadline": "免費先看最痛問題，Pro 解鎖完整系統。",
+      "benefits": [
+        "200 張完整圖解",
+        "20 部微學習短片",
+        "8 大主題完整索引",
+        "同場景多反應比較"
+      ],
+      "primaryCTA": "一次解鎖 Pro",
+      "secondaryCTA": "恢復購買",
+      "disclaimer": "教育與自我理解用途，不作心理診斷、不把人格框架當成定罪或排除他人的依據。"
+    }
+  }
+}

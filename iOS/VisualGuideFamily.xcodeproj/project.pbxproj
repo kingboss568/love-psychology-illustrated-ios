@@ -12,11 +12,17 @@
 		1760486A43BF392E7128AC7B /* UIKitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F78CAA8E890FC41DBC16468 /* UIKitApp.swift */; };
 		226E181E374C136590C6B9D6 /* ContentModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA85F1A6E5E47D77D39C0694 /* ContentModels.swift */; };
 		333674070E1B9DBD7743E67B /* VisualGuideCore.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C884F23983F797CF3EA554EA /* VisualGuideCore.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		3E57DEA714BFCFEA7219126E /* Configuration.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 9D67A069DF367BB09053A085 /* Configuration.storekit */; };
 		4406016153FBD03659F9F62D /* ContentRepositoryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB3FE89541C198F346363261 /* ContentRepositoryTests.swift */; };
+		56414F7D5998A6AB74B755B2 /* DiagramAssets in Resources */ = {isa = PBXBuildFile; fileRef = 8EE1A8559A37C08888AF6A5D /* DiagramAssets */; };
+		660157865725668E5B10960B /* apps in Resources */ = {isa = PBXBuildFile; fileRef = B78362A15D1F63663F1374E0 /* apps */; };
+		6D56B55FE7700D8701F398D2 /* apps_manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = DB326A415C06A22212A4B676 /* apps_manifest.json */; };
 		8D8D3E3F36E1496A6D147860 /* VisualGuideCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C884F23983F797CF3EA554EA /* VisualGuideCore.framework */; };
 		A8A0DEB4A28595F32CF7BB22 /* AppVariant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC1323658CFB513763B1842 /* AppVariant.swift */; };
+		B0CE877BE8142D54F52318FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08D533EE941A93312E25EF10 /* Assets.xcassets */; };
 		BEB8A6DC929E59268B08E39F /* PurchaseStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE8BAF5FC43403B452CD2733 /* PurchaseStore.swift */; };
 		C2E8F4BD0320F09C1719736F /* BundleContentRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2031FBD96789C9B11F3D5A17 /* BundleContentRepository.swift */; };
+		E09A53CBEAFA08DC6CA3C90C /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 3BE0854D6680B824F9C24906 /* PrivacyInfo.xcprivacy */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,15 +68,21 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		08D533EE941A93312E25EF10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2031FBD96789C9B11F3D5A17 /* BundleContentRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleContentRepository.swift; sourceTree = "<group>"; };
+		3BE0854D6680B824F9C24906 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		41DDC140D69191B59561558E /* VisualGuideCore-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "VisualGuideCore-Info.plist"; sourceTree = "<group>"; };
 		4F78CAA8E890FC41DBC16468 /* UIKitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitApp.swift; sourceTree = "<group>"; };
+		8EE1A8559A37C08888AF6A5D /* DiagramAssets */ = {isa = PBXFileReference; lastKnownFileType = folder; name = DiagramAssets; path = LovePsychologyApp/Resources/DiagramAssets; sourceTree = SOURCE_ROOT; };
 		8FC1323658CFB513763B1842 /* AppVariant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppVariant.swift; sourceTree = "<group>"; };
+		9D67A069DF367BB09053A085 /* Configuration.storekit */ = {isa = PBXFileReference; path = Configuration.storekit; sourceTree = "<group>"; };
+		B78362A15D1F63663F1374E0 /* apps */ = {isa = PBXFileReference; lastKnownFileType = folder; name = apps; path = ../data/apps; sourceTree = SOURCE_ROOT; };
 		BA18BE03ED2B8800C67442B4 /* VisualGuideCoreTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = VisualGuideCoreTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C884F23983F797CF3EA554EA /* VisualGuideCore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VisualGuideCore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8908B6A3A8581930FA6549E /* LovePsychology.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = LovePsychology.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB3FE89541C198F346363261 /* ContentRepositoryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentRepositoryTests.swift; sourceTree = "<group>"; };
 		DA85F1A6E5E47D77D39C0694 /* ContentModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentModels.swift; sourceTree = "<group>"; };
+		DB326A415C06A22212A4B676 /* apps_manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = apps_manifest.json; sourceTree = "<group>"; };
 		DE8BAF5FC43403B452CD2733 /* PurchaseStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurchaseStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -122,6 +134,14 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		9463BCD994D1EF70DF1D83AE /* LovePsychologyApp */ = {
+			isa = PBXGroup;
+			children = (
+				08D533EE941A93312E25EF10 /* Assets.xcassets */,
+			);
+			path = LovePsychologyApp;
+			sourceTree = "<group>";
+		};
 		981A927BC9FCADC6B27A8815 /* VisualGuideCoreTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -146,16 +166,40 @@
 			path = LovePsychologyUIKit;
 			sourceTree = "<group>";
 		};
+		E608296EFFE1C719B69D1C74 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9D67A069DF367BB09053A085 /* Configuration.storekit */,
+				3BE0854D6680B824F9C24906 /* PrivacyInfo.xcprivacy */,
+			);
+			name = Resources;
+			path = LovePsychologyApp/Resources;
+			sourceTree = "<group>";
+		};
 		EA3015C1CC4D63CCA509CB28 = {
 			isa = PBXGroup;
 			children = (
+				B78362A15D1F63663F1374E0 /* apps */,
+				8EE1A8559A37C08888AF6A5D /* DiagramAssets */,
 				0E3A77E2F22A7BAC8AEBB1C0 /* AppCore */,
 				0EC0852D90ECF7FD7328AB74 /* ContentKit */,
+				F456805D93488D918D562B6D /* data */,
+				9463BCD994D1EF70DF1D83AE /* LovePsychologyApp */,
 				9B6B1FA120B3DE05144C9367 /* LovePsychologyUIKit */,
 				99F45E55D976E21F2E4D25CA /* PurchaseKit */,
+				E608296EFFE1C719B69D1C74 /* Resources */,
 				981A927BC9FCADC6B27A8815 /* VisualGuideCoreTests */,
 				257B1B0EE6FA59D33446DCB4 /* Products */,
 			);
+			sourceTree = "<group>";
+		};
+		F456805D93488D918D562B6D /* data */ = {
+			isa = PBXGroup;
+			children = (
+				DB326A415C06A22212A4B676 /* apps_manifest.json */,
+			);
+			name = data;
+			path = ../data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -186,6 +230,7 @@
 			buildConfigurationList = ED19B240549D71E9DC53FC97 /* Build configuration list for PBXNativeTarget "LovePsychology" */;
 			buildPhases = (
 				C7452AE2230C4DE9D3A950FE /* Sources */,
+				9061B9A6CEC9A1C31336116A /* Resources */,
 				1E605603BA6B42BB030B875D /* Frameworks */,
 				AEBF8EE36FC39CE1321D06F6 /* Embed Frameworks */,
 			);
@@ -253,6 +298,22 @@
 		};
 /* End PBXProject section */
 
+/* Begin PBXResourcesBuildPhase section */
+		9061B9A6CEC9A1C31336116A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B0CE877BE8142D54F52318FD /* Assets.xcassets in Resources */,
+				3E57DEA714BFCFEA7219126E /* Configuration.storekit in Resources */,
+				56414F7D5998A6AB74B755B2 /* DiagramAssets in Resources */,
+				E09A53CBEAFA08DC6CA3C90C /* PrivacyInfo.xcprivacy in Resources */,
+				660157865725668E5B10960B /* apps in Resources */,
+				6D56B55FE7700D8701F398D2 /* apps_manifest.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		94B6814AF556EE085213AEC6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -310,6 +371,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.jiang.visualguide.lovepsychology;
+				PRODUCT_MODULE_NAME = LovePsychology;
 				PRODUCT_NAME = "戀愛心理全圖解";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -475,6 +537,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.jiang.visualguide.lovepsychology;
+				PRODUCT_MODULE_NAME = LovePsychology;
 				PRODUCT_NAME = "戀愛心理全圖解";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";

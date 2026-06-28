@@ -170,10 +170,12 @@ final class RootTabController: UITabBarController {
         }
         if let diagramValue = argumentValue(named: "--screenshot-diagram", in: args),
            let order = Int(diagramValue) {
+            guard !model.content.diagrams.isEmpty else { return }
             let index = min(max(order - 1, 0), model.content.diagrams.count - 1)
             let diagram = model.content.diagrams[index]
-            let navigation = selectedViewController as? UINavigationController
-            DispatchQueue.main.async {
+            selectedIndex = 1
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.35) {
+                let navigation = self.viewControllers?[self.selectedIndex] as? UINavigationController
                 navigation?.pushViewController(DiagramDetailViewController(model: self.model, diagram: diagram), animated: false)
             }
         }
@@ -242,7 +244,7 @@ final class HomeViewController: BaseViewController, UICollectionViewDataSource, 
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        title = "戀愛心理全圖解"
+        navigationItem.title = "戀愛心理全圖解"
         configureScroll()
         build()
     }
@@ -298,8 +300,8 @@ final class HomeViewController: BaseViewController, UICollectionViewDataSource, 
         card.addSubview(image)
 
         let title = UILabel()
-        title.text = "他不是難懂，你只是還沒看懂這段關係"
-        title.font = AppStyle.font(24, weight: .bold)
+        title.text = "看懂互動模式，不再只靠猜"
+        title.font = AppStyle.font(22, weight: .bold)
         title.textColor = AppStyle.ink
         title.numberOfLines = 2
 
@@ -322,9 +324,9 @@ final class HomeViewController: BaseViewController, UICollectionViewDataSource, 
             image.heightAnchor.constraint(equalToConstant: 168),
             text.leadingAnchor.constraint(equalTo: card.leadingAnchor, constant: 16),
             text.trailingAnchor.constraint(equalTo: card.trailingAnchor, constant: -16),
+            text.topAnchor.constraint(equalTo: image.bottomAnchor, constant: 12),
             text.bottomAnchor.constraint(equalTo: card.bottomAnchor, constant: -16),
-            text.topAnchor.constraint(greaterThanOrEqualTo: image.topAnchor, constant: 20),
-            card.heightAnchor.constraint(equalToConstant: 230)
+            card.heightAnchor.constraint(equalToConstant: 258)
         ])
         return card
     }
@@ -464,8 +466,8 @@ class BoardViewController: BaseViewController, UICollectionViewDataSource, UICol
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        if title == nil {
-            title = "圖卡快覽"
+        if navigationItem.title == nil {
+            navigationItem.title = "圖卡快覽"
         }
         let search = UISearchBar()
         search.placeholder = "搜尋你的問題"
@@ -527,7 +529,7 @@ final class CategoriesViewController: BaseViewController, UITableViewDataSource,
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        title = "八大主題"
+        navigationItem.title = "八大主題"
         table.backgroundColor = AppStyle.paper
         table.dataSource = self
         table.delegate = self
@@ -566,7 +568,7 @@ final class CategoryDetailViewController: BoardViewController {
         super.init(model: model, source: { diagrams in
             diagrams.filter { $0.moduleId == category.id }
         })
-        title = category.title
+        navigationItem.title = category.title
     }
 }
 
@@ -575,7 +577,7 @@ final class ToolsViewController: BaseViewController, UITableViewDataSource, UITa
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        title = "工具箱 100"
+        navigationItem.title = "工具箱 100"
         table.backgroundColor = AppStyle.paper
         table.dataSource = self
         table.delegate = self
@@ -631,7 +633,7 @@ final class PaywallViewController: BaseViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        title = "Pro / 解鎖完整圖解"
+        navigationItem.title = "Pro / 解鎖完整圖解"
         stack.axis = .vertical
         stack.spacing = 14
         stack.translatesAutoresizingMaskIntoConstraints = false
@@ -726,7 +728,7 @@ final class DiagramDetailViewController: BaseViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        title = diagram.title
+        navigationItem.title = diagram.title
         let scroll = UIScrollView()
         let stack = UIStackView()
         stack.axis = .vertical

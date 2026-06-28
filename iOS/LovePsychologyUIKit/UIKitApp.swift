@@ -118,6 +118,7 @@ final class AppModel {
 
 final class RootTabController: UITabBarController {
     private let model = AppModel.shared
+    private var didApplyScreenshotArguments = false
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -140,12 +141,50 @@ final class RootTabController: UITabBarController {
         }
     }
 
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        guard !didApplyScreenshotArguments else { return }
+        didApplyScreenshotArguments = true
+        applyScreenshotArguments()
+    }
+
     private func nav(_ root: UIViewController, _ title: String, _ symbol: String) -> UIViewController {
         root.title = title
         let nav = UINavigationController(rootViewController: root)
         nav.navigationBar.prefersLargeTitles = false
         nav.tabBarItem = UITabBarItem(title: title, image: UIImage(systemName: symbol), selectedImage: UIImage(systemName: symbol))
         return nav
+    }
+
+    private func applyScreenshotArguments() {
+        let args = ProcessInfo.processInfo.arguments
+        if args.contains("--screenshot-paywall") {
+            selectedIndex = 4
+            return
+        }
+        if let tabValue = argumentValue(named: "--screenshot-tab", in: args),
+           let tab = Int(tabValue),
+           tab >= 0,
+           tab < (viewControllers?.count ?? 0) {
+            selectedIndex = tab
+        }
+        if let diagramValue = argumentValue(named: "--screenshot-diagram", in: args),
+           let order = Int(diagramValue) {
+            let index = min(max(order - 1, 0), model.content.diagrams.count - 1)
+            let diagram = model.content.diagrams[index]
+            let navigation = selectedViewController as? UINavigationController
+            DispatchQueue.main.async {
+                navigation?.pushViewController(DiagramDetailViewController(model: self.model, diagram: diagram), animated: false)
+            }
+        }
+    }
+
+    private func argumentValue(named name: String, in args: [String]) -> String? {
+        if let inline = args.first(where: { $0.hasPrefix(name + "=") }) {
+            return String(inline.dropFirst(name.count + 1))
+        }
+        guard let index = args.firstIndex(of: name), args.indices.contains(index + 1) else { return nil }
+        return args[index + 1]
     }
 }
 
@@ -409,17 +448,25 @@ final class HomeViewController: BaseViewController, UICollectionViewDataSource, 
 
 class BoardViewController: BaseViewController, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout, UISearchBarDelegate {
     private lazy var collection = UICollectionView(frame: .zero, collectionViewLayout: UICollectionViewFlowLayout())
+    private let source: ([Diagram]) -> [Diagram]
     private var query: String
-    private var diagrams: [Diagram] { query.isEmpty ? model.content.diagrams : model.content.searchDiagrams(query) }
+    private var diagrams: [Diagram] {
+        let scoped = source(model.content.diagrams)
+        guard !query.isEmpty else { return scoped }
+        return scoped.filter { $0.matches(query) }
+    }
 
-    init(model: AppModel, initialQuery: String = "") {
+    init(model: AppModel, initialQuery: String = "", source: @escaping ([Diagram]) -> [Diagram] = { $0 }) {
         query = initialQuery
+        self.source = source
         super.init(model: model)
     }
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        title = "圖卡快覽"
+        if title == nil {
+            title = "圖卡快覽"
+        }
         let search = UISearchBar()
         search.placeholder = "搜尋你的問題"
         search.text = query
@@ -516,7 +563,9 @@ final class CategoriesViewController: BaseViewController, UITableViewDataSource,
 
 final class CategoryDetailViewController: BoardViewController {
     init(model: AppModel, category: GuideCategory) {
-        super.init(model: model, initialQuery: category.title)
+        super.init(model: model, source: { diagrams in
+            diagrams.filter { $0.moduleId == category.id }
+        })
         title = category.title
     }
 }

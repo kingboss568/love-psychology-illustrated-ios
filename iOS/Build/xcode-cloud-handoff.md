@@ -21,7 +21,11 @@ ASC status on 2026-06-29:
 - App record exists.
 - Version `1.0` is `PREPARE_FOR_SUBMISSION`.
 - Metadata and screenshots are uploaded.
+- Primary category is `LIFESTYLE`.
+- Age rating declaration is completed.
+- App Review detail is created.
 - Pro IAP `6785268820` is `READY_TO_SUBMIT`.
+- App Privacy data collection is still not published; the public Connect API does not support creating the `DATA_NOT_COLLECTED` record, and the Iris endpoint requires authenticated browser cookies.
 - App Store Connect API rejected `POST /v1/ciProducts` with: resource `ciProducts` does not allow `CREATE`; allowed operations are `DELETE`, `GET_COLLECTION`, `GET_INSTANCE`.
 
 Therefore first Xcode Cloud product/workflow setup must be completed in App Store Connect or Xcode UI after the Mac is unlocked.

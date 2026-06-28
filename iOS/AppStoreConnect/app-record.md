@@ -24,6 +24,16 @@ Metadata: uploaded by fastlane on 2026-06-29. Fastlane hit a `No data` error whi
 
 Screenshots: uploaded by fastlane on 2026-06-29. iPhone 6.9 and iPad 13 each have 6 screenshots.
 
+Category: `LIFESTYLE`, verified by ASC API on 2026-06-29.
+
+Age rating declaration: completed by ASC API on 2026-06-29 with no collected-risk content flags, no unrestricted web access, no chat, no user-generated content, no gambling, no advertising.
+
+App Review detail: created by ASC API on 2026-06-29.
+
+- Contact: Yu Shiung Jiang, `jushiung@gmail.com`, `+886952413678`
+- Demo account required: false
+- Notes: free download with 20 free diagrams; Pro unlocks 200 diagrams and 100 tools; educational/self-reflection content, not diagnosis or therapy.
+
 Pro IAP:
 
 - ID: `6785268820`
@@ -34,4 +44,4 @@ Pro IAP:
 - State: `READY_TO_SUBMIT`
 - Review screenshot: uploaded and processed complete
 
-Required next gate: configure Xcode Cloud archive workflow, run Cloud build, attach the resulting build and IAP to the version submission, complete privacy/review fields, then submit.
+Required next gate: complete App Privacy data-collection publication in ASC UI, configure Xcode Cloud archive workflow, run Cloud build, attach the resulting build and IAP to the version submission, then submit.

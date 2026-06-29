@@ -18,7 +18,7 @@ Verified source: App Store Connect API returned one app for `com.jiang.visualgui
 
 Version: `1.0`
 
-Version state: `PREPARE_FOR_SUBMISSION`
+Version state: `READY_FOR_REVIEW`
 
 Metadata: uploaded by fastlane on 2026-06-29. Fastlane hit a `No data` error while reading an empty review-detail object, but ASC API verification showed the `zh-Hant` description and keywords were written to version `1.0`.
 
@@ -42,6 +42,17 @@ Existing build:
 - Export compliance: `usesNonExemptEncryption=false`
 - Not selected into App Store version `1.0`; do not treat as final unless Xcode Cloud provenance is confirmed or the user explicitly allows non-Cloud build selection.
 
+Selected Xcode Cloud build:
+
+- Xcode Cloud product: `926f1ab4-637d-403a-92c2-1415f405fc64` (`LovePsychology`)
+- Workflow: `0C943171-1563-4738-9E7A-EAF59ADC9A83` (`Archive - App Store`)
+- Cloud run: `e7e77020-74b1-47f7-9e6e-a0eccd14e7b3`, succeeded on 2026-06-29
+- Build ID: `45cf97ef-0914-4643-9c7e-76d8b91a9d2e`
+- Build number: `7`
+- State: `VALID`, `APP_STORE_ELIGIBLE`
+- Export compliance: `usesNonExemptEncryption=false`
+- Selected into App Store version `1.0`
+
 Pro IAP:
 
 - ID: `6785268820`
@@ -52,4 +63,13 @@ Pro IAP:
 - State: `READY_TO_SUBMIT`
 - Review screenshot: uploaded and processed complete
 
-Required next gate: complete App Privacy data-collection publication in ASC UI, configure Xcode Cloud archive workflow, run Cloud build, attach the resulting Cloud build and IAP to the version submission, then submit.
+App Privacy: published in ASC UI as no data collected.
+
+Review submission:
+
+- ID: `a11a1ea6-4757-4461-a365-2385c810ae3b`
+- State: `READY_FOR_REVIEW`
+- App version item: added
+- IAP item: not yet added. Public ASC API currently rejects `reviewSubmissionItems` relationships named `inAppPurchaseV2` / `inAppPurchase`; first IAP selection must be completed in ASC UI.
+
+Required next gate: sign in to App Store Connect UI, select Pro IAP `6785268820` in the version page "In-App Purchases and Subscriptions" section, verify it appears in the review summary with the app version, then submit review submission `a11a1ea6-4757-4461-a365-2385c810ae3b`.
